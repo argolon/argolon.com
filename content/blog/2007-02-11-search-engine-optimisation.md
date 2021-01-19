@@ -28,7 +28,7 @@ So the basic facts about this blog:
 * I tend not to see any other blog as competition but as members of the same/similar conversations. Some of those are:
 
 	    * [Eirepreneur](http://www.eirepreneur.com)
-	    * [Web2Ireland](http://www.web2ireland.org/)
+	    * [Web2Ireland](http://web2ireland.org/)
 	    * [Keith Bohanna](http://bohanna.typepad.com/)
 	    * [Bernie Goldbach](http://irish.typepad.com/)
 	    * [Tom Raftery](http://tomrafteryit.net/)

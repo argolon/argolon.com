@@ -17,7 +17,7 @@ tags:
 
 [The SBP](http://www.thepost.ie/) has an excellent supplement about Cork in today's edition. Hopefully it'll make it onto their web-site at some stage. Caroline Allen dedicated the entire back page to start-ups and include quotes from CorkBIC, Rubicon Centre, it@cork and Argolon/[LouderVoice](http://www.loudervoice.com/). The full piece is well worth a read, particularly considering the same message was coming loud and clear from us all. Hopefully someone in Government will read it and get that message!
 
-Here's a rough scan of my thoughts as a start-up founder, Genesis alumni, organiser of [Cork OpenCoffee](http://www.corkopencoffee.org/) and editor of [Web2Ireland.org](http://www.web2ireland.org/).
+Here's a rough scan of my thoughts as a start-up founder, Genesis alumni, organiser of [Cork OpenCoffee](http://www.corkopencoffee.org/) and editor of [Web2Ireland.org](http://web2ireland.org/).
 
 
 ![sbp03](https://argolon.com/wp-content/uploads/2009/06/sbp03.png)

@@ -14,10 +14,10 @@ tags:
 - web2ireland
 ---
 
-The first Facebook Garage Ireland was [a massive success](http://www.web2ireland.org/2009/03/07/rte-news-on-api-wars-facebook-garage/) with 150+ people in attendance and a bunch of great talks and demos.
+The first Facebook Garage Ireland was [a massive success](http://web2ireland.org/2009/03/07/rte-news-on-api-wars-facebook-garage/) with 150+ people in attendance and a bunch of great talks and demos.
 
 We're planning the next one for June and have put the call out for speakers/demoers.
 
 If you are doing anything with FB Apps or Connect and want to let people know, then grab the opportunity. Remember, we had RTE at the last one and made the news!
 
-All details over on the [Web2Ireland blog](http://www.web2ireland.org/2009/05/12/facebook-garage-ireland-next-edition/).
+All details over on the [Web2Ireland blog](http://web2ireland.org/2009/05/12/facebook-garage-ireland-next-edition/).

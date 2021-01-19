@@ -17,7 +17,7 @@ tags:
 Got a great business idea? Think you can put together a 5-page business plan in the next 5 days? The [IQPrize](http://www.iqprize.ie/) is €10k for the best biz plan, with absolutely no strings attached.
 
 
-[![](http://www.web2ireland.org/wp-content/uploads/2009/03/iqprize.jpg)
+[![](http://web2ireland.org/wp-content/uploads/2009/03/iqprize.jpg)
 ](http://www.iqprize.ie/)
 
 

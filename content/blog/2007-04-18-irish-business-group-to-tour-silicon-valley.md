@@ -27,7 +27,7 @@ Conor OÃ¢â‚¬â„¢Neill of LouderVoice is a strong believer in the abilit
 
 It is hoped that the group will meet some of the big names of Silicon Valley as well as host an Irish night where Irish businesses will demo what they are doing to the Silicon Valley executives, venture capitalists and Irish ex-pats. So far 17 Irish companies have signed up for the tour but the organisers stress it is open to everyone and theyÃ¢â‚¬â„¢d welcome anyone who wants to come along.
 
-More details are available on the Web 2.0 Ireland website at: [www.web2ireland.org](http://www.web2ireland.org)
+More details are available on the Web 2.0 Ireland website at: [web2ireland.org](http://web2ireland.org)
 
 Irish Web companies have been getting a lot of International attention of late with a detailed writeup about them on tech website ReadWriteWeb: [showing what the Irish have to offer](http://www.readwriteweb.com/archives/top_irish_web_apps.php).
 

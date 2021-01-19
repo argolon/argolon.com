@@ -20,4 +20,4 @@ If you like what we are doing over on [LouderVoice](http://www.loudervoice.com/)
 
  <iframe src="http://mashable.polldaddy.com/widget/?f=f&c=15&cn=www.loudervoice.com" height="330" width="350" marginwidth="0" marginheight="0" frameborder="0"></iframe> [Mashable Open Web Awards](http://mashable.com/2008/11/05/open-web-awards/)
 
-Don't forget to vote for all your favourite Irish WebApps, many of which can be found over at [Web2Ireland.org](http://www.web2ireland.org/).
+Don't forget to vote for all your favourite Irish WebApps, many of which can be found over at [Web2Ireland.org](http://web2ireland.org/).

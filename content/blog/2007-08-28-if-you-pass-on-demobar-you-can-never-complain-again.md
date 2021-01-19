@@ -22,7 +22,7 @@ tags:
 
 OK here's the deal. 
 
-On Thursday September 13th, an event called [DemoBar](http://www.web2ireland.org/2007/08/21/web2ireland-demobar-fowa-roadtrip-web2ireland-week/) is being held. This is a chance for 10 web startups to demo their product to an audience consisting of their peers, the press, Irish investors, UK investors, Enterprise Ireland, the Future of WebApps conference organisers and a bunch of other people.
+On Thursday September 13th, an event called [DemoBar](http://web2ireland.org/2007/08/21/web2ireland-demobar-fowa-roadtrip-web2ireland-week/) is being held. This is a chance for 10 web startups to demo their product to an audience consisting of their peers, the press, Irish investors, UK investors, Enterprise Ireland, the Future of WebApps conference organisers and a bunch of other people.
 
 Not only that but we'll be announcing shortly on the [Web2Ireland.org](http://web2ireland.org/) site that EI is arranging for a pitch training session that afternoon for both [Paddy's Valley](http://paddysvalley.org/) attendees and DemoBar participants. As a result you will be going into DemoBar ready to nail the audience with a killer pitch.
 
