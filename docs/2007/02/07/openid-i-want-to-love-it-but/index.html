@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="I&amp;rsquo;ve followed a lot of the happenings with OpenID over the past nine months or so. I signed up to a few of the providers (Verisignlabs and MyOpenID) and I used it successfully to log on to Zooomr.
+Two announcements caught my eye since yesterday. First Microsoft announced they are going to support it - well done Kim Cameron and gang. Second, the ClaimID guys have announced a change of direction and they are going to be an OpenID provider too." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://argolon.com/2007/02/07/openid-i-want-to-love-it-but/" />
+
+
+    <title>
+        
+            OpenID, I want to love it but... :: Argolon Solutions  — Hello Friend NG Theme
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="https://argolon.com/main.d7bdd8ee18bfbf4c605488a7e5b1b92cd980dfeed2bdaeab4dd5e931a7a78bc0.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://argolon.com/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://argolon.com/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://argolon.com/favicon-16x16.png">
+    <link rel="manifest" href="https://argolon.com/site.webmanifest">
+    <link rel="mask-icon" href="https://argolon.com/safari-pinned-tab.svg" color="#1b1c1d">
+    <link rel="shortcut icon" href="https://argolon.com/favicon.ico">
+    <meta name="msapplication-TileColor" content="#1b1c1d">
+    <meta name="theme-color" content="#1b1c1d">
+
+
+
+<meta itemprop="name" content="OpenID, I want to love it but...">
+<meta itemprop="description" content="I&rsquo;ve followed a lot of the happenings with OpenID over the past nine months or so. I signed up to a few of the providers (Verisignlabs and MyOpenID) and I used it successfully to log on to Zooomr.
+Two announcements caught my eye since yesterday. First Microsoft announced they are going to support it - well done Kim Cameron and gang. Second, the ClaimID guys have announced a change of direction and they are going to be an OpenID provider too.">
+<meta itemprop="datePublished" content="2007-02-07T22:45:12+00:00" />
+<meta itemprop="dateModified" content="2007-02-07T22:45:12+00:00" />
+<meta itemprop="wordCount" content="408">
+<meta itemprop="image" content="https://argolon.com"/>
+
+
+
+<meta itemprop="keywords" content="" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://argolon.com"/>
+
+<meta name="twitter:title" content="OpenID, I want to love it but..."/>
+<meta name="twitter:description" content="I&rsquo;ve followed a lot of the happenings with OpenID over the past nine months or so. I signed up to a few of the providers (Verisignlabs and MyOpenID) and I used it successfully to log on to Zooomr.
+Two announcements caught my eye since yesterday. First Microsoft announced they are going to support it - well done Kim Cameron and gang. Second, the ClaimID guys have announced a change of direction and they are going to be an OpenID provider too."/>
+
+
+
+
+    <meta property="og:title" content="OpenID, I want to love it but..." />
+<meta property="og:description" content="I&rsquo;ve followed a lot of the happenings with OpenID over the past nine months or so. I signed up to a few of the providers (Verisignlabs and MyOpenID) and I used it successfully to log on to Zooomr.
+Two announcements caught my eye since yesterday. First Microsoft announced they are going to support it - well done Kim Cameron and gang. Second, the ClaimID guys have announced a change of direction and they are going to be an OpenID provider too." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://argolon.com/2007/02/07/openid-i-want-to-love-it-but/" />
+<meta property="og:image" content="https://argolon.com"/>
+<meta property="article:published_time" content="2007-02-07T22:45:12+00:00" />
+<meta property="article:modified_time" content="2007-02-07T22:45:12+00:00" />
+
+
+
+
+    <meta property="article:section" content="Technical" />
+
+    <meta property="article:section" content="Web20" />
+
+
+
+    <meta property="article:published_time" content="2007-02-07 22:45:12 &#43;0000 GMT" />
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://argolon.com/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">&gt;</span>
+            <span class="logo__text">$ cd /home/</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://argolon.com/about/">About</a></li><li><a href="https://argolon.com/blog/">Blog</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://argolon.com/2007/02/07/openid-i-want-to-love-it-but/">OpenID, I want to love it but&hellip;</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                <p>I&rsquo;ve followed a lot of the happenings with OpenID over the past nine months or so. I signed up to a few of the providers (Verisignlabs and MyOpenID) and I used it successfully to log on to Zooomr.</p>
+<p>Two announcements caught my eye since yesterday. First Microsoft announced they are going to support it - well done Kim Cameron and gang. Second, the <a href="http://www.claimid.com/">ClaimID</a> guys have <a href="http://blog.claimid.com/2007/02/some-changes-at-claimid/">announced a change of direction</a> and they are going to be an OpenID provider too.</p>
+<p>So, by my reckoning we have the following providers of OpenID:</p>
+<ul>
+<li>Verisign</li>
+<li>MyOpenID</li>
+<li>Typekey</li>
+<li>Technorati</li>
+<li>ClaimID</li>
+<li>Who else?</li>
+</ul>
+<p>Now for the important bit - useful sites that let you login using your OpenID credentials. Emmmmmmmmmm</p>
+<ul>
+<li>Zooomr</li>
+<li>Ma.gnolia</li>
+<li>Jyte</li>
+<li>LiveJournal</li>
+<li>Annnnnnnnnddddddddd?</li>
+</ul>
+<p>Is the balance ever so slightly off here? Should the second list not be in the thousands?</p>
+<p>Even worse, whilst Technorati are an OpenID provider, they won&rsquo;t let you use OpenID to log on to their site. Not only that, but as with so much of Technorati recently (and it pains me to say it as I love them), I couldn&rsquo;t use my Technorati profile to log on to Jyte (&ldquo;There was an error with the request. Please try again later.&quot;)</p>
+<p>On the upside, I&rsquo;ve always been a big fan of Fred and the ClaimID guys and one of their new features is wonderful. By adding two lines to the header of my various blogs, I can now login to OpenID-enabled sites using <a href="https://www.argolon.com">https://www.argolon.com</a> or <a href="http://blog.loudervoice.com">http://blog.loudervoice.com</a>. Now I don&rsquo;t even have to remember one URL. I am the URL. Aside: This worked on Ma.gnolia and Jyte but not on Zooomr.</p>
+<p>The key feature ALL OpenID-enabld sites need to support is the ability to let me login using OpenID and then let me associate an existing non-OpenID login with that identity. Ma.gnolia and Jyte both do this slickly. It doesn&rsquo;t even seem to be possible in LiveJournal, when I logged in using OpenID, it gave me a new account. And I cannot figure out if there is a way of linking a TypeKey account to an external OpenID identity. This is from the people who invented OpenID!</p>
+<p>Despite all the apparent support and buzz, OpenID will remain a techie novelty until we see a huge increase in the number of sites that support it. C&rsquo;mon Yahoo, do it, do it.</p>
+<p>And no more OpenID providers, enough already!</p>
+<p>Technorati Tags: <a href="http://www.technorati.com/tags/OpenID">OpenID</a>, <a href="http://www.technorati.com/tags/ClaimID">ClaimID</a>, <a href="http://www.technorati.com/tags/Jyte">Jyte</a>, <a href="http://www.technorati.com/tags/MyOpenID">MyOpenID</a>, <a href="http://www.technorati.com/tags/Verisignlabs">Verisignlabs</a>, <a href="http://www.technorati.com/tags/Zooomr">Zooomr</a>, <a href="http://www.technorati.com/tags/Ma.gnolia">Ma.gnolia</a>, <a href="http://www.technorati.com/tags/TypeKey">TypeKey</a><a href="http://www.technorati.com/tags/Six+Apart">Six Apart</a></p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+
+        <span class="tag"><a href="https://argolon.com/categories/technical/">Technical</a></span>
+        <span class="tag"><a href="https://argolon.com/categories/web20/">Web20</a></span>
+        
+    </p>
+
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            <span><a href="https://argolon.com">Argolon Solutions Ltd.</a></span><span><a href="https://argolon.com/blog/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+          </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="https://argolon.com/bundle.min.af435e44374f1e99a669ea8cd5bb9a2fceed80588941a451bfddb66b86a67c9f40b0f417e9543a763f809aa7e9300d7b1d69bf99615810ba02ac70396d50fad5.js" integrity="sha512-r0NeRDdPHpmmaeqM1buaL87tgFiJQaRRv922a4amfJ9AsPQX6VQ6dj&#43;AmqfpMA17HWm/mWFYELoCrHA5bVD61Q=="></script>
+
+
+
+    </body>
+</html>

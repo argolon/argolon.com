@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ff3.-mozilla on Argolon Solutions</title>
+    <link>https://argolon.com/tags/ff3.-mozilla/</link>
+    <description>Recent content in ff3.-mozilla on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 31 Jul 2007 11:05:10 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/ff3.-mozilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FireFox - A Web-browser, a Platform, a Framework</title>
+      <link>https://argolon.com/2007/07/31/firefox-a-web-browser-a-platform-a-framework/</link>
+      <pubDate>Tue, 31 Jul 2007 11:05:10 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/07/31/firefox-a-web-browser-a-platform-a-framework/</guid>
+      <description>On August 8th, it@cork are hosting a talk by Marcio Galli. He is a Firefox Developer and will talk on Web development and advanced applications with upcoming Mozilla Firefox 3. Given some of the extremely cool things that are coming with FF3, this is a must-attend event if you are involved in web technologies.
+Target audiences: Computer science students, web developers, software engineers, entrepreneurial individuals, and more.
+Marcio Galli currently works as a consultant for the Mozilla project, with specific contribution to mobile projects such as the Mozilla Joey, Mozilla Minimo, and Mozilla development efforts in Brazil.</description>
+    </item>
+    
+  </channel>
+</rss>

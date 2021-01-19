@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mashup on Argolon Solutions</title>
+    <link>https://argolon.com/tags/mashup/</link>
+    <description>Recent content in mashup on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 25 Jun 2007 08:54:32 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/mashup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LouderMinis now on Jaiku too</title>
+      <link>https://argolon.com/2007/06/25/louderminis-now-on-jaiku-too/</link>
+      <pubDate>Mon, 25 Jun 2007 08:54:32 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/06/25/louderminis-now-on-jaiku-too/</guid>
+      <description>We announced LouderTweets recently, which are 140 character mini-reviews you can send to LouderVoice from Twitter without needing a LouderVoice account.
+Last night we turned on LouderViesti which is the equivalent feature for the superb Jaiku. Jaiku is like Twitter but can do much much more. They are based in Finland and are adding great features at a fast rate.
+We are now calling LouderTweets+LouderViesti = LouderMinis!
+Using LouderViesti is even easier than LouderTweets.</description>
+    </item>
+    
+    <item>
+      <title>LouderVoice Twitter Mash-Up</title>
+      <link>https://argolon.com/2007/06/13/loudervoice-twitter-mash-up/</link>
+      <pubDate>Wed, 13 Jun 2007 12:53:06 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/06/13/loudervoice-twitter-mash-up/</guid>
+      <description>After a few late nights we&amp;rsquo;re now ready to let you send reviews from Twitter to LouderVoice. We&amp;rsquo;re calling them LouderTweets and they are 140 character mini-reviews you can send using Web, SMS or IM via Twitter to LouderVoice.
+An important point is that you don&amp;rsquo;t have to be a LouderVoice member to send LouderTweets but you should join if you want to rate, bookmark and build/share useful collections of reviews and mini-reviews.</description>
+    </item>
+    
+  </channel>
+</rss>

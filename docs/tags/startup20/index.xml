@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>startup20 on Argolon Solutions</title>
+    <link>https://argolon.com/tags/startup20/</link>
+    <description>Recent content in startup20 on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 15 May 2007 19:27:50 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/startup20/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Irish Web Apps on Startup 2.0 Directory</title>
+      <link>https://argolon.com/2007/05/15/irish-web-apps-on-startup-20-directory/</link>
+      <pubDate>Tue, 15 May 2007 19:27:50 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/05/15/irish-web-apps-on-startup-20-directory/</guid>
+      <description>The Startup 2.0 guys have launched a wiki to try and build a Europe-wide directory of web applications. Make sure to add your app. The Irish page is here.</description>
+    </item>
+    
+  </channel>
+</rss>

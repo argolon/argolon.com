@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebApp on Argolon Solutions</title>
+    <link>https://argolon.com/tags/webapp/</link>
+    <description>Recent content in WebApp on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 27 Dec 2008 13:40:03 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our 2009 Predictions</title>
+      <link>https://argolon.com/2008/12/27/our-2009-predictions/</link>
+      <pubDate>Sat, 27 Dec 2008 13:40:03 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/12/27/our-2009-predictions/</guid>
+      <description>The 2008 predictions weren&amp;rsquo;t the most accurate. Let&amp;rsquo;s see how we do for 2009.
+ The Android platform will be absolutely huge. With Motorola, Sony Ericsson and a raft of Tier 2 manufacturers signed up, it will become _the _mobile platform from the mid to high end. Ignore the HTC G1, that&amp;rsquo;s just a rough first attempt by one manufacturer.  Despite Android, iPhone will remain big. There is always that 10% of the market who like paying extra for &amp;ldquo;luxury&amp;rdquo; brands SaaS ecommerce providers will go mainstream.</description>
+    </item>
+    
+    <item>
+      <title>A great addition to UseAMap</title>
+      <link>https://argolon.com/2007/05/14/a-great-addition-to-useamap/</link>
+      <pubDate>Mon, 14 May 2007 09:07:02 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/05/14/a-great-addition-to-useamap/</guid>
+      <description>Vinny Glennon has a genuinely useful site in UseAMap. Starting from the simple idea of doing a &amp;ldquo;TinyURL for Maps&amp;rdquo;, Vinny has built one of my favourite mapping apps.
+The most recent addition is a huge boon to those of us who live in The Google Maps Darklands - UseAMap is now integrated with Yahoo Maps too.
+Both Yahoo and Microsoft do a far superior job of mapping West Cork than Google.</description>
+    </item>
+    
+    <item>
+      <title>Recommendations for Web Application Development shops?</title>
+      <link>https://argolon.com/2006/07/20/recommendations-for-web-application-development-shops/</link>
+      <pubDate>Thu, 20 Jul 2006 11:48:59 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/20/recommendations-for-web-application-development-shops/</guid>
+      <description>We intend to outsource the bulk of the development of our application. This will be broken down into several areas including:
+ Design XHTML/CSS Application development Hosting Operations  I have received plenty of recommendations for Design and some for XHTML/CSS but other than Ryan Carson recommending Nick in Plum Digital Media (and more on yesterday&amp;rsquo;s &amp;ldquo;How to build a WebApp&amp;rdquo; workshop later), it is proving difficult to get recommendations for top-class web application development houses.</description>
+    </item>
+    
+  </channel>
+</rss>

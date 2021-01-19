@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital-Identity on Argolon Solutions</title>
+    <link>https://argolon.com/tags/digital-identity/</link>
+    <description>Recent content in Digital-Identity on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 May 2006 08:35:05 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/digital-identity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sxore, Sxip and Digital Identity</title>
+      <link>https://argolon.com/2006/05/01/sxore-sxip-and-digital-identity/</link>
+      <pubDate>Mon, 01 May 2006 08:35:05 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/05/01/sxore-sxip-and-digital-identity/</guid>
+      <description>We recently set up this site to use sxore as our comment handling system. To quote from the FAQ:
+sxore is the first practical implementation of the sxip identity architecture. Again from the FAQ:
+Digital Identity became a dirty word with the failed Microsoft Passport initiative. Many companies, including Microsoft with its Infocard idea, are having another go at making it a success. Kim Cameron at MS has made great strides in promulgating Infocard and fixing all of the mistakes made with Passport.</description>
+    </item>
+    
+    <item>
+      <title>Sxore install test</title>
+      <link>https://argolon.com/2006/04/04/sxore-install-test/</link>
+      <pubDate>Tue, 04 Apr 2006 09:48:23 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/04/sxore-install-test/</guid>
+      <description>We are playing around with using sxore as our comment management system in preparation for doing some posts on sxore, sxip and Digital Identity. Bear with us as we iron out some glitches.
+[tags]sxore, sxip, Digital Identity[/tags]</description>
+    </item>
+    
+  </channel>
+</rss>

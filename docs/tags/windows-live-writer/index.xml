@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows-Live-Writer on Argolon Solutions</title>
+    <link>https://argolon.com/tags/windows-live-writer/</link>
+    <description>Recent content in Windows-Live-Writer on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 14 Aug 2006 07:59:36 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/windows-live-writer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Live Writer</title>
+      <link>https://argolon.com/2006/08/14/windows-live-writer/</link>
+      <pubDate>Mon, 14 Aug 2006 07:59:36 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/08/14/windows-live-writer/</guid>
+      <description>I use a bunch of different tools to do my blog posts, none of which I am entirely happy with so I was interested to see that Microsoft have released the Beta of a desktop blog writing tool.
+I turned off the Rich Text Editor in Wordpress a long time ago as it was forever jamming paragraphs together for no obvious reason. I like Performancing but it has the same horrendous problem that ALL web-based writing tools have - if you accidentally hit the Back button on your mouse or nudge the mouse pad badly, you can lose all of your edits.</description>
+    </item>
+    
+  </channel>
+</rss>

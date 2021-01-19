@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Identity-2.0 on Argolon Solutions</title>
+    <link>https://argolon.com/tags/identity-2.0/</link>
+    <description>Recent content in Identity-2.0 on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 07 Aug 2006 22:22:46 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/identity-2.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excellent new sxore features</title>
+      <link>https://argolon.com/2006/08/07/excellent-new-sxore-features/</link>
+      <pubDate>Mon, 07 Aug 2006 22:22:46 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/08/07/excellent-new-sxore-features/</guid>
+      <description>After my recent griping about sxore and the recent lack of development, I&amp;rsquo;m delighted to see that things are on the move again. They have just upgraded the logon capabilites. In addition to the standard sxore/sxip, you can now login using OpenID and i-name.
+As an existing sxore user, I can continue to login using sxore.com as my homesite. But once I enable the extra identifiers on my sxore account, I can also logon using any of the current implementations of OpenID including Verisign PIP, claimID and MyOpenID.</description>
+    </item>
+    
+  </channel>
+</rss>

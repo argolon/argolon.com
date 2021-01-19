@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DigitalIdentity on Argolon Solutions</title>
+    <link>https://argolon.com/categories/digitalidentity/</link>
+    <description>Recent content in DigitalIdentity on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 01 Feb 2007 23:08:10 +0000</lastBuildDate><atom:link href="https://argolon.com/categories/digitalidentity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snipperoo Sizzles</title>
+      <link>https://argolon.com/2007/02/02/snipperoo-sizzles/</link>
+      <pubDate>Thu, 01 Feb 2007 23:08:10 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/02/02/snipperoo-sizzles/</guid>
+      <description>After some hand-holding from Ivan, I got Snipperoo working on my personal blog. The basic misunderstanding I had was that I thought all the widgets shown in the help screens were pre-existing ones I could add to my panel with one click whereas in fact you have to create each one by hand. This sounds awkward but isn&amp;rsquo;t. Just take the normal snippet of code you would use to show that widget on your blog and paste it into a new &amp;ldquo;module&amp;rdquo; in Snipperoo.</description>
+    </item>
+    
+    <item>
+      <title>End of our sxore experiment</title>
+      <link>https://argolon.com/2006/09/11/end-of-our-sxore-experiment/</link>
+      <pubDate>Mon, 11 Sep 2006 09:17:57 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/09/11/end-of-our-sxore-experiment/</guid>
+      <description>As regular readers will know, I&amp;rsquo;ve had the sxore comment system installed on this blog since April. I&amp;rsquo;m a serious fan of what the sxip guys are trying to do with sxore and I&amp;rsquo;m convinced that the requirement for both identity and reputation systems like it will grow and grow.
+Readers will also be aware that I&amp;rsquo;ve had a love/hate relationship with sxore due to the bugs and lack of non-essential but useful features like &amp;ldquo;recent comments&amp;rdquo; for Wordpress.</description>
+    </item>
+    
+    <item>
+      <title>Excellent new sxore features</title>
+      <link>https://argolon.com/2006/08/07/excellent-new-sxore-features/</link>
+      <pubDate>Mon, 07 Aug 2006 22:22:46 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/08/07/excellent-new-sxore-features/</guid>
+      <description>After my recent griping about sxore and the recent lack of development, I&amp;rsquo;m delighted to see that things are on the move again. They have just upgraded the logon capabilites. In addition to the standard sxore/sxip, you can now login using OpenID and i-name.
+As an existing sxore user, I can continue to login using sxore.com as my homesite. But once I enable the extra identifiers on my sxore account, I can also logon using any of the current implementations of OpenID including Verisign PIP, claimID and MyOpenID.</description>
+    </item>
+    
+    <item>
+      <title>it@cork Web2.0 Conference - Salim Ismail</title>
+      <link>https://argolon.com/2006/06/10/itcork-web20-conference-salim-ismail/</link>
+      <pubDate>Sat, 10 Jun 2006 12:36:00 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/06/10/itcork-web20-conference-salim-ismail/</guid>
+      <description>it@cork Web2.0 Conference Event type: Conference
+Date: 2006-06-08
+Rating: 5 out of 5
+Salim gave a suberb presentation which for me, as expected, was the highlight of the conference. I have heard chunks of the presentation on various Podcasts and it is still very focused on the ideas they built in PubSub despite the fact that Salim left there several months back. But given that those ideas remain as relevant now as they were when PubSub was founded, the presentation was compelling.</description>
+    </item>
+    
+    <item>
+      <title>Sxore, Sxip and Digital Identity</title>
+      <link>https://argolon.com/2006/05/01/sxore-sxip-and-digital-identity/</link>
+      <pubDate>Mon, 01 May 2006 08:35:05 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/05/01/sxore-sxip-and-digital-identity/</guid>
+      <description>We recently set up this site to use sxore as our comment handling system. To quote from the FAQ:
+sxore is the first practical implementation of the sxip identity architecture. Again from the FAQ:
+Digital Identity became a dirty word with the failed Microsoft Passport initiative. Many companies, including Microsoft with its Infocard idea, are having another go at making it a success. Kim Cameron at MS has made great strides in promulgating Infocard and fixing all of the mistakes made with Passport.</description>
+    </item>
+    
+  </channel>
+</rss>

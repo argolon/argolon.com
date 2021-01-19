@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>integration on Argolon Solutions</title>
+    <link>https://argolon.com/tags/integration/</link>
+    <description>Recent content in integration on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 13 Jun 2007 12:53:06 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LouderVoice Twitter Mash-Up</title>
+      <link>https://argolon.com/2007/06/13/loudervoice-twitter-mash-up/</link>
+      <pubDate>Wed, 13 Jun 2007 12:53:06 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/06/13/loudervoice-twitter-mash-up/</guid>
+      <description>After a few late nights we&amp;rsquo;re now ready to let you send reviews from Twitter to LouderVoice. We&amp;rsquo;re calling them LouderTweets and they are 140 character mini-reviews you can send using Web, SMS or IM via Twitter to LouderVoice.
+An important point is that you don&amp;rsquo;t have to be a LouderVoice member to send LouderTweets but you should join if you want to rate, bookmark and build/share useful collections of reviews and mini-reviews.</description>
+    </item>
+    
+    <item>
+      <title>Enterprise IT - really dying?</title>
+      <link>https://argolon.com/2005/10/06/enterprise-it-really-dying/</link>
+      <pubDate>Thu, 06 Oct 2005 12:49:13 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/10/06/enterprise-it-really-dying/</guid>
+      <description>Chip Hazard on Jeff Bussgang&amp;rsquo;s Blog has a great riposte to the assertion that the Enterprise software business is dying. In particular, his first point about driving IT efficiency is very relevant to our business area.
+We spend most of our time developing custom solutions for clients who have made large up-front investments in enterprise applications and now want to maximise the return on that investment. In some case, this may simply be a case of extracting out data in a summary form from these systems so that they can make informed planning decisions.</description>
+    </item>
+    
+  </channel>
+</rss>

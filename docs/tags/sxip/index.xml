@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sxip on Argolon Solutions</title>
+    <link>https://argolon.com/tags/sxip/</link>
+    <description>Recent content in sxip on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 07 Aug 2006 22:22:46 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/sxip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excellent new sxore features</title>
+      <link>https://argolon.com/2006/08/07/excellent-new-sxore-features/</link>
+      <pubDate>Mon, 07 Aug 2006 22:22:46 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/08/07/excellent-new-sxore-features/</guid>
+      <description>After my recent griping about sxore and the recent lack of development, I&amp;rsquo;m delighted to see that things are on the move again. They have just upgraded the logon capabilites. In addition to the standard sxore/sxip, you can now login using OpenID and i-name.
+As an existing sxore user, I can continue to login using sxore.com as my homesite. But once I enable the extra identifiers on my sxore account, I can also logon using any of the current implementations of OpenID including Verisign PIP, claimID and MyOpenID.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the story with sxore?</title>
+      <link>https://argolon.com/2006/07/06/whats-the-story-with-sxore/</link>
+      <pubDate>Thu, 06 Jul 2006 07:40:09 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/06/whats-the-story-with-sxore/</guid>
+      <description>I installed the sxore comments management system on this site back on April 4th. I had a few issues getting it up and running but one of their developers was very helpful in getting it going. At the time I noted a few limitations and behaviours I wasn&amp;rsquo;t very happy with. Some are core features of the system which will not change and but others could change and I was reassured that they would.</description>
+    </item>
+    
+    <item>
+      <title>Sxore, Sxip and Digital Identity</title>
+      <link>https://argolon.com/2006/05/01/sxore-sxip-and-digital-identity/</link>
+      <pubDate>Mon, 01 May 2006 08:35:05 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/05/01/sxore-sxip-and-digital-identity/</guid>
+      <description>We recently set up this site to use sxore as our comment handling system. To quote from the FAQ:
+sxore is the first practical implementation of the sxip identity architecture. Again from the FAQ:
+Digital Identity became a dirty word with the failed Microsoft Passport initiative. Many companies, including Microsoft with its Infocard idea, are having another go at making it a success. Kim Cameron at MS has made great strides in promulgating Infocard and fixing all of the mistakes made with Passport.</description>
+    </item>
+    
+    <item>
+      <title>Sxore install test</title>
+      <link>https://argolon.com/2006/04/04/sxore-install-test/</link>
+      <pubDate>Tue, 04 Apr 2006 09:48:23 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/04/sxore-install-test/</guid>
+      <description>We are playing around with using sxore as our comment management system in preparation for doing some posts on sxore, sxip and Digital Identity. Bear with us as we iron out some glitches.
+[tags]sxore, sxip, Digital Identity[/tags]</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris-Wilson on Argolon Solutions</title>
+    <link>https://argolon.com/tags/chris-wilson/</link>
+    <description>Recent content in Chris-Wilson on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 21 Feb 2007 14:25:15 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/chris-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FoWA Day 2</title>
+      <link>https://argolon.com/2007/02/21/fowa-day-2/</link>
+      <pubDate>Wed, 21 Feb 2007 14:25:15 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/02/21/fowa-day-2/</guid>
+      <description>Adobe pitch about Flex etc. Not my cup of tea.
+Chris Wilson from the IE7 team. Excellent honest presentation on why they lost their way with IE. Mentioned microformats so my ears pricked up. RSS in IE7 - he&amp;rsquo;s very excited by this. I really think it&amp;rsquo;ll push the uptake of using RSS. Chris just went through all the changes in IE7 and is now going through some of the newer MS Web tools including the free ones and the VPC image with IE6 in it so you can test both IE7 and IE6 on the same machine.</description>
+    </item>
+    
+  </channel>
+</rss>

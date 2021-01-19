@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IE7 on Argolon Solutions</title>
+    <link>https://argolon.com/tags/ie7/</link>
+    <description>Recent content in IE7 on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 21 Feb 2007 14:25:15 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/ie7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FoWA Day 2</title>
+      <link>https://argolon.com/2007/02/21/fowa-day-2/</link>
+      <pubDate>Wed, 21 Feb 2007 14:25:15 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/02/21/fowa-day-2/</guid>
+      <description>Adobe pitch about Flex etc. Not my cup of tea.
+Chris Wilson from the IE7 team. Excellent honest presentation on why they lost their way with IE. Mentioned microformats so my ears pricked up. RSS in IE7 - he&amp;rsquo;s very excited by this. I really think it&amp;rsquo;ll push the uptake of using RSS. Chris just went through all the changes in IE7 and is now going through some of the newer MS Web tools including the free ones and the VPC image with IE6 in it so you can test both IE7 and IE6 on the same machine.</description>
+    </item>
+    
+    <item>
+      <title>Fix for IE7 Beta 3 Install Problems</title>
+      <link>https://argolon.com/2006/06/30/fix-for-ie7-beta-3-install-problems/</link>
+      <pubDate>Fri, 30 Jun 2006 19:07:58 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/06/30/fix-for-ie7-beta-3-install-problems/</guid>
+      <description>I finally succumbed and installed the latest beta of IE7 to check out the RSS features, or at least I tried to. Six attempts and no joy. I tried everything and more in their troubleshooting document. I went on to the support site and there was a link to the IE newsgroup. And within two minutes I had the solution!
+So much for TechnoGoogleYahooBlogosphericRati, good old 1980&amp;rsquo;s NNTP News got me the answer.</description>
+    </item>
+    
+    <item>
+      <title>hCalendar, Google Calendar and Greasemonkey</title>
+      <link>https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/</link>
+      <pubDate>Fri, 14 Apr 2006 19:09:23 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/</guid>
+      <description>On my personal blog, I discuss structured blogging and microformats quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.
+To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found Airset to be the most functional from an integration to Phone/Palm/etc perspective.</description>
+    </item>
+    
+  </channel>
+</rss>

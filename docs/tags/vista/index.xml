@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vista on Argolon Solutions</title>
+    <link>https://argolon.com/tags/vista/</link>
+    <description>Recent content in vista on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 06 May 2008 21:25:23 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/vista/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Application Stack</title>
+      <link>https://argolon.com/2008/05/06/my-application-stack/</link>
+      <pubDate>Tue, 06 May 2008 21:25:23 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/05/06/my-application-stack/</guid>
+      <description>I&amp;rsquo;ve been struggling with Vista on a Dell D420 laptop recently. It is described as &amp;ldquo;Vista Capable&amp;rdquo;. It is nothing of the sort. So tonight I reverted back to XP Pro and have started the long slow re-install of all my favourite applications. This is what I pretty much always install on XP machines now:
+ Windows XP SP2 plus all updates Internet Explorer 7 Firefox (plus some standard add-ons) KeePass password manager Nokia N-Series PC Suite PDFCreator AVG Anti-Virus Microsoft Office 2007 Adobe Acrobat Reader Pidgin Instant Messenger Filezilla FTP Client Skype OpenOffice Sun Java JDK Putty SSH Client MySQL Tools Adobe Flash Adobe Shockwave (no idea why I need this!</description>
+    </item>
+    
+  </channel>
+</rss>

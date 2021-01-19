@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bubble brothers on Argolon Solutions</title>
+    <link>https://argolon.com/tags/bubble-brothers/</link>
+    <description>Recent content in bubble brothers on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 28 Apr 2009 19:06:55 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/bubble-brothers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest LouderVoice deployments</title>
+      <link>https://argolon.com/2009/04/28/latest-loudervoice-deployments/</link>
+      <pubDate>Tue, 28 Apr 2009 19:06:55 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/04/28/latest-loudervoice-deployments/</guid>
+      <description>We went live on Puddleducks.ie a few weeks back and the response has been fantastic.
+Today we went live with Bubble Brothers wine in Cork. They are the first users of our new SME customer reviews solution. This is a widget which can be dropped on a product page with one line of code and review-enables the entire site. No development is needed by the client and our simple job is to add the correct styling elements so that the widget blends with your site.</description>
+    </item>
+    
+  </channel>
+</rss>

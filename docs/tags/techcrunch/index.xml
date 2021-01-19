@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techcrunch on Argolon Solutions</title>
+    <link>https://argolon.com/tags/techcrunch/</link>
+    <description>Recent content in Techcrunch on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 20 Sep 2009 11:40:26 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/techcrunch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yes, 1000 times, yes.</title>
+      <link>https://argolon.com/2009/09/20/yes-1000-times-yes/</link>
+      <pubDate>Sun, 20 Sep 2009 11:40:26 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/09/20/yes-1000-times-yes/</guid>
+      <description>Read Pat Phelan&amp;rsquo;s post on &amp;ldquo;Irish Silicon Valley&amp;rdquo; now, right now.
+I don&amp;rsquo;t need to add anything except, please listen to the man, he knows what he is talking about.</description>
+    </item>
+    
+    <item>
+      <title>LouderVoice at TechCrunch40</title>
+      <link>https://argolon.com/2007/09/12/loudervoice-at-techcrunch40/</link>
+      <pubDate>Wed, 12 Sep 2007 12:34:14 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/09/12/loudervoice-at-techcrunch40/</guid>
+      <description>Cross-posting from the LouderVoice Blog:
+We are incredibly excited that an opportunity to attend TechCrunch40 in San Francisco next week has appeared. It is all due to the wonderful Pat Phelan of Cubic Telecom who offered a free ticket to a well deserving start-up. LouderVoice is that start-up and I&amp;rsquo;ll be there from Sunday until Wednesday afternoon.
+If you are in the Bay area and would like to meet up and talk business and technology or you are from the investment community, I&amp;rsquo;d love to see you whilst I am there.</description>
+    </item>
+    
+    <item>
+      <title>FoWA Day 1 - Seriously Good</title>
+      <link>https://argolon.com/2007/02/21/fowa-day-1-seriously-good/</link>
+      <pubDate>Wed, 21 Feb 2007 14:22:57 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/02/21/fowa-day-1-seriously-good/</guid>
+      <description>It&amp;rsquo;s often said about conferences that you don&amp;rsquo;t go for the speakers, you go for the networking. However, yesterday at FoWA had some of the finest presentations I have seen in the past twelve months. I ended the day buzzing with ideas for LouderVoice. Sure there was some misfires but overall Ryan had a very successful day on his hands.
+Highlights for me were: * Mike Arrington - Just good solid stuff and well able to handle all the questions thrown at him (except for the Adobe Apollo ones) * Ben Holmes from Index Ventures - Loved this presentation.</description>
+    </item>
+    
+    <item>
+      <title>it@cork Web2.0 Conference - Q&amp;A and final comment</title>
+      <link>https://argolon.com/2006/06/10/itcork-web20-conference-qa-and-final-comment/</link>
+      <pubDate>Sat, 10 Jun 2006 18:26:49 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/06/10/itcork-web20-conference-qa-and-final-comment/</guid>
+      <description>it@cork Web2.0 Conference Event type: Conference
+Date: 2006-06-08
+Rating: 5 out of 5
+The Q&amp;amp;A; session didn&amp;rsquo;t last very long but did throw up some interesting points.
+To kick off, there were various tech questions for Rob. Then Fergus was asked how long it took to launch Nooked, He replied that it was about a year after 3 different models. Walter was asked how he was hiring. He isn&amp;rsquo;t. There was a question about to get the right right developer expertise.</description>
+    </item>
+    
+    <item>
+      <title>hCard chicken and egg</title>
+      <link>https://argolon.com/2006/04/24/hcard-chicken-and-egg/</link>
+      <pubDate>Mon, 24 Apr 2006 22:46:28 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/24/hcard-chicken-and-egg/</guid>
+      <description>hCard is one of the two main microformats that one sees mentioned (the other being hCalendar). There was an interesting discussion on it in the second Talkcrunch podcast. Reid Hoffman of LinkedIn.com was asked why they did not support hCard. He made the simple point that they only implement features on the site which give near-immediate benefit to their users. hCard, like many of the microformats is in the chicken and egg situation where it needs someone to take a leap of faith, build some unique applications around hCard and the other microformats and then push that to seed the creation and use of microformatted data.</description>
+    </item>
+    
+  </channel>
+</rss>

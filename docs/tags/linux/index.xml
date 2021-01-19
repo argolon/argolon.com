@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Argolon Solutions</title>
+    <link>https://argolon.com/tags/linux/</link>
+    <description>Recent content in linux on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 07 Sep 2008 17:12:55 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrome on Ubuntu</title>
+      <link>https://argolon.com/2008/09/07/chrome-on-ubuntu/</link>
+      <pubDate>Sun, 07 Sep 2008 17:12:55 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/09/07/chrome-on-ubuntu/</guid>
+      <description>If you just can&amp;rsquo;t wait, Chrome will run on Ubuntu with a little help from Wine. Some scrappy fonts and I don&amp;rsquo;t think Flash works. But still, pretty darned impressive. Picasa 3 also seems to work well.</description>
+    </item>
+    
+  </channel>
+</rss>

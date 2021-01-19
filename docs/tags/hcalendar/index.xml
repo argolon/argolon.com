@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hCalendar on Argolon Solutions</title>
+    <link>https://argolon.com/tags/hcalendar/</link>
+    <description>Recent content in hCalendar on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 01 Jun 2006 04:46:08 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/hcalendar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technorati microformats search review</title>
+      <link>https://argolon.com/2006/06/01/technorati-microformats-search-review/</link>
+      <pubDate>Thu, 01 Jun 2006 04:46:08 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/06/01/technorati-microformats-search-review/</guid>
+      <description>Technorati microformats search Category: Search engine
+Topic: microformats
+Year created: 2006
+Overall rating: 4 out of 5
+Content rating: 3 out of 5
+Design rating: 4 out of 5
+Navigation rating: 4 out of 5
+I was supposed to attend a microformats dinner tonight in SF but was stymied by the impossibility of parking a car anywhere in that city. I returned to my hotel to catch up on the latest blogs to find a post from Tantek from Technorati announcing the launch of their microformats search.</description>
+    </item>
+    
+    <item>
+      <title>Nice movie of a microformat-aware application</title>
+      <link>https://argolon.com/2006/05/14/nice-movie-of-a-microformat-aware-application/</link>
+      <pubDate>Sun, 14 May 2006 14:50:27 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/05/14/nice-movie-of-a-microformat-aware-application/</guid>
+      <description>Drew McLellan has done a short movie showing how to go from subscribing to someone&amp;rsquo;s RSS feed which contains hCalendar events using a microformat-aware reader to importing that into iCal with just a few clicks. And of course it doesn&amp;rsquo;t just have to be into iCal. Simple, powerful.
+[tags]hCalendar, iCal, Endo[/tags]</description>
+    </item>
+    
+    <item>
+      <title>hCard chicken and egg</title>
+      <link>https://argolon.com/2006/04/24/hcard-chicken-and-egg/</link>
+      <pubDate>Mon, 24 Apr 2006 22:46:28 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/24/hcard-chicken-and-egg/</guid>
+      <description>hCard is one of the two main microformats that one sees mentioned (the other being hCalendar). There was an interesting discussion on it in the second Talkcrunch podcast. Reid Hoffman of LinkedIn.com was asked why they did not support hCard. He made the simple point that they only implement features on the site which give near-immediate benefit to their users. hCard, like many of the microformats is in the chicken and egg situation where it needs someone to take a leap of faith, build some unique applications around hCard and the other microformats and then push that to seed the creation and use of microformatted data.</description>
+    </item>
+    
+    <item>
+      <title>hCalendar, Google Calendar and Greasemonkey</title>
+      <link>https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/</link>
+      <pubDate>Fri, 14 Apr 2006 19:09:23 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/</guid>
+      <description>On my personal blog, I discuss structured blogging and microformats quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.
+To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found Airset to be the most functional from an integration to Phone/Palm/etc perspective.</description>
+    </item>
+    
+  </channel>
+</rss>

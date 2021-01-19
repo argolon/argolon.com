@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google on Argolon Solutions</title>
+    <link>https://argolon.com/tags/google/</link>
+    <description>Recent content in google on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 18 Jan 2009 09:14:43 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Android phone in Ireland</title>
+      <link>https://argolon.com/2009/01/18/using-android-phone-in-ireland/</link>
+      <pubDate>Sun, 18 Jan 2009 09:14:43 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/01/18/using-android-phone-in-ireland/</guid>
+      <description>I got an unlocked HTC G1 from the US recently for a project we are working on. This is the first Google Android phone and I&amp;rsquo;ll be doing a full review soon. The first thing you have to do is activate the phone with Google and I immediately ran into problems. It turns out you need to add the Irish mobile network Access Points to the phone so it knows how to connect to the internet.</description>
+    </item>
+    
+    <item>
+      <title>Hyvästi Jaiku</title>
+      <link>https://argolon.com/2009/01/15/hyvasti-jaiku/</link>
+      <pubDate>Thu, 15 Jan 2009 10:13:51 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/01/15/hyvasti-jaiku/</guid>
+      <description>From ReadWriteWeb, Jaiku is to be shutdown.
+I know a lot of webapp businesses are bought by Google and die through lack of attention. In our innocence, many of us thought Jaiku would be different. We thought there was a masterplan. We thought Jaiku would be the heart of the Android Address Book. The ultimate mobile social network with millions of users instantly.
+We were completely and utterly wrong. Jaiku was bought to get some amazing minds, like Jyri.</description>
+    </item>
+    
+    <item>
+      <title>Chrome on Ubuntu</title>
+      <link>https://argolon.com/2008/09/07/chrome-on-ubuntu/</link>
+      <pubDate>Sun, 07 Sep 2008 17:12:55 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/09/07/chrome-on-ubuntu/</guid>
+      <description>If you just can&amp;rsquo;t wait, Chrome will run on Ubuntu with a little help from Wine. Some scrappy fonts and I don&amp;rsquo;t think Flash works. But still, pretty darned impressive. Picasa 3 also seems to work well.</description>
+    </item>
+    
+  </channel>
+</rss>

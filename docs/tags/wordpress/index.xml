@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Argolon Solutions</title>
+    <link>https://argolon.com/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 19 Jan 2008 12:17:24 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movable Type - Not there yet</title>
+      <link>https://argolon.com/2008/01/19/movable-type-not-there-yet/</link>
+      <pubDate>Sat, 19 Jan 2008 12:17:24 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/01/19/movable-type-not-there-yet/</guid>
+      <description>There has been some new buzz about Movable Type since version 4 was released a while back. I had carried out one install of v3 previously to ensure that we supported it ok in LouderVoice. It was one of the worst install experiences I&amp;rsquo;ve ever had. I&amp;rsquo;d prefer to build XEmacs from source on Windows. V3 made me realise why Wordpress had left MT eating its dust. The WP boast of a 5 minute install was not an empty one and it &amp;ldquo;just works&amp;rdquo; out of the box in most cases.</description>
+    </item>
+    
+    <item>
+      <title>A plea to the Wordpress developers</title>
+      <link>https://argolon.com/2007/05/23/a-plea-to-the-wordpress-developers/</link>
+      <pubDate>Wed, 23 May 2007 10:19:56 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/05/23/a-plea-to-the-wordpress-developers/</guid>
+      <description>Please please please stop changing what I write.
+You don&amp;rsquo;t know best. I do!
+If I enter three dots, I want three dots, not a bloody ellipsis.
+I don&amp;rsquo;t want smart quotes.
+Don&amp;rsquo;t replace my apostrophes with backticks.
+I don&amp;rsquo;t want my perfectly valid nested XHTML trashed when you &amp;ldquo;fix&amp;rdquo; it.
+If I enter a div in the Rich Text Editor, I want a div, not a damned p.
+I swear, this behaviour reminds me most of Microsoft Word.</description>
+    </item>
+    
+    <item>
+      <title>Theme change</title>
+      <link>https://argolon.com/2007/03/06/theme-change/</link>
+      <pubDate>Tue, 06 Mar 2007 15:33:56 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/03/06/theme-change/</guid>
+      <description>I&amp;rsquo;m testing out Scott Allan Wallick&amp;rsquo;s blog.txt theme. I&amp;rsquo;m a huge fan of Sandbox and this is very impressive too. Minimalist but attractive. It is also highly configurable and has lots of hAtom and hCard goodness built-in. I prefer it to the old one we had here. Thoughts anyone?</description>
+    </item>
+    
+    <item>
+      <title>it@cork Web2.0 Conference - Q&amp;A and final comment</title>
+      <link>https://argolon.com/2006/06/10/itcork-web20-conference-qa-and-final-comment/</link>
+      <pubDate>Sat, 10 Jun 2006 18:26:49 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/06/10/itcork-web20-conference-qa-and-final-comment/</guid>
+      <description>it@cork Web2.0 Conference Event type: Conference
+Date: 2006-06-08
+Rating: 5 out of 5
+The Q&amp;amp;A; session didn&amp;rsquo;t last very long but did throw up some interesting points.
+To kick off, there were various tech questions for Rob. Then Fergus was asked how long it took to launch Nooked, He replied that it was about a year after 3 different models. Walter was asked how he was hiring. He isn&amp;rsquo;t. There was a question about to get the right right developer expertise.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcatcher on Argolon Solutions</title>
+    <link>https://argolon.com/tags/podcatcher/</link>
+    <description>Recent content in podcatcher on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 04 Jul 2006 22:10:55 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/podcatcher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcatchers that support ATOM 1.0?</title>
+      <link>https://argolon.com/2006/07/04/podcatchers-that-support-atom-10/</link>
+      <pubDate>Tue, 04 Jul 2006 22:10:55 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/04/podcatchers-that-support-atom-10/</guid>
+      <description>I recently passed comment that the Juice podcast receiver could not see the MP3&amp;rsquo;s embedded in Tantek&amp;rsquo;s feed. I assumed wrongly that there was something wrong with the feed. But he pointed out that Juice must not support ATOM 1.0 yet. From what I can see, development on Juice has stalled which is a pity as it is a fine tool.
+Tantek says that iTunes 6.0 does support ATOM 1.0 but that is no good to me as I refuse to install software which is built on the basis of controlling users.</description>
+    </item>
+    
+  </channel>
+</rss>

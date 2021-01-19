@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogs on Argolon Solutions</title>
+    <link>https://argolon.com/tags/blogs/</link>
+    <description>Recent content in blogs on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 06 May 2007 13:19:10 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LouderVoice Launches</title>
+      <link>https://argolon.com/2007/05/06/loudervoice-launches/</link>
+      <pubDate>Sun, 06 May 2007 13:19:10 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/05/06/loudervoice-launches/</guid>
+      <description>Last Wednesday we quietly unveiled LouderVoice. If you want a reviews site which takes a fundamentally different approach to everyone else then you&amp;rsquo;ll like what we have built.
+Bloggers who write reviews now have a site which is built around enabling them to publish reviews to blogs in a widely accepted format. Everyone else now has a site where they can find great reviews, read them on those blogs and then rate them, share them and subscribe to more.</description>
+    </item>
+    
+  </channel>
+</rss>

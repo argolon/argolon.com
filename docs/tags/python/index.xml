@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Argolon Solutions</title>
+    <link>https://argolon.com/tags/python/</link>
+    <description>Recent content in Python on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 09 Jul 2008 12:19:04 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sometimes Life Sux</title>
+      <link>https://argolon.com/2008/07/09/sometimes-life-sux/</link>
+      <pubDate>Wed, 09 Jul 2008 12:19:04 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/07/09/sometimes-life-sux/</guid>
+      <description>Just a quick mention of a neat new app that launched recently called LifeSux daily. It was developed by the same guy who now does all the heavy lifting on LouderVoice. It is another example of high speed development using Python and Django like the recently launched Matt.
+The ideas is simple:
+We designed LifeSuxDaily.com to let you share, with the community, those situations when you start feeling that life is a bitch and let you die ;) and get its feedback through comments and votes.</description>
+    </item>
+    
+    <item>
+      <title>Installing PyLucene on Fedora Core 6 (FC6)</title>
+      <link>https://argolon.com/2007/03/28/installing-pylucene-on-fedora-core-6-fc6/</link>
+      <pubDate>Tue, 27 Mar 2007 23:14:37 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/03/28/installing-pylucene-on-fedora-core-6-fc6/</guid>
+      <description>This is just one of those &amp;ldquo;I wish someone else had written this before I tried to do it&amp;rdquo; posts. Unlike most popular software on Fedora or indeed in Python, there is no simple installer for PyLucene and no binary that you can use yum or rpm to install with. The install instructions have a whiff of something from around 1997 rather than 2007. Almost a case of &amp;ldquo;if you can&amp;rsquo;t figure out how to install it, you don&amp;rsquo;t deserve to use our software&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Enterprise readiness of Jython?</title>
+      <link>https://argolon.com/2005/12/10/enterprise-readiness-of-jython/</link>
+      <pubDate>Sat, 10 Dec 2005 00:36:01 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/enterprise-readiness-of-jython/</guid>
+      <description>In our first Python post we mentioned that there can be push-back on the usage of Python in solutions for customers, particularly if the entire system is to be built in Python.
+An interesting alternative which can gain more customer acceptance is Jython. This is Python reimplemented in Java and it provides features which are compelling both from a technical perspective and customer acceptance perspective. To the customer, Jython can be viewed as simply another part of a Java based solution where it is providing some scripting, automation and high-level glue.</description>
+    </item>
+    
+    <item>
+      <title>Open issues on Python development</title>
+      <link>https://argolon.com/2005/12/10/open-issues-on-python-development/</link>
+      <pubDate>Sat, 10 Dec 2005 00:11:27 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/open-issues-on-python-development/</guid>
+      <description>As mentioned in a previous post, we have been having great success recently using Python as a develoment language for both customer engagements and our own internal long-term projects. There are however, some areas where we have to make decisions in its usage.
+The first is quite simple - development environment. The options are currently quite limited: The PythonWin IDE, Eclipse with PyDev or &amp;ldquo;Insert Name of One True Editor Here&amp;rdquo;+ CLI.</description>
+    </item>
+    
+    <item>
+      <title>The power of so-called scripting languages</title>
+      <link>https://argolon.com/2005/12/10/the-power-of-so-called-scripting-languages/</link>
+      <pubDate>Fri, 09 Dec 2005 23:46:35 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/the-power-of-so-called-scripting-languages/</guid>
+      <description>We have always been big fans of development languages which have traditionally been referred to as scripting languages.
+Going back over 10 years, we created some very useful tools and automation systems using TCL. This may seem like an odd niche choice, but for us, at the time, it had some major advantages. It was cross-platform, it could easily interface to hardware systems like serial ports and it had a great third-party tool called FreeWrap which allowed one to create executables and not require our end-customers to install the full Tcl package.</description>
+    </item>
+    
+  </channel>
+</rss>

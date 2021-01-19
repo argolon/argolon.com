@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emc on Argolon Solutions</title>
+    <link>https://argolon.com/tags/emc/</link>
+    <description>Recent content in emc on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 24 Jan 2006 21:52:01 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/emc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The first major Storage Industry Blog?</title>
+      <link>https://argolon.com/2006/01/24/the-first-major-strorage-industry-blog/</link>
+      <pubDate>Tue, 24 Jan 2006 21:52:01 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/01/24/the-first-major-strorage-industry-blog/</guid>
+      <description>We recently discovered that Hu Yoshida, Vice President and CTO of Hitachi Data Systems (HDS) has a blog. This may not seem to be a big deal to many people but it is actually a very major change on several different levels by one of the top players in a traditionally secretive industry.
+The storage industry has been built entirely on a foundation of proprietary technologies until quite recently. There are very few companies operating in this space at the top end; HP, EMC, IBM and HDS.</description>
+    </item>
+    
+    <item>
+      <title>Aperi - nice idea, but will it fly?</title>
+      <link>https://argolon.com/2005/11/03/aperi-nice-idea-but-will-it-fly/</link>
+      <pubDate>Thu, 03 Nov 2005 10:25:04 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/11/03/aperi-nice-idea-but-will-it-fly/</guid>
+      <description>Jon William Toigo over at Byte &amp;amp; Switchhas a great article on Aperi and the history of SRM in general. His analysis of industry reaction to the Aperi announcement by IBM is particularly incisive.
+Whether IBM will succeed (with the help of the OpenSource community) or not is obviously the great unknown. In any other sector the chances would be good but so many initiatives in this area have started with grand hopes and ended up as yet another niche product optimised for a small set of specific hardware.</description>
+    </item>
+    
+    <item>
+      <title>Adaptec getting rid of Snap and Eurologic</title>
+      <link>https://argolon.com/2005/10/06/adaptec-getting-rid-of-snap-and-eurologic/</link>
+      <pubDate>Thu, 06 Oct 2005 09:32:19 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/10/06/adaptec-getting-rid-of-snap-and-eurologic/</guid>
+      <description>Byte &amp;amp; Switch report that Adaptec Says Sayonara to Systems
+This is a sad end to the Eurologic story. We have watched them grow from a tiny operation in the early 1990&amp;rsquo;s to their coup in getting an OEM deal with Dell. Then the mooted IPO, then the loss of the Dell deal followed by a fire-sale to Adaptec. At that point everyone thought they would be back on an upwards trajectory but it looks like it was not to be.</description>
+    </item>
+    
+  </channel>
+</rss>

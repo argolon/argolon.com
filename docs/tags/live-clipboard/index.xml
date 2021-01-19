@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live-Clipboard on Argolon Solutions</title>
+    <link>https://argolon.com/tags/live-clipboard/</link>
+    <description>Recent content in Live-Clipboard on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 05 Jul 2006 22:24:50 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/live-clipboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live Clipboard mailing list changed</title>
+      <link>https://argolon.com/2006/07/05/live-clipboard-mailing-list-changed/</link>
+      <pubDate>Wed, 05 Jul 2006 22:24:50 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/05/live-clipboard-mailing-list-changed/</guid>
+      <description>I&amp;rsquo;ve been trying in vain to sign up to the Live Clipboard mailing list using the details provided on many sites and blogs. All of them say to head over to discuss.microsoft.com but it looks like this server is gone (or at least it has been offline for quite a while). I did some ferreting around on the main Microsoft site and found some generic mailing list instructions from 1998. I was shocked when they worked for live-clip too.</description>
+    </item>
+    
+    <item>
+      <title>microformat and Live Clipboard roundup</title>
+      <link>https://argolon.com/2006/05/14/microformat-and-live-clipboard-roundup/</link>
+      <pubDate>Sun, 14 May 2006 13:03:56 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/05/14/microformat-and-live-clipboard-roundup/</guid>
+      <description>The buzz surrounding microformats and how they can be used to create new and better services is getting louder and louder. In the past month there have been some eye-opening blog postings and articles on them.
+Here are just a few to whet the appetite:
+Phil Haack has the best introduction to microformats I have read.
+Alex Barnett coins a new acronym with mRc = microformats + RSS + clipboard. His article and Jason Kolb&amp;rsquo;s really address some of the exciting possibilities presented by Ray Ozzie&amp;rsquo;s Live Clipboard.</description>
+    </item>
+    
+  </channel>
+</rss>

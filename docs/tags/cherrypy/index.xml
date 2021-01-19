@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CherryPy on Argolon Solutions</title>
+    <link>https://argolon.com/tags/cherrypy/</link>
+    <description>Recent content in CherryPy on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 10 Dec 2005 00:51:09 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/cherrypy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turbogears - Well worth a look</title>
+      <link>https://argolon.com/2005/12/10/turbogears-well-worth-a-look/</link>
+      <pubDate>Sat, 10 Dec 2005 00:51:09 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/turbogears-well-worth-a-look/</guid>
+      <description>We recently had to do a very fast turn-around proof-of-concept for a Web-based Dashboard/Portal/UI on a reasonably straightforward relational schema in SQL Server.
+As this was to be a throw-away development, we decided to leverage it for some internal training and feasibility study. We try to avoid buzzword bingo and don&amp;rsquo;t jump on every new technology/toolkit just because the usual suspects over at Slashdot are raving about it. Hence we&amp;rsquo;ll probably get around to looking at Ruby-on-Rails in 2007 if it is still in active development.</description>
+    </item>
+    
+  </channel>
+</rss>

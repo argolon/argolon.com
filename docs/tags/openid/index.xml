@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenID on Argolon Solutions</title>
+    <link>https://argolon.com/tags/openid/</link>
+    <description>Recent content in OpenID on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 19 Jan 2008 12:17:24 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/openid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movable Type - Not there yet</title>
+      <link>https://argolon.com/2008/01/19/movable-type-not-there-yet/</link>
+      <pubDate>Sat, 19 Jan 2008 12:17:24 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/01/19/movable-type-not-there-yet/</guid>
+      <description>There has been some new buzz about Movable Type since version 4 was released a while back. I had carried out one install of v3 previously to ensure that we supported it ok in LouderVoice. It was one of the worst install experiences I&amp;rsquo;ve ever had. I&amp;rsquo;d prefer to build XEmacs from source on Windows. V3 made me realise why Wordpress had left MT eating its dust. The WP boast of a 5 minute install was not an empty one and it &amp;ldquo;just works&amp;rdquo; out of the box in most cases.</description>
+    </item>
+    
+    <item>
+      <title>FoWA Day 2</title>
+      <link>https://argolon.com/2007/02/21/fowa-day-2/</link>
+      <pubDate>Wed, 21 Feb 2007 14:25:15 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/02/21/fowa-day-2/</guid>
+      <description>Adobe pitch about Flex etc. Not my cup of tea.
+Chris Wilson from the IE7 team. Excellent honest presentation on why they lost their way with IE. Mentioned microformats so my ears pricked up. RSS in IE7 - he&amp;rsquo;s very excited by this. I really think it&amp;rsquo;ll push the uptake of using RSS. Chris just went through all the changes in IE7 and is now going through some of the newer MS Web tools including the free ones and the VPC image with IE6 in it so you can test both IE7 and IE6 on the same machine.</description>
+    </item>
+    
+    <item>
+      <title>Excellent new sxore features</title>
+      <link>https://argolon.com/2006/08/07/excellent-new-sxore-features/</link>
+      <pubDate>Mon, 07 Aug 2006 22:22:46 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/08/07/excellent-new-sxore-features/</guid>
+      <description>After my recent griping about sxore and the recent lack of development, I&amp;rsquo;m delighted to see that things are on the move again. They have just upgraded the logon capabilites. In addition to the standard sxore/sxip, you can now login using OpenID and i-name.
+As an existing sxore user, I can continue to login using sxore.com as my homesite. But once I enable the extra identifiers on my sxore account, I can also logon using any of the current implementations of OpenID including Verisign PIP, claimID and MyOpenID.</description>
+    </item>
+    
+  </channel>
+</rss>

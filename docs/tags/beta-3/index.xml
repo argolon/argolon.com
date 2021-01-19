@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta-3 on Argolon Solutions</title>
+    <link>https://argolon.com/tags/beta-3/</link>
+    <description>Recent content in Beta-3 on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 30 Jun 2006 19:07:58 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/beta-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fix for IE7 Beta 3 Install Problems</title>
+      <link>https://argolon.com/2006/06/30/fix-for-ie7-beta-3-install-problems/</link>
+      <pubDate>Fri, 30 Jun 2006 19:07:58 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/06/30/fix-for-ie7-beta-3-install-problems/</guid>
+      <description>I finally succumbed and installed the latest beta of IE7 to check out the RSS features, or at least I tried to. Six attempts and no joy. I tried everything and more in their troubleshooting document. I went on to the support site and there was a link to the IE newsgroup. And within two minutes I had the solution!
+So much for TechnoGoogleYahooBlogosphericRati, good old 1980&amp;rsquo;s NNTP News got me the answer.</description>
+    </item>
+    
+  </channel>
+</rss>

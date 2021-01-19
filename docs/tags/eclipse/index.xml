@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse on Argolon Solutions</title>
+    <link>https://argolon.com/tags/eclipse/</link>
+    <description>Recent content in Eclipse on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 10 Dec 2005 00:36:01 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/eclipse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enterprise readiness of Jython?</title>
+      <link>https://argolon.com/2005/12/10/enterprise-readiness-of-jython/</link>
+      <pubDate>Sat, 10 Dec 2005 00:36:01 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/enterprise-readiness-of-jython/</guid>
+      <description>In our first Python post we mentioned that there can be push-back on the usage of Python in solutions for customers, particularly if the entire system is to be built in Python.
+An interesting alternative which can gain more customer acceptance is Jython. This is Python reimplemented in Java and it provides features which are compelling both from a technical perspective and customer acceptance perspective. To the customer, Jython can be viewed as simply another part of a Java based solution where it is providing some scripting, automation and high-level glue.</description>
+    </item>
+    
+    <item>
+      <title>Open Source nipping at Business Objects Heels?</title>
+      <link>https://argolon.com/2005/11/08/opensource-nipping-at-business-objects-heels/</link>
+      <pubDate>Tue, 08 Nov 2005 09:20:03 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/11/08/opensource-nipping-at-business-objects-heels/</guid>
+      <description>Business Objects have announced that they are joining the Eclipse Foundation and are going to Open Source some of their tools. This is a very timely move for them as there appears to be a lot of energy building behind their Open Source competitors which must surely be hurting sales of Crystal at the low-end.
+Whilst none of the Open Source tools have the breadth and depth of Crystal&amp;rsquo;s capabilities, in many cases they are &amp;ldquo;good enough&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

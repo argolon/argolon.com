@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LinkedIn on Argolon Solutions</title>
+    <link>https://argolon.com/tags/linkedin/</link>
+    <description>Recent content in LinkedIn on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 16 Jan 2008 14:00:35 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/linkedin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leitrim Business Network</title>
+      <link>https://argolon.com/2008/01/16/leitrim-business-network/</link>
+      <pubDate>Wed, 16 Jan 2008 14:00:35 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/01/16/leitrim-business-network/</guid>
+      <description>I&amp;rsquo;m really pleased to see how well the Leitrim Business Network is taking off. Johnny Beirne from Leitrim CEB and the team are really pushing it forward. I love seeing them evangelise the opportunities presented by online networking through tools like LinkedIn and of course the site itself is a group blog.
+it@cork has shown how useful and influential a professional local business network can be, particularly one that understands technology.</description>
+    </item>
+    
+    <item>
+      <title>hCard chicken and egg</title>
+      <link>https://argolon.com/2006/04/24/hcard-chicken-and-egg/</link>
+      <pubDate>Mon, 24 Apr 2006 22:46:28 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/24/hcard-chicken-and-egg/</guid>
+      <description>hCard is one of the two main microformats that one sees mentioned (the other being hCalendar). There was an interesting discussion on it in the second Talkcrunch podcast. Reid Hoffman of LinkedIn.com was asked why they did not support hCard. He made the simple point that they only implement features on the site which give near-immediate benefit to their users. hCard, like many of the microformats is in the chicken and egg situation where it needs someone to take a leap of faith, build some unique applications around hCard and the other microformats and then push that to seed the creation and use of microformatted data.</description>
+    </item>
+    
+  </channel>
+</rss>

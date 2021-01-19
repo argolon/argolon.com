@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming on Argolon Solutions</title>
+    <link>https://argolon.com/tags/upcoming/</link>
+    <description>Recent content in Upcoming on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 22 Mar 2007 09:53:20 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/upcoming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Coffee Club Ning Page</title>
+      <link>https://argolon.com/2007/03/22/open-coffee-club-ning-page/</link>
+      <pubDate>Thu, 22 Mar 2007 09:53:20 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/03/22/open-coffee-club-ning-page/</guid>
+      <description>Saul and the guys have setup a Ning page for Open Coffee. Ning is basically a social networking app. On the page you can see members, recent blog posts tagged with opencoffee, ditto pictures and more importantly Upcoming.org events that are tagged. It is one central place to find out what is happening in OpenCoffee globally.
+On a more local level, as part of that, I have created an Upcoming.org group called (funnily enough) The Cork Open Coffee Club.</description>
+    </item>
+    
+    <item>
+      <title>hCalendar, Google Calendar and Greasemonkey</title>
+      <link>https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/</link>
+      <pubDate>Fri, 14 Apr 2006 19:09:23 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/</guid>
+      <description>On my personal blog, I discuss structured blogging and microformats quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.
+To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found Airset to be the most functional from an integration to Phone/Palm/etc perspective.</description>
+    </item>
+    
+  </channel>
+</rss>

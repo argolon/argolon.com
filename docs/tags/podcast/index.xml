@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on Argolon Solutions</title>
+    <link>https://argolon.com/tags/podcast/</link>
+    <description>Recent content in podcast on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 22 May 2007 07:26:06 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our first starring role</title>
+      <link>https://argolon.com/2007/05/22/our-first-starring-role/</link>
+      <pubDate>Tue, 22 May 2007 07:26:06 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/05/22/our-first-starring-role/</guid>
+      <description>Tom Raftery has posted his first ever video podcast and I&amp;rsquo;m the interviewee. We spend quite a while talking about all the ins and outs of LouderVoice. I think Tom did a great job considering who he had to work with ;-)
+Looking forward to seeing more Tom!</description>
+    </item>
+    
+    <item>
+      <title>First podcast</title>
+      <link>https://argolon.com/2007/03/01/first-podcast/</link>
+      <pubDate>Thu, 01 Mar 2007 10:19:12 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/03/01/first-podcast/</guid>
+      <description>I&amp;rsquo;ve just finished my first ever podcast. Krishna De got all of the nominees for the best Business Blog together for a chat about blogging. If you don&amp;rsquo;t business blog and you are considering it, I think the conversations we had will be a good motivator. Those on the call were from a variety of backgrounds and levels of blogging experience (from 6 years to 4 months) and consisted of:</description>
+    </item>
+    
+    <item>
+      <title>Podcatchers that support ATOM 1.0?</title>
+      <link>https://argolon.com/2006/07/04/podcatchers-that-support-atom-10/</link>
+      <pubDate>Tue, 04 Jul 2006 22:10:55 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/04/podcatchers-that-support-atom-10/</guid>
+      <description>I recently passed comment that the Juice podcast receiver could not see the MP3&amp;rsquo;s embedded in Tantek&amp;rsquo;s feed. I assumed wrongly that there was something wrong with the feed. But he pointed out that Juice must not support ATOM 1.0 yet. From what I can see, development on Juice has stalled which is a pity as it is a fine tool.
+Tantek says that iTunes 6.0 does support ATOM 1.0 but that is no good to me as I refuse to install software which is built on the basis of controlling users.</description>
+    </item>
+    
+  </channel>
+</rss>

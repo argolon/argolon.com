@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mototone on Argolon Solutions</title>
+    <link>https://argolon.com/tags/mototone/</link>
+    <description>Recent content in mototone on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 23 Mar 2006 12:44:22 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/mototone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Version Control Everything</title>
+      <link>https://argolon.com/2006/03/23/version-control-everything/</link>
+      <pubDate>Thu, 23 Mar 2006 12:44:22 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/03/23/version-control-everything/</guid>
+      <description>The world of SCM and Version control has always been a major part of software development but usually comes as a big shock to new developers. SCM approaches range from global Clearcase systems with multiple sysadmins keeping it humming to single developers creating files with names like *_v01, *_v02.
+Many years back, I was kicking off my first project as the leader and also my first project on a non-Vax development platform.</description>
+    </item>
+    
+  </channel>
+</rss>

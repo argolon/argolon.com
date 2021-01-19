@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="On my personal blog, I discuss structured blogging and microformats quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.
+To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found Airset to be the most functional from an integration to Phone/Palm/etc perspective." />
+<meta name="keywords" content=", Airset, Eventful, Flock, Google-Calendar, Greasemonkey, hCalendar, IE7, microformats, Structured-Blogging, Upcoming" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/" />
+
+
+    <title>
+        
+            hCalendar, Google Calendar and Greasemonkey :: Argolon Solutions  — Hello Friend NG Theme
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="https://argolon.com/main.d7bdd8ee18bfbf4c605488a7e5b1b92cd980dfeed2bdaeab4dd5e931a7a78bc0.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://argolon.com/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://argolon.com/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://argolon.com/favicon-16x16.png">
+    <link rel="manifest" href="https://argolon.com/site.webmanifest">
+    <link rel="mask-icon" href="https://argolon.com/safari-pinned-tab.svg" color="#1b1c1d">
+    <link rel="shortcut icon" href="https://argolon.com/favicon.ico">
+    <meta name="msapplication-TileColor" content="#1b1c1d">
+    <meta name="theme-color" content="#1b1c1d">
+
+
+
+<meta itemprop="name" content="hCalendar, Google Calendar and Greasemonkey">
+<meta itemprop="description" content="On my personal blog, I discuss structured blogging and microformats quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.
+To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found Airset to be the most functional from an integration to Phone/Palm/etc perspective.">
+<meta itemprop="datePublished" content="2006-04-14T19:09:23+00:00" />
+<meta itemprop="dateModified" content="2006-04-14T19:09:23+00:00" />
+<meta itemprop="wordCount" content="746">
+<meta itemprop="image" content="https://argolon.com"/>
+
+
+
+<meta itemprop="keywords" content="Airset,Eventful,Flock,Google-Calendar,Greasemonkey,hCalendar,IE7,microformats,Structured-Blogging,Upcoming," />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://argolon.com"/>
+
+<meta name="twitter:title" content="hCalendar, Google Calendar and Greasemonkey"/>
+<meta name="twitter:description" content="On my personal blog, I discuss structured blogging and microformats quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.
+To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found Airset to be the most functional from an integration to Phone/Palm/etc perspective."/>
+
+
+
+
+    <meta property="og:title" content="hCalendar, Google Calendar and Greasemonkey" />
+<meta property="og:description" content="On my personal blog, I discuss structured blogging and microformats quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.
+To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found Airset to be the most functional from an integration to Phone/Palm/etc perspective." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/" />
+<meta property="og:image" content="https://argolon.com"/>
+<meta property="article:published_time" content="2006-04-14T19:09:23+00:00" />
+<meta property="article:modified_time" content="2006-04-14T19:09:23+00:00" />
+
+
+
+
+    <meta property="article:section" content="microformats" />
+
+    <meta property="article:section" content="StructuredBlogging" />
+
+
+
+    <meta property="article:published_time" content="2006-04-14 19:09:23 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://argolon.com/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">&gt;</span>
+            <span class="logo__text">$ cd /home/</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://argolon.com/about/">About</a></li><li><a href="https://argolon.com/blog/">Blog</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/">hCalendar, Google Calendar and Greasemonkey</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                <p>On my <a href="http://conoroneill.com/">personal blog</a>, I discuss <a href="http://www.structuredblogging.org/">structured blogging</a> and <a href="http://microformats.org/">microformats</a> quite a bit, but usually in the context of things like food. However, the opportunities being presented by microformats apply in many different spheres. It is surprising how few startups seem to be building compelling applications using them.</p>
+<p>To take one example, online calendars are now two a penny. In many cases there is little to choose between them. Most recently, I have found <a href="http://www.airset.com/">Airset</a> to be the most functional from an integration to Phone/Palm/etc perspective. Most of the others seem to think that we all have always-on internet connections. Some, like <a href="http://eventful.com/">Eventful </a>and <a href="http://upcoming.org/event/67393/">Upcoming </a>are in the same space but are really concentrating on events rather than personal calendaring. And now <a href="http://www.google.com/calendar/render">Google Calendar</a> has launched with a bit of both but without any decent syncing capabilities like Airset or good old fashioned <a href="http://uk.calendar.yahoo.com/">Yahoo Calendar</a>.</p>
+<p>All of this is going on, yet the excellent <a href="http://microformats.org/wiki/hcalendar">hCalendar microformat</a> and associated structured blogging plug-in for <a href="http://wordpress.org/">Wordpress</a> are barely being leveraged at all. Some, like Eventful, do seem to be interested in it but I see no reall buzz or activity. I had thought maybe it was a &ldquo;hard&rdquo; problem.</p>
+<p>hCalendar is a way of describing calendar information so that things like event announcements can not only be presented on a blog or web-page, but they can be intelligently interpreted and used by software. One feature lacking in all of the online event and calendar applications is the ability to give them my blog address and have them scan the blog automatically for Events I have published and load them into the application for me and others to see in some centralised location with other related events.</p>
+<p>Yesterday on the microformats mailing list, <a href="http://microformats.org/discuss/mail/microformats-discuss/2006-April/003669.html">Mark Pilgrim set a challenge</a>: He offered to donate a free copy of &lsquo;Greasemonkey Hacks&rsquo; to the first person to write a Greasemonkey script that adds a &ldquo;remind me with Google Calendar&rdquo; button next to any event described in hCalendar.</p>
+<p>To explain this a bit further, I&rsquo;ll paraphrase <a href="http://en.wikipedia.org/wiki/Greasemonkey">the explanation of Greasemonkey</a> from Wikipedia &ldquo;It is an extension to the Firefox browser that allows users to install scripts that make on-the-fly changes to specific web pages. The changes made to the web pages are executed every time the page is opened, making them effectively permanent for the user running the script.  Greasemonkey can be used for adding new functionality to webpages like embedding price comparison in amazon.com webpages.</p>
+<p>So for an end-user who uses Firefox to browse the web, has Greasemonkey installed and has a script which fulfills the challenge set above, blogs which have published Event information appear differently to normal. What happens is that the script would scan each page as it loads. When it sees event info, it inserts a button on the users display of that web-page. When the user clicks the button, the event information is grabbed and passed to Google Calendar and the user can now do one more click and have the event information in their calendar.</p>
+<p>I was shocked when Scott Reynen <a href="http://microformats.org/discuss/mail/microformats-discuss/2006-April/003679.html">published a script which does exactly that</a> the following day! You can grab <a href="http://www.mozilla.com/firefox/">Firefox here</a>, get <a href="http://www.google.com/calendar/render">Google Calendar here</a>, <a href="http://greasemonkey.mozdev.org/">Greasemonkey here</a> and <a href="http://randomchaos.com/software/firefox/greasemonkey/googlehcalendar/googlehcalendar.user.js">the script here</a> if you really want to try it out. You can then go to my personal blog at conoroneill.com, scroll down to one of the events I have listed and you will see the relevant button.</p>
+<p>Now this is all very geeky and techy. Of course anyone can just manually add those buttons to their event listings on their blog but those buttons are specific to Google. The long-term aim could be for you to tell the system what your calendar application is and the button would automatically send the event information directly to it. Now, imagine if all of the above was embedded in your browser so whenever you were browsing sites which publish events in hCalendar format, two clicks later and that information is in your Calendar. Imagine if Microsoft integrated that into IE7 and Outlook. Imagine if it also grabbed the hCards of the people arranging the event so you now have all their contact details. I assume the Flock browser under development will have these features?</p>
+<p>And those are the simple cases. There is so much opportunity here and all it will take is a little push from one of the big guys to start the snowball.</p>
+<p>[tags]hCalendar, Structured Blogging, Microformats, Google Calendar, Eventful, Airset, Upcoming, IE7, Flock, Greasemonkey[/tags]</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
+
+        <span class="tag"><a href="https://argolon.com/tags/airset/">Airset</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/eventful/">Eventful</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/flock/">Flock</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/google-calendar/">Google-Calendar</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/greasemonkey/">Greasemonkey</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/hcalendar/">hCalendar</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/ie7/">IE7</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/microformats/">microformats</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/structured-blogging/">Structured-Blogging</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/upcoming/">Upcoming</a></span>
+        
+    </p>
+
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+
+        <span class="tag"><a href="https://argolon.com/categories/microformats/">microformats</a></span>
+        <span class="tag"><a href="https://argolon.com/categories/structuredblogging/">StructuredBlogging</a></span>
+        
+    </p>
+
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            <span><a href="https://argolon.com">Argolon Solutions Ltd.</a></span><span><a href="https://argolon.com/blog/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+          </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="https://argolon.com/bundle.min.af435e44374f1e99a669ea8cd5bb9a2fceed80588941a451bfddb66b86a67c9f40b0f417e9543a763f809aa7e9300d7b1d69bf99615810ba02ac70396d50fad5.js" integrity="sha512-r0NeRDdPHpmmaeqM1buaL87tgFiJQaRRv922a4amfJ9AsPQX6VQ6dj&#43;AmqfpMA17HWm/mWFYELoCrHA5bVD61Q=="></script>
+
+
+
+    </body>
+</html>

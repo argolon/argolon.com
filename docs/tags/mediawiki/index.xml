@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MediaWiki on Argolon Solutions</title>
+    <link>https://argolon.com/tags/mediawiki/</link>
+    <description>Recent content in MediaWiki on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 04 Aug 2006 08:06:22 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/mediawiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wiki Driven Development (WDD)</title>
+      <link>https://argolon.com/2006/08/04/wiki-driven-development-wdd/</link>
+      <pubDate>Fri, 04 Aug 2006 08:06:22 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/08/04/wiki-driven-development-wdd/</guid>
+      <description>Jason Kolb coined this great term a few weeks back and it has stuck in my head. He is writing the end-user documentation in the wiki before he starts development. Our scope is slightly less ambitious and that is simply to use a wiki as the initial requirements management tool for the first time.
+In my first job back in 1745, all of our documentation was still being done using variations on troff.</description>
+    </item>
+    
+  </channel>
+</rss>

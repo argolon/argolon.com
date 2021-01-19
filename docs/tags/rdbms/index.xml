@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RDBMS on Argolon Solutions</title>
+    <link>https://argolon.com/tags/rdbms/</link>
+    <description>Recent content in RDBMS on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 10 Dec 2005 01:06:00 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/rdbms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inquirer Open Source Database Roundup</title>
+      <link>https://argolon.com/2005/12/10/inquirer-open-source-database-roundup/</link>
+      <pubDate>Sat, 10 Dec 2005 01:06:00 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/inquirer-open-source-database-roundup/</guid>
+      <description>The Inquirer has a nice round-up of most of the players in the Open Source Datbase Market. Over the past few years, we have dealt with a lot of different customer DBs and here are a few thoughts based on that experience.
+Overall what we have seen is an inexorable move from Oracle to SQL Server at the high end and a move from commercial DBs to Open Source ones at the low and mid-end.</description>
+    </item>
+    
+  </channel>
+</rss>

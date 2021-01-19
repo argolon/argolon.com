@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>movable type on Argolon Solutions</title>
+    <link>https://argolon.com/tags/movable-type/</link>
+    <description>Recent content in movable type on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 19 Jan 2008 12:17:24 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/movable-type/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movable Type - Not there yet</title>
+      <link>https://argolon.com/2008/01/19/movable-type-not-there-yet/</link>
+      <pubDate>Sat, 19 Jan 2008 12:17:24 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/01/19/movable-type-not-there-yet/</guid>
+      <description>There has been some new buzz about Movable Type since version 4 was released a while back. I had carried out one install of v3 previously to ensure that we supported it ok in LouderVoice. It was one of the worst install experiences I&amp;rsquo;ve ever had. I&amp;rsquo;d prefer to build XEmacs from source on Windows. V3 made me realise why Wordpress had left MT eating its dust. The WP boast of a 5 minute install was not an empty one and it &amp;ldquo;just works&amp;rdquo; out of the box in most cases.</description>
+    </item>
+    
+  </channel>
+</rss>

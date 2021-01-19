@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toni on Argolon Solutions</title>
+    <link>https://argolon.com/tags/toni/</link>
+    <description>Recent content in toni on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 23 May 2007 10:19:56 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/toni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A plea to the Wordpress developers</title>
+      <link>https://argolon.com/2007/05/23/a-plea-to-the-wordpress-developers/</link>
+      <pubDate>Wed, 23 May 2007 10:19:56 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/05/23/a-plea-to-the-wordpress-developers/</guid>
+      <description>Please please please stop changing what I write.
+You don&amp;rsquo;t know best. I do!
+If I enter three dots, I want three dots, not a bloody ellipsis.
+I don&amp;rsquo;t want smart quotes.
+Don&amp;rsquo;t replace my apostrophes with backticks.
+I don&amp;rsquo;t want my perfectly valid nested XHTML trashed when you &amp;ldquo;fix&amp;rdquo; it.
+If I enter a div in the Rich Text Editor, I want a div, not a damned p.
+I swear, this behaviour reminds me most of Microsoft Word.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S3 on Argolon Solutions</title>
+    <link>https://argolon.com/tags/s3/</link>
+    <description>Recent content in S3 on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 14 May 2006 13:03:56 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/s3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>microformat and Live Clipboard roundup</title>
+      <link>https://argolon.com/2006/05/14/microformat-and-live-clipboard-roundup/</link>
+      <pubDate>Sun, 14 May 2006 13:03:56 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/05/14/microformat-and-live-clipboard-roundup/</guid>
+      <description>The buzz surrounding microformats and how they can be used to create new and better services is getting louder and louder. In the past month there have been some eye-opening blog postings and articles on them.
+Here are just a few to whet the appetite:
+Phil Haack has the best introduction to microformats I have read.
+Alex Barnett coins a new acronym with mRc = microformats + RSS + clipboard. His article and Jason Kolb&amp;rsquo;s really address some of the exciting possibilities presented by Ray Ozzie&amp;rsquo;s Live Clipboard.</description>
+    </item>
+    
+    <item>
+      <title>Great news for S3</title>
+      <link>https://argolon.com/2005/12/22/great-news-for-s3/</link>
+      <pubDate>Thu, 22 Dec 2005 07:51:38 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/22/great-news-for-s3/</guid>
+      <description>As the M.D.&amp;rsquo;s first employer was S3 (Silicon &amp;amp; Software Systems), we were delighted yesterday to read that they have received Ã¢â€šÂ¬10m in funding. Since their founding around 1986 by Maurice Whelan with backing from Philips they have grown from strength to strength. Like us all they suffered badly post-crash but have recovered incredibly well. The new funding should really enable them to build on that.
+Mossie really is one of the unsung visionaries of the Irish tech sector.</description>
+    </item>
+    
+  </channel>
+</rss>

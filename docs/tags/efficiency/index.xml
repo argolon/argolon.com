@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Efficiency on Argolon Solutions</title>
+    <link>https://argolon.com/tags/efficiency/</link>
+    <description>Recent content in Efficiency on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 07 Feb 2006 08:33:52 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free VMWare Server - transform your software development efficiency</title>
+      <link>https://argolon.com/2006/02/07/free-vmware-server-transform-your-software-development-efficiency/</link>
+      <pubDate>Tue, 07 Feb 2006 08:33:52 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/02/07/free-vmware-server-transform-your-software-development-efficiency/</guid>
+      <description>One of our customers is rightly a big VMWare fan. We have a test-bed in one of their labs running ESX Server with four VMs on one rack-mount. The management and maintenance overhead of this compared to four servers? You do the math(s).
+If you test software and you don&amp;rsquo;t use VMWare Workstation, ESX or GSX, you are wasting time and money. Create a base VM, store it somewhere safe, make a copy any time you want to do some testing, test using the copy, finish test, delete copy, start from clean again (or heck, just use the snapshot feature).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,20 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>loudervoice on Argolon Solutions</title>
+    <title>LouderVoice on Argolon Solutions</title>
     <link>https://argolon.com/tags/loudervoice/</link>
-    <description>Recent content in loudervoice on Argolon Solutions</description>
+    <description>Recent content in LouderVoice on Argolon Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/loudervoice/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming Soon</title>
-      <link>https://argolon.com/blog/coming-soon/</link>
+      <title>Blog Archive now online</title>
+      <link>https://argolon.com/blog/blog-archive-now-online/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://argolon.com/blog/coming-soon/</guid>
-      <description>The old Argolon Blog which was active from 2003 to approx 2012 will re-appear here soon.</description>
+      <guid>https://argolon.com/blog/blog-archive-now-online/</guid>
+      <description>After an absence of over seven years, the old Argolon Blog, which was active from 2005 until 2010, is back online. This is really just for posterity and to ensure the history of this Irish startup remains accessible for the foreseeable future. We hope you enjoy browsing and having a chuckle over posts like our 2009 predictions.</description>
+    </item>
+    
+    <item>
+      <title>LouderVoice BES 2009 (Business Expansion Scheme)</title>
+      <link>https://argolon.com/2009/11/15/loudervoice-bes-2009-business-expansion-scheme/</link>
+      <pubDate>Sun, 15 Nov 2009 15:08:27 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/11/15/loudervoice-bes-2009-business-expansion-scheme/</guid>
+      <description>The LouderVoice customer reviews system for business has moved into high-gear in 2009. Clients are deploying our EasyReview widget on their e-commerce sites every week. Our first US customer will go live this month along with many more Irish sites. Our second UK site will go live early in the new year.
+The most recent research by Internet Retailer tells you everything you need to know about how important reviews are to businesses.</description>
+    </item>
+    
+    <item>
+      <title>Multiple LouderVoice Updates</title>
+      <link>https://argolon.com/2009/06/24/multiple-loudervoice-updates/</link>
+      <pubDate>Wed, 24 Jun 2009 18:45:13 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/06/24/multiple-loudervoice-updates/</guid>
+      <description>It&amp;rsquo;s been a busy few weeks.
+ Two years after LouderVoice launched with the aim to make reviews more useful via Microformats, Google announced support, followed quickly by several of our competitors. What took ye so long? Then we launched Ireland&amp;rsquo;s first Google Android Mobile application Then we enabled the use of simple #review to identify mini-reviews on Twitter Then Krishna De of Biz Growth Newsreleased an extended interview with CEO Conor all about ratings and reviews.</description>
+    </item>
+    
+    <item>
+      <title>Latest LouderVoice deployments</title>
+      <link>https://argolon.com/2009/04/28/latest-loudervoice-deployments/</link>
+      <pubDate>Tue, 28 Apr 2009 19:06:55 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/04/28/latest-loudervoice-deployments/</guid>
+      <description>We went live on Puddleducks.ie a few weeks back and the response has been fantastic.
+Today we went live with Bubble Brothers wine in Cork. They are the first users of our new SME customer reviews solution. This is a widget which can be dropped on a product page with one line of code and review-enables the entire site. No development is needed by the client and our simple job is to add the correct styling elements so that the widget blends with your site.</description>
+    </item>
+    
+    <item>
+      <title>Our latest customer is Puddleducks</title>
+      <link>https://argolon.com/2009/04/15/our-latest-customer-is-puddleducks/</link>
+      <pubDate>Tue, 14 Apr 2009 23:12:53 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/04/15/our-latest-customer-is-puddleducks/</guid>
+      <description>We&amp;rsquo;ve just announced that Puddleducks.ie is the latest customer of LouderVoice for Business.
+We&amp;rsquo;ll be making a lot more announcements like this in the coming weeks. Our small business solution is going live on multiple sites shortly. Contact us on business AT loudervoice DOT com if you&amp;rsquo;d like to arrange a trial. It can literally be implemented in minutes on many sites.</description>
+    </item>
+    
+    <item>
+      <title>Le Web Thoughts</title>
+      <link>https://argolon.com/2008/12/13/le-web-thoughts/</link>
+      <pubDate>Sat, 13 Dec 2008 10:26:48 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/12/13/le-web-thoughts/</guid>
+      <description>I attended Le Web on Tue/Wed this week in Paris. It is the leading web conference in Europe and this was my third year.
+Despite a bunch of logistical problems, Loic and Geraldine Le Meur created yet another event that will stick in the mind for a long time. I was at the conference with multiple hats on:
+  CEO of LouderVoice eager to meet potential partners and investors Guest Author for ReadWriteWeb looking at Le Web from technology perspective Co-Editor of Web2Ireland looking at Le Web from business perspective   My Web2Ireland post covers the general business mood and how it may affect Irish start-ups.</description>
+    </item>
+    
+    <item>
+      <title>The Mashable Open Web Awards</title>
+      <link>https://argolon.com/2008/11/13/the-mashable-open-web-awards/</link>
+      <pubDate>Wed, 12 Nov 2008 23:34:39 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/11/13/the-mashable-open-web-awards/</guid>
+      <description>If you like what we are doing over on LouderVoice, why not vote for us in the Mashable Open Web Awards. You can do it below.
+ Mashable Open Web Awards
+Don&amp;rsquo;t forget to vote for all your favourite Irish WebApps, many of which can be found over at Web2Ireland.org.</description>
+    </item>
+    
+    <item>
+      <title>Argolon Solutions &amp; LouderVoice BES 2008</title>
+      <link>https://argolon.com/2008/10/23/argolon-solutions-loudervoice-bes-2008/</link>
+      <pubDate>Thu, 23 Oct 2008 11:31:17 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/10/23/argolon-solutions-loudervoice-bes-2008/</guid>
+      <description>We have just kicked off our BES 2008 offering which is built around the LouderVoice business. If you are interested in hearing more about this investment opportunity or discussing direct equity investments, please contact Conor O&amp;rsquo;Neill on conor AT loudervoice DOT com or +353-87-9790297.
+Over the past few months we have been trialling our business services with several clients. Some of those are already live, others will go live over the next quarter.</description>
+    </item>
+    
+    <item>
+      <title>Events this week</title>
+      <link>https://argolon.com/2008/02/26/events-this-week/</link>
+      <pubDate>Tue, 26 Feb 2008 09:55:33 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/02/26/events-this-week/</guid>
+      <description>It&amp;rsquo;s an incredibly busy week of events in Dublin and Cork in the next few days. The ones that we&amp;rsquo;ll be attending are:
+ xCellerate 2008 tomorrow - Half Day conference on raising funds and &amp;ldquo;bringing Silicon Valley to Ireland&amp;rdquo; IWTC - Irish Web Technology Conference. This starts tonight and runs until Friday. Conor is presenting on &amp;ldquo;SMS, LBS and Social Networks&amp;rdquo; on Thursday afternoon Irish Blog Awards on Saturday night - LouderVoice is sponsoring the Best Blog Post award BlogTalk 2008 - Blogging conference in Cork on Mon/Tue.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at IWTC 2008</title>
+      <link>https://argolon.com/2008/02/04/speaking-at-iwtc-2008/</link>
+      <pubDate>Mon, 04 Feb 2008 20:15:14 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/02/04/speaking-at-iwtc-2008/</guid>
+      <description>I&amp;rsquo;m very pleased to have been invited to speak at the Irish Web Technology Conference on 28th February in Dublin. My 75 minute session is about SMS, Location Based Services and Social Networking. I&amp;rsquo;ll be very much doing this as an eager punter and coming from the web side rather than from the mobile industry. I hope that provides some new perspectives in this area. The summary is as follows:</description>
     </item>
     
   </channel>

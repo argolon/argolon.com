@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reporting on Argolon Solutions</title>
+    <link>https://argolon.com/tags/reporting/</link>
+    <description>Recent content in Reporting on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 08 Nov 2005 09:20:03 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/reporting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source nipping at Business Objects Heels?</title>
+      <link>https://argolon.com/2005/11/08/opensource-nipping-at-business-objects-heels/</link>
+      <pubDate>Tue, 08 Nov 2005 09:20:03 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/11/08/opensource-nipping-at-business-objects-heels/</guid>
+      <description>Business Objects have announced that they are joining the Eclipse Foundation and are going to Open Source some of their tools. This is a very timely move for them as there appears to be a lot of energy building behind their Open Source competitors which must surely be hurting sales of Crystal at the low-end.
+Whilst none of the Open Source tools have the breadth and depth of Crystal&amp;rsquo;s capabilities, in many cases they are &amp;ldquo;good enough&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

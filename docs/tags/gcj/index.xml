@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gcj on Argolon Solutions</title>
+    <link>https://argolon.com/tags/gcj/</link>
+    <description>Recent content in gcj on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 27 Mar 2007 23:14:37 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/gcj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing PyLucene on Fedora Core 6 (FC6)</title>
+      <link>https://argolon.com/2007/03/28/installing-pylucene-on-fedora-core-6-fc6/</link>
+      <pubDate>Tue, 27 Mar 2007 23:14:37 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/03/28/installing-pylucene-on-fedora-core-6-fc6/</guid>
+      <description>This is just one of those &amp;ldquo;I wish someone else had written this before I tried to do it&amp;rdquo; posts. Unlike most popular software on Fedora or indeed in Python, there is no simple installer for PyLucene and no binary that you can use yum or rpm to install with. The install instructions have a whiff of something from around 1997 rather than 2007. Almost a case of &amp;ldquo;if you can&amp;rsquo;t figure out how to install it, you don&amp;rsquo;t deserve to use our software&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

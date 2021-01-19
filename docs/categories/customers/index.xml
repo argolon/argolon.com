@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customers on Argolon Solutions</title>
+    <link>https://argolon.com/categories/customers/</link>
+    <description>Recent content in Customers on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 28 Apr 2009 19:06:55 +0000</lastBuildDate><atom:link href="https://argolon.com/categories/customers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest LouderVoice deployments</title>
+      <link>https://argolon.com/2009/04/28/latest-loudervoice-deployments/</link>
+      <pubDate>Tue, 28 Apr 2009 19:06:55 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/04/28/latest-loudervoice-deployments/</guid>
+      <description>We went live on Puddleducks.ie a few weeks back and the response has been fantastic.
+Today we went live with Bubble Brothers wine in Cork. They are the first users of our new SME customer reviews solution. This is a widget which can be dropped on a product page with one line of code and review-enables the entire site. No development is needed by the client and our simple job is to add the correct styling elements so that the widget blends with your site.</description>
+    </item>
+    
+    <item>
+      <title>Our latest customer is Puddleducks</title>
+      <link>https://argolon.com/2009/04/15/our-latest-customer-is-puddleducks/</link>
+      <pubDate>Tue, 14 Apr 2009 23:12:53 +0000</pubDate>
+      
+      <guid>https://argolon.com/2009/04/15/our-latest-customer-is-puddleducks/</guid>
+      <description>We&amp;rsquo;ve just announced that Puddleducks.ie is the latest customer of LouderVoice for Business.
+We&amp;rsquo;ll be making a lot more announcements like this in the coming weeks. Our small business solution is going live on multiple sites shortly. Contact us on business AT loudervoice DOT com if you&amp;rsquo;d like to arrange a trial. It can literally be implemented in minutes on many sites.</description>
+    </item>
+    
+  </channel>
+</rss>

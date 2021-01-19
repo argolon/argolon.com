@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nearsourcing on Argolon Solutions</title>
+    <link>https://argolon.com/tags/nearsourcing/</link>
+    <description>Recent content in Nearsourcing on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 20 Jul 2006 11:48:59 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/nearsourcing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendations for Web Application Development shops?</title>
+      <link>https://argolon.com/2006/07/20/recommendations-for-web-application-development-shops/</link>
+      <pubDate>Thu, 20 Jul 2006 11:48:59 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/20/recommendations-for-web-application-development-shops/</guid>
+      <description>We intend to outsource the bulk of the development of our application. This will be broken down into several areas including:
+ Design XHTML/CSS Application development Hosting Operations  I have received plenty of recommendations for Design and some for XHTML/CSS but other than Ryan Carson recommending Nick in Plum Digital Media (and more on yesterday&amp;rsquo;s &amp;ldquo;How to build a WebApp&amp;rdquo; workshop later), it is proving difficult to get recommendations for top-class web application development houses.</description>
+    </item>
+    
+  </channel>
+</rss>

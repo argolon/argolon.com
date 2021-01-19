@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>argolon on Argolon Solutions</title>
+    <title>Argolon on Argolon Solutions</title>
     <link>https://argolon.com/tags/argolon/</link>
-    <description>Recent content in argolon on Argolon Solutions</description>
+    <description>Recent content in Argolon on Argolon Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/argolon/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming Soon</title>
-      <link>https://argolon.com/blog/coming-soon/</link>
+      <title>Blog Archive now online</title>
+      <link>https://argolon.com/blog/blog-archive-now-online/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://argolon.com/blog/coming-soon/</guid>
-      <description>The old Argolon Blog which was active from 2003 to approx 2012 will re-appear here soon.</description>
+      <guid>https://argolon.com/blog/blog-archive-now-online/</guid>
+      <description>After an absence of over seven years, the old Argolon Blog, which was active from 2005 until 2010, is back online. This is really just for posterity and to ensure the history of this Irish startup remains accessible for the foreseeable future. We hope you enjoy browsing and having a chuckle over posts like our 2009 predictions.</description>
+    </item>
+    
+    <item>
+      <title>Argolon Solutions &amp; LouderVoice BES 2008</title>
+      <link>https://argolon.com/2008/10/23/argolon-solutions-loudervoice-bes-2008/</link>
+      <pubDate>Thu, 23 Oct 2008 11:31:17 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/10/23/argolon-solutions-loudervoice-bes-2008/</guid>
+      <description>We have just kicked off our BES 2008 offering which is built around the LouderVoice business. If you are interested in hearing more about this investment opportunity or discussing direct equity investments, please contact Conor O&amp;rsquo;Neill on conor AT loudervoice DOT com or +353-87-9790297.
+Over the past few months we have been trialling our business services with several clients. Some of those are already live, others will go live over the next quarter.</description>
+    </item>
+    
+    <item>
+      <title>The Argolon/LouderVoice 2008 Predictions</title>
+      <link>https://argolon.com/2008/01/01/the-argolonloudervoice-2008-predictions/</link>
+      <pubDate>Tue, 01 Jan 2008 12:13:46 +0000</pubDate>
+      
+      <guid>https://argolon.com/2008/01/01/the-argolonloudervoice-2008-predictions/</guid>
+      <description>Here&amp;rsquo;s a few quick ones off the top of my head:
+ Cubic Telecom will have a £100m exit European Founders, Howzat Media, TAG or Advent will do a deal with a web or mobile start-up here More foreign VCs will invest in Irish web start-ups than Irish VCs One of the current batch of Irish Web 2.0 start-ups will go global in a big way EI&amp;rsquo;s €170m VC fund will continue to provide minimal benefits to Irish web start-ups Eircom&amp;rsquo;s small fund will result in two major web start-up successes Someone will launch a full Y Combinator/Seedcamp here Minister John McGuinness will be given responsibility for re-structuring all state bodies concerned with business EI will absorb Údarás na Gaeltachta EI will launch a self-contained web unit with its own budget, minimal red-tape, firewall access to Facebook and based in the Cork Gaeltacht or Kilkenny Damien Mulley will launch his own start-up Six Apart will launch a free version of Typepad Six Apart or Automattic will launch a full blown social network built on their blogging platforms Facebook Sign-to-Noise will continue to plummet as more and more people join and repeat usage plateaus (How many FB apps did I have to install this week just to read happy new year messages?</description>
+    </item>
+    
+    <item>
+      <title>Argolon BES Scheme</title>
+      <link>https://argolon.com/2007/08/28/argolon-bes-scheme/</link>
+      <pubDate>Tue, 28 Aug 2007 19:19:43 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/08/28/argolon-bes-scheme/</guid>
+      <description>We will be announcing our BES scheme as soon as the initial paperwork has been processed.
+If you want to hear more about any of the investment opportunities in Argolon Solutions and the LouderVoice web-site please contact me via any of the methods listed here.</description>
     </item>
     
   </channel>

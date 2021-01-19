@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="As mentioned in a previous post, we have been having great success recently using Python as a develoment language for both customer engagements and our own internal long-term projects. There are however, some areas where we have to make decisions in its usage.
+The first is quite simple - development environment. The options are currently quite limited: The PythonWin IDE, Eclipse with PyDev or &amp;ldquo;Insert Name of One True Editor Here&amp;rdquo;&#43; CLI." />
+<meta name="keywords" content=", Database-API, mysql, ODBC, oracle, Python, SQL-Server" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://argolon.com/2005/12/10/open-issues-on-python-development/" />
+
+
+    <title>
+        
+            Open issues on Python development :: Argolon Solutions  — Hello Friend NG Theme
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="https://argolon.com/main.d7bdd8ee18bfbf4c605488a7e5b1b92cd980dfeed2bdaeab4dd5e931a7a78bc0.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://argolon.com/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://argolon.com/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://argolon.com/favicon-16x16.png">
+    <link rel="manifest" href="https://argolon.com/site.webmanifest">
+    <link rel="mask-icon" href="https://argolon.com/safari-pinned-tab.svg" color="#1b1c1d">
+    <link rel="shortcut icon" href="https://argolon.com/favicon.ico">
+    <meta name="msapplication-TileColor" content="#1b1c1d">
+    <meta name="theme-color" content="#1b1c1d">
+
+
+
+<meta itemprop="name" content="Open issues on Python development">
+<meta itemprop="description" content="As mentioned in a previous post, we have been having great success recently using Python as a develoment language for both customer engagements and our own internal long-term projects. There are however, some areas where we have to make decisions in its usage.
+The first is quite simple - development environment. The options are currently quite limited: The PythonWin IDE, Eclipse with PyDev or &ldquo;Insert Name of One True Editor Here&rdquo;&#43; CLI.">
+<meta itemprop="datePublished" content="2005-12-10T00:11:27+00:00" />
+<meta itemprop="dateModified" content="2005-12-10T00:11:27+00:00" />
+<meta itemprop="wordCount" content="308">
+<meta itemprop="image" content="https://argolon.com"/>
+
+
+
+<meta itemprop="keywords" content="Database-API,mysql,ODBC,oracle,Python,SQL-Server," />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://argolon.com"/>
+
+<meta name="twitter:title" content="Open issues on Python development"/>
+<meta name="twitter:description" content="As mentioned in a previous post, we have been having great success recently using Python as a develoment language for both customer engagements and our own internal long-term projects. There are however, some areas where we have to make decisions in its usage.
+The first is quite simple - development environment. The options are currently quite limited: The PythonWin IDE, Eclipse with PyDev or &ldquo;Insert Name of One True Editor Here&rdquo;&#43; CLI."/>
+
+
+
+
+    <meta property="og:title" content="Open issues on Python development" />
+<meta property="og:description" content="As mentioned in a previous post, we have been having great success recently using Python as a develoment language for both customer engagements and our own internal long-term projects. There are however, some areas where we have to make decisions in its usage.
+The first is quite simple - development environment. The options are currently quite limited: The PythonWin IDE, Eclipse with PyDev or &ldquo;Insert Name of One True Editor Here&rdquo;&#43; CLI." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://argolon.com/2005/12/10/open-issues-on-python-development/" />
+<meta property="og:image" content="https://argolon.com"/>
+<meta property="article:published_time" content="2005-12-10T00:11:27+00:00" />
+<meta property="article:modified_time" content="2005-12-10T00:11:27+00:00" />
+
+
+
+
+    <meta property="article:section" content="Argolon" />
+
+    <meta property="article:section" content="Software Development" />
+
+
+
+    <meta property="article:published_time" content="2005-12-10 00:11:27 &#43;0000 GMT" />
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://argolon.com/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">&gt;</span>
+            <span class="logo__text">$ cd /home/</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://argolon.com/about/">About</a></li><li><a href="https://argolon.com/blog/">Blog</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://argolon.com/2005/12/10/open-issues-on-python-development/">Open issues on Python development</a></h2>
+
+            
+            
+            
+
+            <div class="post-content">
+                <p>As mentioned in a previous post, we have been having great success recently using Python as a develoment language for both customer engagements and our own internal long-term projects. There are however, some areas where we have to make decisions in its usage.</p>
+<p>The first is quite simple - development environment. The options are currently quite limited: The PythonWin IDE, Eclipse with PyDev or &ldquo;Insert Name of One True Editor Here&rdquo;+ CLI. At the moment we are mainly using the Eclipse approach but have doubts over things like performance and debug features. Opinions (not flame wars) would be genuinely appreciated particularly in the area of scalability for large applications.</p>
+<p>The second is database access. In most of our developments, we strive for cross-platform capability, generally targetting W2K/W2K3, Linux and sometimes Solaris. Ideally for systems where there is no Stored Procedure development on the DB, we aim for DB independence too with SQL Server, Oracle and MySQL being the top three that we have to deal with.</p>
+<p>Unfortunately most developers in recent years are very Windows centric and start using ODBC by default. The big advantage of Java is that the JDBC API works on every platform that Java supports and is available for pretty much every mainstream DB going. In the case of Python, the options are ODBC or the native DB API. The ODBC driver works fine but obviously only on Windows. The <a href="http://www.python.org/peps/pep-0249.html">Database API itself</a> is solid and in theory gives us DB independence but we have been concerned about the variable quality and level of development on the various DB-specific modules which are required.</p>
+<p>We are interested in hearing from other Python developers who do heavy-duty DB related development on a variety of RDBMS what their experience is of the stability and feature-set of the various modules.</p>
+<p>[tags]Python, ODBC, Database API, SQL Server, Oracle, MySQL[/tags]</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
+
+        <span class="tag"><a href="https://argolon.com/tags/database-api/">Database-API</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/mysql/">mysql</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/odbc/">ODBC</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/oracle/">oracle</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/python/">Python</a></span>
+        <span class="tag"><a href="https://argolon.com/tags/sql-server/">SQL-Server</a></span>
+        
+    </p>
+
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+
+        <span class="tag"><a href="https://argolon.com/categories/argolon/">Argolon</a></span>
+        <span class="tag"><a href="https://argolon.com/categories/software-development/">Software Development</a></span>
+        
+    </p>
+
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            <span><a href="https://argolon.com">Argolon Solutions Ltd.</a></span><span><a href="https://argolon.com/blog/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+          </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="https://argolon.com/bundle.min.af435e44374f1e99a669ea8cd5bb9a2fceed80588941a451bfddb66b86a67c9f40b0f417e9543a763f809aa7e9300d7b1d69bf99615810ba02ac70396d50fad5.js" integrity="sha512-r0NeRDdPHpmmaeqM1buaL87tgFiJQaRRv922a4amfJ9AsPQX6VQ6dj&#43;AmqfpMA17HWm/mWFYELoCrHA5bVD61Q=="></script>
+
+
+
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>productivity on Argolon Solutions</title>
+    <link>https://argolon.com/tags/productivity/</link>
+    <description>Recent content in productivity on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 09 Dec 2005 23:46:35 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The power of so-called scripting languages</title>
+      <link>https://argolon.com/2005/12/10/the-power-of-so-called-scripting-languages/</link>
+      <pubDate>Fri, 09 Dec 2005 23:46:35 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/the-power-of-so-called-scripting-languages/</guid>
+      <description>We have always been big fans of development languages which have traditionally been referred to as scripting languages.
+Going back over 10 years, we created some very useful tools and automation systems using TCL. This may seem like an odd niche choice, but for us, at the time, it had some major advantages. It was cross-platform, it could easily interface to hardware systems like serial ports and it had a great third-party tool called FreeWrap which allowed one to create executables and not require our end-customers to install the full Tcl package.</description>
+    </item>
+    
+  </channel>
+</rss>

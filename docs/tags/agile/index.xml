@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on Argolon Solutions</title>
+    <link>https://argolon.com/tags/agile/</link>
+    <description>Recent content in Agile on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 14 Jul 2006 07:53:46 +0000</lastBuildDate><atom:link href="https://argolon.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Use of Scrum with outsourcers?</title>
+      <link>https://argolon.com/2006/07/14/use-of-scrum-with-outsourcers/</link>
+      <pubDate>Fri, 14 Jul 2006 07:53:46 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/14/use-of-scrum-with-outsourcers/</guid>
+      <description>Over the many years I have worked in project management I have become less and less a fan of the highly formalised methodologies and much more impressed by Agile approaches. I have seen more death marches driven by gantts than I care to remember. In fact, I saw one in Lucent many years ago that took MS Project over five minutes to load due to the number of dependencies they were trying to track.</description>
+    </item>
+    
+  </channel>
+</rss>

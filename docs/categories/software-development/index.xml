@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development on Argolon Solutions</title>
+    <link>https://argolon.com/categories/software-development/</link>
+    <description>Recent content in Software Development on Argolon Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 23 May 2007 10:19:56 +0000</lastBuildDate><atom:link href="https://argolon.com/categories/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A plea to the Wordpress developers</title>
+      <link>https://argolon.com/2007/05/23/a-plea-to-the-wordpress-developers/</link>
+      <pubDate>Wed, 23 May 2007 10:19:56 +0000</pubDate>
+      
+      <guid>https://argolon.com/2007/05/23/a-plea-to-the-wordpress-developers/</guid>
+      <description>Please please please stop changing what I write.
+You don&amp;rsquo;t know best. I do!
+If I enter three dots, I want three dots, not a bloody ellipsis.
+I don&amp;rsquo;t want smart quotes.
+Don&amp;rsquo;t replace my apostrophes with backticks.
+I don&amp;rsquo;t want my perfectly valid nested XHTML trashed when you &amp;ldquo;fix&amp;rdquo; it.
+If I enter a div in the Rich Text Editor, I want a div, not a damned p.
+I swear, this behaviour reminds me most of Microsoft Word.</description>
+    </item>
+    
+    <item>
+      <title>That was a rollercoaster 12 months</title>
+      <link>https://argolon.com/2006/12/24/that-was-a-rollercoaster-12-months/</link>
+      <pubDate>Sun, 24 Dec 2006 08:24:26 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/12/24/that-was-a-rollercoaster-12-months/</guid>
+      <description>In one short year we&amp;rsquo;ve gone from building web-based datacenter management and planning tools for our customer&amp;rsquo;s customers to starting our own web application development and getting ready to launch it. If you&amp;rsquo;d asked me a year ago where we&amp;rsquo;d be today, I would probably have said &amp;ldquo;doing the same thing as now&amp;rdquo;. I love being wrong.
+The launch of the Structured Blogging initiative last December kicked off our interest in microformats both as end-users and from a business perspective.</description>
+    </item>
+    
+    <item>
+      <title>Comments from April to September back online and sxore remover now available here</title>
+      <link>https://argolon.com/2006/10/31/comments-from-april-to-september-back-online-and-sxore-remover-now-available-here/</link>
+      <pubDate>Tue, 31 Oct 2006 10:18:09 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/10/31/comments-from-april-to-september-back-online-and-sxore-remover-now-available-here/</guid>
+      <description>As regular readers know, I used the sxore comment system on this blog from April to September. Whilst the intent of sxore was good, the reality fell far short. It was a big mistake handing over my comment data to a third party where that data was not transparently available to me if I ever wished to stop using their services.
+I finally bit the bullet a few weeks ago and turned off sxore due to the serious bugs and lack of development on the important features of the system.</description>
+    </item>
+    
+    <item>
+      <title>Wiki Driven Development (WDD)</title>
+      <link>https://argolon.com/2006/08/04/wiki-driven-development-wdd/</link>
+      <pubDate>Fri, 04 Aug 2006 08:06:22 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/08/04/wiki-driven-development-wdd/</guid>
+      <description>Jason Kolb coined this great term a few weeks back and it has stuck in my head. He is writing the end-user documentation in the wiki before he starts development. Our scope is slightly less ambitious and that is simply to use a wiki as the initial requirements management tool for the first time.
+In my first job back in 1745, all of our documentation was still being done using variations on troff.</description>
+    </item>
+    
+    <item>
+      <title>Carson Workshops &#34;A-Z: How to Build a Web App&#34;</title>
+      <link>https://argolon.com/2006/07/24/carson-workshops-a-z-how-to-build-a-web-app/</link>
+      <pubDate>Mon, 24 Jul 2006 09:46:05 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/24/carson-workshops-a-z-how-to-build-a-web-app/</guid>
+      <description>0.3
+A one day guide to building a Web Application Jul 24, 2006 by
+Conor O&#39;Neill  event
+Carson Workshops &amp;ldquo;A-Z: How to build a Web App&amp;rdquo;
+ ★★★★★ Last Wednesday I attended the one day [Carson Workshop](http://www.carsonworkshops.com/) on how to build a WebApp presented by Ryan Carson. The event was held in the Energy Clinic in London and had about 15 attendees.  Ryan kicked off with a quick round-room introduction and we realised we had a very nice mix of people from funded startups, to guys looking to leave their jobs to give it a go, to companies looking to move into this area.</description>
+    </item>
+    
+    <item>
+      <title>Use of Scrum with outsourcers?</title>
+      <link>https://argolon.com/2006/07/14/use-of-scrum-with-outsourcers/</link>
+      <pubDate>Fri, 14 Jul 2006 07:53:46 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/07/14/use-of-scrum-with-outsourcers/</guid>
+      <description>Over the many years I have worked in project management I have become less and less a fan of the highly formalised methodologies and much more impressed by Agile approaches. I have seen more death marches driven by gantts than I care to remember. In fact, I saw one in Lucent many years ago that took MS Project over five minutes to load due to the number of dependencies they were trying to track.</description>
+    </item>
+    
+    <item>
+      <title>it@cork Web2.0 Conference - Rob Burke</title>
+      <link>https://argolon.com/2006/06/10/itcork-web20-conference-rob-burke/</link>
+      <pubDate>Sat, 10 Jun 2006 16:15:38 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/06/10/itcork-web20-conference-rob-burke/</guid>
+      <description>it@cork Web2.0 Conference Event type: Conference
+Date: 2006-06-08
+Rating: 4 out of 5
+As sponsers of the conference, it was only fair that Microsoft was given the opportunity to present their Web 2.0 wares. I talked to Rob the previous night to discover that he is an evangelist from Microsoft&amp;rsquo;s Platform and Developer Group. I&amp;rsquo;m a big fan of this type of role within companies. Good evangelists can transform the image of a company and really re-invigorate employees as I believe Robert Scoble has done for Microsoft.</description>
+    </item>
+    
+    <item>
+      <title>Version Control Everything</title>
+      <link>https://argolon.com/2006/03/23/version-control-everything/</link>
+      <pubDate>Thu, 23 Mar 2006 12:44:22 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/03/23/version-control-everything/</guid>
+      <description>The world of SCM and Version control has always been a major part of software development but usually comes as a big shock to new developers. SCM approaches range from global Clearcase systems with multiple sysadmins keeping it humming to single developers creating files with names like *_v01, *_v02.
+Many years back, I was kicking off my first project as the leader and also my first project on a non-Vax development platform.</description>
+    </item>
+    
+    <item>
+      <title>Free VMWare Server - transform your software development efficiency</title>
+      <link>https://argolon.com/2006/02/07/free-vmware-server-transform-your-software-development-efficiency/</link>
+      <pubDate>Tue, 07 Feb 2006 08:33:52 +0000</pubDate>
+      
+      <guid>https://argolon.com/2006/02/07/free-vmware-server-transform-your-software-development-efficiency/</guid>
+      <description>One of our customers is rightly a big VMWare fan. We have a test-bed in one of their labs running ESX Server with four VMs on one rack-mount. The management and maintenance overhead of this compared to four servers? You do the math(s).
+If you test software and you don&amp;rsquo;t use VMWare Workstation, ESX or GSX, you are wasting time and money. Create a base VM, store it somewhere safe, make a copy any time you want to do some testing, test using the copy, finish test, delete copy, start from clean again (or heck, just use the snapshot feature).</description>
+    </item>
+    
+    <item>
+      <title>Inquirer Open Source Database Roundup</title>
+      <link>https://argolon.com/2005/12/10/inquirer-open-source-database-roundup/</link>
+      <pubDate>Sat, 10 Dec 2005 01:06:00 +0000</pubDate>
+      
+      <guid>https://argolon.com/2005/12/10/inquirer-open-source-database-roundup/</guid>
+      <description>The Inquirer has a nice round-up of most of the players in the Open Source Datbase Market. Over the past few years, we have dealt with a lot of different customer DBs and here are a few thoughts based on that experience.
+Overall what we have seen is an inexorable move from Oracle to SQL Server at the high end and a move from commercial DBs to Open Source ones at the low and mid-end.</description>
+    </item>
+    
+  </channel>
+</rss>
