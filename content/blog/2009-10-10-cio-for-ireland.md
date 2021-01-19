@@ -42,4 +42,4 @@ I'm looking forward to seeing a CIO with real teeth and real vision who understa
 * Strong relationships built between the private sector tech community in Ireland and the public sector to keep both aware of latest developments 
 * Once per quarter IRLCamp where public sector and private sector get together and present interesting projects, ideas and technologies and learn from each other. These lightweight BarCamp style events will have people at every level, not formal Powerpoint from senior people.
 
-To see what is already happening and what we can learn from that's happening in the USA, see [my recent Web2Ireland post](http://web2ireland.org/2009/09/06/government-2-0-in-ireland/) here.
+To see what is already happening and what we can learn from that's happening in the USA, see [my recent Web2Ireland post](https://web2ireland.org/2009/09/government-2-0-in-ireland/) here.

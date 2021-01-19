@@ -34,5 +34,5 @@ You can also usually get me on skype at cwjoneill, conoro on Yahoo IM and GTalk 
 
 If you like the opening story, please consider [DIGGing](http://digg.com/tech_news/Blognation_Ireland_Launches) it.
 
-Don't worry, I'll still be posting regularly here and [web2ireland](http://web2ireland.org/) about all those topics which are appropriate to a local Irish audience.
+Don't worry, I'll still be posting regularly here and [web2ireland](https://web2ireland.org/) about all those topics which are appropriate to a local Irish audience.
 

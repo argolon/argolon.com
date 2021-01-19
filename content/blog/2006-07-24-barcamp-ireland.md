@@ -12,7 +12,7 @@ tags:
 - Barcamp-Ireland
 ---
 
-[Fergus](http://web2ireland.org/?p=102), [Paul](http://www.firstpartners.net/blog/location/dublin/2006/07/22/anybody-up-for-barcamp-ireland/) and [James ](http://eirepreneur.blogs.com/eirepreneur/2006/07/going_to_barcam.html)have all blogged about [BarCamp Ireland](http://barcamp.org/BarCampIreland) already. I just bit the bullet and signed up to talk rather than just attend. I've a few things I can usefully contribute:
+[Fergus](https://web2ireland.org/?p=102), [Paul](http://www.firstpartners.net/blog/location/dublin/2006/07/22/anybody-up-for-barcamp-ireland/) and [James ](http://eirepreneur.blogs.com/eirepreneur/2006/07/going_to_barcam.html)have all blogged about [BarCamp Ireland](http://barcamp.org/BarCampIreland) already. I just bit the bullet and signed up to talk rather than just attend. I've a few things I can usefully contribute:
 
 
 

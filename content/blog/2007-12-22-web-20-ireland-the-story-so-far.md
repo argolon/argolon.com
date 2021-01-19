@@ -18,7 +18,7 @@ A little storm erupted this morning over the TechLudd initiative which was launc
 
 Fergus Burns posted a comment which I consider incredibly important to the web community and I quote it below. I encourage you to offer your own opinions on the Segala post.
 
-On a sidenote, I just did a theme change on the [Web2Ireland](http://web2ireland.org/) site and imported all my old blognation posts there. It would be fantastic if some designer in the Irish web community would do a custom design and logo for the site. It has a large number of RSS subscribers and many highly influential people visit it regularly. It would be a great calling card for your design abilities.
+On a sidenote, I just did a theme change on the [Web2Ireland](https://web2ireland.org/) site and imported all my old blognation posts there. It would be fantastic if some designer in the Irish web community would do a custom design and logo for the site. It has a large number of RSS subscribers and many highly influential people visit it regularly. It would be a great calling card for your design abilities.
 
 Fergus on Web2Ireland and the community here:
 

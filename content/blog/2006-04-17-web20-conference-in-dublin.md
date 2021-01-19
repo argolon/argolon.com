@@ -68,7 +68,7 @@ Ireland
 
 					
 
-**Link**: [Web 2.0 in Ireland](http://web2ireland.org/?page_id=53)
+**Link**: [Web 2.0 in Ireland](https://web2ireland.org/?page_id=53)
 
 				
 

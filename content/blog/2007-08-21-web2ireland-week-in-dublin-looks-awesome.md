@@ -20,7 +20,7 @@ tags:
 - web2ireland
 ---
 
-Look at the lineup (form [Web2Ireland.org](http://web2ireland.org/2007/08/17/web2ireland-week-september-10th-to-14th/) blog):
+Look at the lineup (form [Web2Ireland.org](https://web2ireland.org/2007/08/web2ireland-week-september-10th-to-14th/) blog):
 
 
 

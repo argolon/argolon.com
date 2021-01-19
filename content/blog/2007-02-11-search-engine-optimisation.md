@@ -15,7 +15,7 @@ Richard Hearne [has made a great offer](http://www.redcardinal.ie/marketing/11-0
 
 I don't think I need or want it on my personal blog as I have tons of incoming traffic on that site due to high Google rank for several of my "long-tail" posts. That blog is also 6 years old in April.
 
-That leaves this blog and the LouderVoice one (with Argolon being used for the link on the Blog Awards for best  Business Blog). Over the next few months I'll be putting a lot of work into the LV one and expect to drive up the traffic simply by virtue of the launch of our actual Web App [LouderVoice](http://www.loudervoice.com/). But I still intend to keep Argolon alive and kicking and discussing business and technology issues that are not necessarily directly related to LouderVoice.
+That leaves this blog and the LouderVoice one (with Argolon being used for the link on the Blog Awards for best  Business Blog). Over the next few months I'll be putting a lot of work into the LV one and expect to drive up the traffic simply by virtue of the launch of our actual Web App [LouderVoice](https://www.loudervoice.com/). But I still intend to keep Argolon alive and kicking and discussing business and technology issues that are not necessarily directly related to LouderVoice.
 
 So the basic facts about this blog:
 
@@ -28,7 +28,7 @@ So the basic facts about this blog:
 * I tend not to see any other blog as competition but as members of the same/similar conversations. Some of those are:
 
 	    * [Eirepreneur](http://www.eirepreneur.com)
-	    * [Web2Ireland](http://web2ireland.org/)
+	    * [Web2Ireland](https://web2ireland.org/)
 	    * [Keith Bohanna](http://bohanna.typepad.com/)
 	    * [Bernie Goldbach](http://irish.typepad.com/)
 	    * [Tom Raftery](http://tomrafteryit.net/)
