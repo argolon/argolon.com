@@ -20,7 +20,7 @@ tags:
 Here's a rough scan of my thoughts as a start-up founder, Genesis alumni, organiser of [Cork OpenCoffee](http://www.corkopencoffee.org/) and editor of [Web2Ireland.org](http://www.web2ireland.org/).
 
 
-![sbp03](https://www.argolon.com/wp-content/uploads/2009/06/sbp03.png)
+![sbp03](https://argolon.com/wp-content/uploads/2009/06/sbp03.png)
 
 
 
@@ -42,7 +42,7 @@ One quote which didn't make it into the SBP but which is critical to my thinking
 
 
 
-UPDATE 1: After some old-school cutting and pasting, I have [scanned the entire article as a PDF](https://www.argolon.com/wp-content/uploads/2009/06/SBP_Cork_Startups_20090614.pdf). Enjoy.
+UPDATE 1: After some old-school cutting and pasting, I have [scanned the entire article as a PDF](https://argolon.com/wp-content/uploads/2009/06/SBP_Cork_Startups_20090614.pdf). Enjoy.
 
 UPDATE 2: Some coverage of the piece by [Bernie Goldbach](http://www.insideview.ie/).
 

@@ -17,8 +17,8 @@ tags:
 
 I have come to the conclusion that Vodafone will be roadkill on the path to ubiquitous connectivity. I've talked to several mobile operators in the past year and they all accept that they must become internet companies, they just don't know how. This indecision will be fatal if Google decides to go global with Android and their spectrum purchases. Given my experiences as a simple punter in the past two weeks, can I beseech Google to buy the Three network off Hutchison Whampoa and show this relic of the 20th century what execution is all about?
 
-[![Red Flag Act 1865](https://www.argolon.com/wp-content/uploads/2007/12/174497674_57dca38088_m.jpg)
-](https://www.argolon.com/wp-content/uploads/2007/12/174497674_57dca38088_m.jpg)
+[![Red Flag Act 1865](https://argolon.com/wp-content/uploads/2007/12/174497674_57dca38088_m.jpg)
+](https://argolon.com/wp-content/uploads/2007/12/174497674_57dca38088_m.jpg)
 
 My experience with Voda recently involved them conning me out of money on the one hand and refusing to take my money on the other. It is truly a company that hasn't the vaguest clue what its customers want.
 

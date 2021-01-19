@@ -13,8 +13,8 @@ This first generation Google Android phone is an interesting mish-mash of brilli
 
 The G1 is not available in Ireland and may never be. So far it has been released in the USA and the UK. Calls to CPW in Enniskillen drew a blank as they had no idea what I was talking about. So I bit the bullet and paid full whack for an unlocked phone on eBay. The vendor in San Francisco shipped it the day before Thanksgiving and it arrived on the Monday. I was very impressed (and relieved). I immediately replaced the 1GB microSD card with a 4GB one.
 
-[![](https://www.argolon.com/wp-content/uploads/2009/01/large1.jpg)
-](https://www.argolon.com/wp-content/uploads/2009/01/large1.jpg)
+[![](https://argolon.com/wp-content/uploads/2009/01/large1.jpg)
+](https://argolon.com/wp-content/uploads/2009/01/large1.jpg)
 
 First impressions of the hardware are not great. The screen looks good, the buttons cheap, the kink at the bottom weird, the full qwerty keyboard better than expected, the scroll-ball surprisingly usable , the lack of a standard audio jack bizarre, the wobble between the upper and lower halves of the phone terribly annoying and the camera crap.
 

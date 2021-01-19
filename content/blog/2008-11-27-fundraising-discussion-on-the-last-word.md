@@ -22,5 +22,5 @@ tags:
 
 On Tuesday, I was on TodayFM's [The Last Word](http://todayfm.com/sectional.asp?id=881) radio show with Professor Frank Roche talking to Matt Cooper. The topic was centered on fund raising in the current economic climate. You can hear what we had to say in [this audio clip](http://www.radioireland.ie/lastword/25112008-18.wmv). The interview starts about 4 minutes 30 seconds in. 
 
-Don't forget that our [2008 BES offering](https://www.argolon.com/bes-offering-2008/) is open until Dec 31st. The response to-date has been very positive.
+Don't forget that our [2008 BES offering](https://argolon.com/bes-offering-2008/) is open until Dec 31st. The response to-date has been very positive.
 

@@ -27,5 +27,5 @@ We designed LifeSuxDaily.com to let you share, with the community, those situati
 LifeSuxDaily.com is a user-powered community site. Users submit their stories, drive them through the moderation process and, once published, comment and vote on them.</blockquote>
 
 
-[![](https://www.argolon.com/wp-content/uploads/2008/07/lifesux.jpg)
-](https://www.argolon.com/wp-content/uploads/2008/07/lifesux.jpg)
+[![](https://argolon.com/wp-content/uploads/2008/07/lifesux.jpg)
+](https://argolon.com/wp-content/uploads/2008/07/lifesux.jpg)

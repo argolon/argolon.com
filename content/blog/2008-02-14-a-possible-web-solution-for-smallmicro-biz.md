@@ -16,7 +16,7 @@ tags:
 - web
 ---
 
-We had a great exchange of ideas on [the previous post](https://www.argolon.com/2008/02/08/irish-smallmicro-businesses-and-the-web/) about ways of getting very small businesses online. Of particular interest to me are the companies with zero technical ability who just need a solution which involves them typing in some information about their company and then they have a web-presence.
+We had a great exchange of ideas on [the previous post](https://argolon.com/2008/02/08/irish-smallmicro-businesses-and-the-web/) about ways of getting very small businesses online. Of particular interest to me are the companies with zero technical ability who just need a solution which involves them typing in some information about their company and then they have a web-presence.
 
 One solution for this type of business is [eWrite "Cork"](http://www.ewritecork.com/). Up until now the [eWrite](http://www.ewrite.ie/) guys, John and Gordon, have been focused more on the Small to Medium end of the market rather than the Micro to Small. With "Cork" they have put together an inexpensive package which will get you online with minimal effort and maximum handholding.
 

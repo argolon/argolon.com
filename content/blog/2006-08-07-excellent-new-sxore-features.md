@@ -17,7 +17,7 @@ tags:
 - sxore
 ---
 
-After [my recent griping](https://www.argolon.com/2006/07/06/whats-the-story-with-sxore/) about [sxore](http://sxore.com) and the recent lack of development, I'm delighted to see that things are on the move again. They have just upgraded the logon capabilites. In addition to the standard sxore/sxip, you can now login using [OpenID](http://www.lifewiki.net/openid/OpenIDServers) and [i-name](http://www.inames.org/register.html).
+After [my recent griping](https://argolon.com/2006/07/06/whats-the-story-with-sxore/) about [sxore](http://sxore.com) and the recent lack of development, I'm delighted to see that things are on the move again. They have just upgraded the logon capabilites. In addition to the standard sxore/sxip, you can now login using [OpenID](http://www.lifewiki.net/openid/OpenIDServers) and [i-name](http://www.inames.org/register.html).
 
 
 

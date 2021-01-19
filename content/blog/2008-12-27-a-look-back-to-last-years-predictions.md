@@ -118,7 +118,7 @@ My predictions for 2008 were very hit and miss (mainly miss), here's a quick re-
 	    * No, not even close.
 
 
-* RyanAir will buy 3 ![:-)](https://www.argolon.com/wp-includes/images/smilies/icon_smile.gif)
+* RyanAir will buy 3 ![:-)](https://argolon.com/wp-includes/images/smilies/icon_smile.gif)
 
 
 	    * Ditto.

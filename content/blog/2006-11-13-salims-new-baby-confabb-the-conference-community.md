@@ -14,7 +14,7 @@ I had a very interesting IM session on Skype this morning with [Salim Ismail](ht
 
 <blockquote>Confabb (confabb.com) combines an aggregate database of major conferences, conventions, and trade shows sorted by industry with social networking tools designed to empower conference attendees to improve their overall experience.</blockquote>
 
-He let me play around a bit with it and I absolutely love the idea (and not only because he included my [it@cork Web 2.0 Conference reviews](https://www.argolon.com/2006/06/10/itcork-web20-conference-review-intro/) on the site). For someone who wants one place to go to find out when, what and how good any conference around the world is, this is a must visit site. 
+He let me play around a bit with it and I absolutely love the idea (and not only because he included my [it@cork Web 2.0 Conference reviews](https://argolon.com/2006/06/10/itcork-web20-conference-review-intro/) on the site). For someone who wants one place to go to find out when, what and how good any conference around the world is, this is a must visit site. 
 
 I expect to spend a lot of 2007 attending conferences to get the message out about [LouderVoice](http://www.loudervoice.com/) and this resource will be invaluable in my planning. In particular the reviews and other social networking tools give it far more value than a pure event site like [Upcoming](http://upcoming.org) or [Eventful](http://www.eventful.com/).
 
@@ -24,7 +24,7 @@ Two very important aspects of the site which will aid its growth are the depth o
 
 I think this may become a very important site for me and I'd love in the long term to see some integration or mash-ups of Confabb, Eventful and something like LinkedIn.
 
-For those of you who don't know Salim, he is co-founder of PubSub and gave a [great speech at the conference in Cork](https://www.argolon.com/2006/06/10/itcork-web20-conference-salim-ismail/) in June. According to recent reports he has three or four start-up irons in the fire right now so it looks like Confabb is just the first to break cover.
+For those of you who don't know Salim, he is co-founder of PubSub and gave a [great speech at the conference in Cork](https://argolon.com/2006/06/10/itcork-web20-conference-salim-ismail/) in June. According to recent reports he has three or four start-up irons in the fire right now so it looks like Confabb is just the first to break cover.
 
 UPDATE 1; The TechCruch guys have [a great review of it](http://www.techcrunch.com/2006/11/13/confabb-find-track-and-review-conferences/).
 

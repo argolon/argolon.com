@@ -11,8 +11,8 @@ categories:
 
 PutPlace may finally be the consumer-friendly application that gets the average punter securing their data and accessing it from wherever they like. A solid set of features with an easy-to-use site shows Microsoft et al how this should be done.
 
-[![](https://www.argolon.com/wp-content/uploads/2008/07/putplace01-300x176.jpg)
-](https://www.argolon.com/wp-content/uploads/2008/07/putplace01.jpg)
+[![](https://argolon.com/wp-content/uploads/2008/07/putplace01-300x176.jpg)
+](https://argolon.com/wp-content/uploads/2008/07/putplace01.jpg)
 
 I've been talking to Joe Drumgoole about [PutPlace](http://www.putplace.com) for as long as I've known him. To be honest, I never quite grasped what it was about when I heard phrases like Digital Lifestyle Aggregator. But recently, when I read the coverage and started poking around, I finally got it. It's backup and ubiquitous access to your files. Is this sexy? No. Is this something every average computer user should have installed? Absolutely!
 
@@ -24,8 +24,8 @@ I think JungleDisk is the most appropriate thing to compare with PutPlace from a
 
 My sign-up on PutPlace and install of the desktop app on XP was seamless. The app is simple to use and I added the "My Pictures" folder for backing up. It started this immediately and I was thrilled to see that it did a few things which no other backup app I've seen seems to manage. Basically everything else I've tried chews up 100% CPU and 100% bandwidth when scanning directories and doing the backup. PutPlace has throttled what they are doing. I saw 12% CPU and just some portion of the 2Mbs DSL being used. Sure this slows down the backup process but I'm happier letting it take a few days doing the first backup than having my whole setup locked-up for hours.
 
-[![](https://www.argolon.com/wp-content/uploads/2008/07/putplace03-300x241.jpg)
-](https://www.argolon.com/wp-content/uploads/2008/07/putplace03.jpg)
+[![](https://argolon.com/wp-content/uploads/2008/07/putplace03-300x241.jpg)
+](https://argolon.com/wp-content/uploads/2008/07/putplace03.jpg)
 
 I was chuffed then to find that the files being backed up were available immediately via the web-site before everything else had been backed up. The URL structure to go directly to files using the browser is a stroke of genius. The "Share" aspect of PutPlace is not there yet from what I can see. I assume it'll be in that area it will appear.
 

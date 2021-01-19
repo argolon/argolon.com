@@ -10,7 +10,7 @@ categories:
 - Community
 ---
 
-[Shel](http://redcouch.typepad.com/weblog/2006/09/cork_blogger_di_1.html) and [Rick](http://ricksegal.typepad.com/pmv/2006/09/the_european_ch.html) had to postpone [their original visit](https://www.argolon.com/2006/07/27/rick-segal-shel-israel-in-cork-on-sept-9th/) but they have now re-organised for Oct 17th in Cork. Pat Phelan has all the details [over at Roam4Free.ie](http://blog.roam4free.ie/blogger-dinner). See you all there.
+[Shel](http://redcouch.typepad.com/weblog/2006/09/cork_blogger_di_1.html) and [Rick](http://ricksegal.typepad.com/pmv/2006/09/the_european_ch.html) had to postpone [their original visit](https://argolon.com/2006/07/27/rick-segal-shel-israel-in-cork-on-sept-9th/) but they have now re-organised for Oct 17th in Cork. Pat Phelan has all the details [over at Roam4Free.ie](http://blog.roam4free.ie/blogger-dinner). See you all there.
 
 
 

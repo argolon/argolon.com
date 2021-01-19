@@ -15,8 +15,8 @@ This afternoon I was watching [the interview Jon Udell did](http://weblog.infowo
 
 I had already installed it and read all the press on the new features and my only disappointment so far was that the ATOM Publishing support has not yet been implemented. Then about 10 minutes into the interview, I see this screen and I realised that [hCalendar](http://microformats.org/wiki/hcalendar) is now supported [via plug-in](http://gallery.live.com/liveItemDetail.aspx?li=9751e563-1408-4fc3-8028-bd4351edb1fb&l=8) on Live Writer!
 
-[![](https://www.argolon.com/wp-content/uploads/2006/10/WindowsLiveWriter/7abc657acb37_11783/hCalendar_LiveWriter.jpg)
-](https://www.argolon.com/wp-content/uploads/2006/10/WindowsLiveWriter/7abc657acb37_11783/hCalendar_LiveWriter%5B1%5D.jpg)
+[![](https://argolon.com/wp-content/uploads/2006/10/WindowsLiveWriter/7abc657acb37_11783/hCalendar_LiveWriter.jpg)
+](https://argolon.com/wp-content/uploads/2006/10/WindowsLiveWriter/7abc657acb37_11783/hCalendar_LiveWriter%5B1%5D.jpg)
 
 I had wondered if a third-party was going to do this due to the ease of creating plug-ins. For MS themselves to create such a tool is major news in the world of structured content creation. I can't believe no-one else has blogged this yet!
 

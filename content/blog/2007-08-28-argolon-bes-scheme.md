@@ -16,4 +16,4 @@ tags:
 
 We will be announcing our BES scheme as soon as the initial paperwork has been processed. 
 
-If you want to hear more about any of the investment opportunities in Argolon Solutions and the LouderVoice web-site please contact me via any of the methods [listed here](https://www.argolon.com/contact/).
+If you want to hear more about any of the investment opportunities in Argolon Solutions and the LouderVoice web-site please contact me via any of the methods [listed here](https://argolon.com/contact/).

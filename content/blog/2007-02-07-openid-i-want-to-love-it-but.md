@@ -39,7 +39,7 @@ Is the balance ever so slightly off here? Should the second list not be in the t
 
 Even worse, whilst Technorati are an OpenID provider, they won't let you use OpenID to log on to their site. Not only that, but as with so much of Technorati recently (and it pains me to say it as I love them), I couldn't use my Technorati profile to log on to Jyte ("There was an error with the request. Please try again later.")
 
-On the upside, I've always been a big fan of Fred and the ClaimID guys and one of their new features is wonderful. By adding two lines to the header of my various blogs, I can now login to OpenID-enabled sites using https://www.argolon.com or http://blog.loudervoice.com. Now I don't even have to remember one URL. I am the URL. Aside: This worked on Ma.gnolia and Jyte but not on Zooomr.
+On the upside, I've always been a big fan of Fred and the ClaimID guys and one of their new features is wonderful. By adding two lines to the header of my various blogs, I can now login to OpenID-enabled sites using https://argolon.com or http://blog.loudervoice.com. Now I don't even have to remember one URL. I am the URL. Aside: This worked on Ma.gnolia and Jyte but not on Zooomr.
 
 The key feature ALL OpenID-enabld sites need to support is the ability to let me login using OpenID and then let me associate an existing non-OpenID login with that identity. Ma.gnolia and Jyte both do this slickly. It doesn't even seem to be possible in LiveJournal, when I logged in using OpenID, it gave me a new account. And I cannot figure out if there is a way of linking a TypeKey account to an external OpenID identity. This is from the people who invented OpenID!
 

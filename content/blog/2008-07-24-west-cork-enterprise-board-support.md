@@ -16,8 +16,8 @@ tags:
 
 I spent a very interesting afternoon talking to Christine O'Donovan in [WCEB](http://www.wceb.ie/) in Clonakilty on Tuesday. We covered a pretty wide range of topics and I was highly impressed by the range of services they offer local businesses.
 
-[![](https://www.argolon.com/wp-content/uploads/2008/07/topbanner.jpg)
-](https://www.argolon.com/wp-content/uploads/2008/07/topbanner.jpg)
+[![](https://argolon.com/wp-content/uploads/2008/07/topbanner.jpg)
+](https://argolon.com/wp-content/uploads/2008/07/topbanner.jpg)
 
 Our big area of mutual frustration was the lack of take-up on the [Tech-Check](http://www.techcheck.ie/) scheme. I've written [about it before](http://conoroneill.com/2008/03/19/have-a-small-business-and-need-it-help/) on my personal blog and in summary, if you are a local biz in Ireland with even one laptop and you've never even talked to an Enterprise Board, then you are missing out hugely.
 
