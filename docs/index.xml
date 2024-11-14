@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://argolon.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://argolon.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argolon Solutions ceases operations</title>
+      <link>https://argolon.com/argolon-solutions-ceases-operations/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://argolon.com/argolon-solutions-ceases-operations/</guid>
+      <description>As of November 2024, LouderVoice and Argolon Solutions Ltd have ceased operations. We would like to thank our many loyal customers for their support over the years. We are proud of the service we provided, the many reviews we helped generate and the businesses we helped along the way.
+The LouderVoice API ran continuously with over 6 nines of reliability from 2008 until 2024.
+Please feel free to look back over our blog posts and news, beginning in June 2005.</description>
+    </item>
+    
     <item>
       <title>Blog Archive now online</title>
       <link>https://argolon.com/blog/blog-archive-now-online/</link>
@@ -96,16 +107,6 @@ A few months back OpenCoffee Mallow launched and by all accounts is going really
       <guid>https://argolon.com/2009/09/20/yes-1000-times-yes/</guid>
       <description>Read Pat Phelan&amp;rsquo;s post on &amp;ldquo;Irish Silicon Valley&amp;rdquo; now, right now.
 I don&amp;rsquo;t need to add anything except, please listen to the man, he knows what he is talking about.</description>
-    </item>
-    
-    <item>
-      <title>Multiple LouderVoice Updates</title>
-      <link>https://argolon.com/2009/06/24/multiple-loudervoice-updates/</link>
-      <pubDate>Wed, 24 Jun 2009 18:45:13 +0000</pubDate>
-      
-      <guid>https://argolon.com/2009/06/24/multiple-loudervoice-updates/</guid>
-      <description>It&amp;rsquo;s been a busy few weeks.
- Two years after LouderVoice launched with the aim to make reviews more useful via Microformats, Google announced support, followed quickly by several of our competitors. What took ye so long? Then we launched Ireland&amp;rsquo;s first Google Android Mobile application Then we enabled the use of simple #review to identify mini-reviews on Twitter Then Krishna De of Biz Growth Newsreleased an extended interview with CEO Conor all about ratings and reviews.</description>
     </item>
     
   </channel>

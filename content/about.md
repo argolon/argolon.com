@@ -6,10 +6,9 @@ aliases = ["about-us","contact"]
   name = "Conor O'Neill"
 +++
 
-Please see the [LouderVoice](https://www.loudervoice.com) web-site for full details of our services.
+As of November 2024, [LouderVoice](https://www.loudervoice.com) and Argolon Solutions Ltd have ceased operations. We would like to thank our many loyal customers for their support over the years. We are proud of the service we provided, the many reviews we helped generate and the businesses we helped along the way.
 
-Argolon Solutions Ltd, Old Chapel, Bandon, Co Cork, Ireland
+The LouderVoice API ran continuously with over 6 nines of reliability from 2008 until 2024.
 
-Company Registered in Ireland. No. 380595 | VAT: IE 6400595R
+Please feel free to look back over our blog posts and news, beginning in June 2005.
 
-Directors: Conor O'Neill, Catherine O'Neill, Kieran Johnston

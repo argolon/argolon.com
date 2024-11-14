@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://argolon.com/series/archive/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://argolon.com/tags/argolon/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://argolon.com/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -25,21 +20,12 @@
                 hreflang="en"
                 href="https://argolon.com/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://argolon.com/blog/blog-archive-now-online/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://argolon.com/blog/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://argolon.com/argolon-solutions-ceases-operations/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://argolon.com/categories/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -50,21 +36,15 @@
                 hreflang="en"
                 href="https://argolon.com/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/loudervoice/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://argolon.com/categories/news/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://argolon.com/series/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -75,11 +55,9 @@
                 hreflang="en"
                 href="https://argolon.com/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -90,5535 +68,3328 @@
                 hreflang="en"
                 href="https://argolon.com/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://argolon.com/blog/blog-archive-now-online/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://argolon.com/blog/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://argolon.com/categories/loudervoice/</loc>
     <lastmod>2010-03-03T12:16:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2010/03/03/loudervoice-irelands-review-rate-solutions-company-to-pay-e35000-to-web-partners/</loc>
     <lastmod>2010-03-03T12:16:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/argolon-solutions/</loc>
     <lastmod>2009-11-15T15:08:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bes/</loc>
     <lastmod>2009-11-15T15:08:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/business-expansion-scheme/</loc>
     <lastmod>2009-11-15T15:08:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/customer-reviews/</loc>
     <lastmod>2009-11-15T15:08:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/finance/</loc>
     <lastmod>2009-11-15T15:08:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/investor-pack/</loc>
     <lastmod>2009-11-15T15:08:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/11/15/loudervoice-bes-2009-business-expansion-scheme/</loc>
     <lastmod>2009-11-15T15:08:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcamp/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/barcamp/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcamp-cork/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/11/07/barcamp-cork-iii-next-weekend/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/barcampireland/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/community/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cork-airport-hotel/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/events/</loc>
     <lastmod>2009-11-07T15:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/10/30/getting-a-htc-hero-on-meteor-this-monday/</loc>
     <lastmod>2009-10-30T18:09:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/mobile/</loc>
     <lastmod>2009-10-30T18:09:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/business/</loc>
     <lastmod>2009-10-29T19:08:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/10/29/so-twitter-is-just-for-mindless-prattle-eh/</loc>
     <lastmod>2009-10-29T19:08:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/api/</loc>
     <lastmod>2009-10-10T13:31:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/argolon/</loc>
     <lastmod>2009-10-10T13:31:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cio/</loc>
     <lastmod>2009-10-10T13:31:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/10/10/cio-for-ireland/</loc>
     <lastmod>2009-10-10T13:31:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/government/</loc>
     <lastmod>2009-10-10T13:31:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/government-api/</loc>
     <lastmod>2009-10-10T13:31:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ireland/</loc>
     <lastmod>2009-10-10T13:31:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opencoffee/</loc>
     <lastmod>2009-09-29T16:45:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/09/29/west-cork-opencoffee/</loc>
     <lastmod>2009-09-29T16:45:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/west-cork-opencoffee/</loc>
     <lastmod>2009-09-29T16:45:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/business/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ecosystem/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pat-phelan/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/seedcamp/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/startups/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tc50/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/techcrunch/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/y-combinator/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/09/20/yes-1000-times-yes/</loc>
     <lastmod>2009-09-20T11:40:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/android/</loc>
     <lastmod>2009-06-24T18:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/europas/</loc>
     <lastmod>2009-06-24T18:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hreview/</loc>
     <lastmod>2009-06-24T18:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/microformats/</loc>
     <lastmod>2009-06-24T18:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/06/24/multiple-loudervoice-updates/</loc>
     <lastmod>2009-06-24T18:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/press/</loc>
     <lastmod>2009-06-24T18:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/reviews/</loc>
     <lastmod>2009-06-24T18:45:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cork/</loc>
     <lastmod>2009-06-14T16:42:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/06/14/quotes-from-conor-in-todays-sunday-business-post/</loc>
     <lastmod>2009-06-14T16:42:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sbp/</loc>
     <lastmod>2009-06-14T16:42:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/start-ups/</loc>
     <lastmod>2009-06-14T16:42:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sunday-business-post/</loc>
     <lastmod>2009-06-14T16:42:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/06/09/idea-generation-workshop/</loc>
     <lastmod>2009-06-09T10:54:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ideas/</loc>
     <lastmod>2009-06-09T10:54:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/support/</loc>
     <lastmod>2009-06-09T10:54:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wceb/</loc>
     <lastmod>2009-06-09T10:54:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/05/25/new-nokia-ovi-store-a-rip-off/</loc>
     <lastmod>2009-05-25T17:44:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/reviews/</loc>
     <lastmod>2009-05-25T17:44:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/facebook/</loc>
     <lastmod>2009-05-19T09:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/facebook-connect/</loc>
     <lastmod>2009-05-19T09:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/facebook-garage/</loc>
     <lastmod>2009-05-19T09:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/05/19/want-to-speak-at-next-facebook-garage-ireland/</loc>
     <lastmod>2009-05-19T09:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web2ireland/</loc>
     <lastmod>2009-05-19T09:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/business-plan/</loc>
     <lastmod>2009-05-07T16:35:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/iqprize/</loc>
     <lastmod>2009-05-07T16:35:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/05/07/iqprize-biz-plan-competition-only-5-days-to-go/</loc>
     <lastmod>2009-05-07T16:35:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/prize/</loc>
     <lastmod>2009-05-07T16:35:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bubble-brothers/</loc>
     <lastmod>2009-04-28T19:06:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/customers/</loc>
     <lastmod>2009-04-28T19:06:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/04/28/latest-loudervoice-deployments/</loc>
     <lastmod>2009-04-28T19:06:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/widget/</loc>
     <lastmod>2009-04-28T19:06:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wine/</loc>
     <lastmod>2009-04-28T19:06:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wine-reviews/</loc>
     <lastmod>2009-04-28T19:06:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/customers/</loc>
     <lastmod>2009-04-14T23:12:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/loudervoice-for-business/</loc>
     <lastmod>2009-04-14T23:12:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/04/15/our-latest-customer-is-puddleducks/</loc>
     <lastmod>2009-04-14T23:12:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/puddleducks/</loc>
     <lastmod>2009-04-14T23:12:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/adam-maguire/</loc>
     <lastmod>2009-02-03T13:50:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/business-and-finance/</loc>
     <lastmod>2009-02-03T13:50:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cloud-computing/</loc>
     <lastmod>2009-02-03T13:50:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/02/03/piece-in-business-finance-magazine/</loc>
     <lastmod>2009-02-03T13:50:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/saas/</loc>
     <lastmod>2009-02-03T13:50:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/01/18/review-of-htc-g1-mobile-phone-google-android/</loc>
     <lastmod>2009-01-18T10:58:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/google/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/htc/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/htc-g1/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mcc/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mnc/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/o2/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/smartphone/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/technical/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/01/18/using-android-phone-in-ireland/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vodafone/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vodafone-live/</loc>
     <lastmod>2009-01-18T09:14:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/active-address-book/</loc>
     <lastmod>2009-01-15T10:13:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2009/01/15/hyvasti-jaiku/</loc>
     <lastmod>2009-01-15T10:13:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jaiku/</loc>
     <lastmod>2009-01-15T10:13:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jyri/</loc>
     <lastmod>2009-01-15T10:13:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/webapps/</loc>
     <lastmod>2009-01-15T10:13:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/2009/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/enterprise-ireland/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/irish/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mobile/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/12/27/our-2009-predictions/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/predictions/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tech/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web2/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/webapp/</loc>
     <lastmod>2008-12-27T13:40:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/2008/</loc>
     <lastmod>2008-12-27T00:59:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/12/27/a-look-back-to-last-years-predictions/</loc>
     <lastmod>2008-12-27T00:59:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/technology/</loc>
     <lastmod>2008-12-27T00:59:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/12/13/le-web-thoughts/</loc>
     <lastmod>2008-12-13T10:26:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/leweb/</loc>
     <lastmod>2008-12-13T10:26:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/leweb08/</loc>
     <lastmod>2008-12-13T10:26:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/readwriteweb/</loc>
     <lastmod>2008-12-13T10:26:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blogger/</loc>
     <lastmod>2008-12-06T16:47:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/12/06/cork-bloggerstart-up-dinner/</loc>
     <lastmod>2008-12-06T16:47:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/corkopencoffee/</loc>
     <lastmod>2008-12-06T16:47:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/joe-scanlon/</loc>
     <lastmod>2008-12-06T16:47:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/market-lane/</loc>
     <lastmod>2008-12-06T16:47:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/occ/</loc>
     <lastmod>2008-12-06T16:47:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/finance/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/funding/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/fundraising/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/11/27/fundraising-discussion-on-the-last-word/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/investment/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/investment/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/matt-cooper/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/the-last-word/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/todayfm/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ucd-smurfitt-school/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vc/</loc>
     <lastmod>2008-11-27T15:21:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/11/21/blogger-and-startup-christmas-parties/</loc>
     <lastmod>2008-11-21T14:06:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/christmas/</loc>
     <lastmod>2008-11-21T14:06:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ifoods/</loc>
     <lastmod>2008-11-21T14:06:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/party/</loc>
     <lastmod>2008-11-21T14:06:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mashable/</loc>
     <lastmod>2008-11-12T23:34:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/open-web-awards/</loc>
     <lastmod>2008-11-12T23:34:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/openwebawards/</loc>
     <lastmod>2008-11-12T23:34:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/polldaddy/</loc>
     <lastmod>2008-11-12T23:34:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/11/13/the-mashable-open-web-awards/</loc>
     <lastmod>2008-11-12T23:34:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/10/26/nokia-maps-20-broken-in-ireland/</loc>
     <lastmod>2008-10-26T12:05:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/10/23/argolon-solutions-loudervoice-bes-2008/</loc>
     <lastmod>2008-10-23T11:31:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/b2b/</loc>
     <lastmod>2008-10-23T11:31:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tax-efficiency/</loc>
     <lastmod>2008-10-23T11:31:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/conference/</loc>
     <lastmod>2008-10-07T13:59:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/event/</loc>
     <lastmod>2008-10-07T13:59:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/itcork/</loc>
     <lastmod>2008-10-07T13:59:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/10/07/itcork-annual-conference-announced/</loc>
     <lastmod>2008-10-07T13:59:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/09/30/barcamp-cork-ii-on-november-1st/</loc>
     <lastmod>2008-09-30T08:31:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcampcork/</loc>
     <lastmod>2008-09-30T08:31:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/kilkenny/</loc>
     <lastmod>2008-09-21T08:15:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/podcamp/</loc>
     <lastmod>2008-09-21T08:15:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/podcamp-ireland/</loc>
     <lastmod>2008-09-21T08:15:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/09/21/podcamp-is-this-saturday/</loc>
     <lastmod>2008-09-21T08:15:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/09/11/vote-in-the-itcork-leaders-awards/</loc>
     <lastmod>2008-09-11T11:27:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/browser/</loc>
     <lastmod>2008-09-07T17:12:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/chrome/</loc>
     <lastmod>2008-09-07T17:12:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/09/07/chrome-on-ubuntu/</loc>
     <lastmod>2008-09-07T17:12:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/linux/</loc>
     <lastmod>2008-09-07T17:12:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ubuntu/</loc>
     <lastmod>2008-09-07T17:12:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/09/07/respect/</loc>
     <lastmod>2008-09-07T08:50:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/advertising/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nooked/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/09/06/nooked-makes-advertising-personal/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sell-side-advertising/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vrm/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/web20/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/widget-economy/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/widgets/</loc>
     <lastmod>2008-09-06T08:54:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nokia/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nokia-maps/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nokia-n95/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nokia-n95-8gb/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/roaming/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/roaming-data/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sfr/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/08/31/top-travel-tip/</loc>
     <lastmod>2008-08-31T16:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/08/04/seedcamp-prep-session/</loc>
     <lastmod>2008-08-04T09:19:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/07/29/pixie-aint-a-midget/</loc>
     <lastmod>2008-07-29T18:47:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/grants/</loc>
     <lastmod>2008-07-24T08:53:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/supports/</loc>
     <lastmod>2008-07-24T08:53:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/west-cork-enterprise-board/</loc>
     <lastmod>2008-07-24T08:53:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/07/24/west-cork-enterprise-board-support/</loc>
     <lastmod>2008-07-24T08:53:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/django/</loc>
     <lastmod>2008-07-09T12:19:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/lifesux/</loc>
     <lastmod>2008-07-09T12:19:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/lifesux-daily/</loc>
     <lastmod>2008-07-09T12:19:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/python/</loc>
     <lastmod>2008-07-09T12:19:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/07/09/sometimes-life-sux/</loc>
     <lastmod>2008-07-09T12:19:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/yazzgoth/</loc>
     <lastmod>2008-07-09T12:19:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/07/01/putplace-is-backup-for-the-rest-of-us/</loc>
     <lastmod>2008-07-01T20:36:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/community/</loc>
     <lastmod>2008-07-01T15:56:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/damien-mulley/</loc>
     <lastmod>2008-07-01T15:56:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/the-tuesday-push/</loc>
     <lastmod>2008-07-01T15:56:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/07/01/the-tuesday-push-do-it/</loc>
     <lastmod>2008-07-01T15:56:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/06/22/n810-leaves-me-cold/</loc>
     <lastmod>2008-06-22T10:40:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/06/10/outcome-of-testing-mobile-broadband-o2-and-vodafone/</loc>
     <lastmod>2008-06-10T15:11:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/06/05/hasta-luego-blogger-dinner/</loc>
     <lastmod>2008-06-05T17:19:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tom-raftery/</loc>
     <lastmod>2008-06-05T17:19:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/apple-mac/</loc>
     <lastmod>2008-06-03T15:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/imac/</loc>
     <lastmod>2008-06-03T15:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/06/03/irish-smes-and-apple-macs/</loc>
     <lastmod>2008-06-03T15:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/it-support/</loc>
     <lastmod>2008-06-03T15:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mac/</loc>
     <lastmod>2008-06-03T15:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mbp/</loc>
     <lastmod>2008-06-03T15:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sme/</loc>
     <lastmod>2008-06-03T15:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/05/28/bandon-company-flying/</loc>
     <lastmod>2008-05-28T16:39:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/email-marketing/</loc>
     <lastmod>2008-05-28T16:39:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/emarketing/</loc>
     <lastmod>2008-05-28T16:39:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/marketing/</loc>
     <lastmod>2008-05-28T16:39:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/newsweaver/</loc>
     <lastmod>2008-05-28T16:39:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/3.5g/</loc>
     <lastmod>2008-05-27T07:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/3g/</loc>
     <lastmod>2008-05-27T07:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/data/</loc>
     <lastmod>2008-05-27T07:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hsdpa/</loc>
     <lastmod>2008-05-27T07:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/05/27/top-tip-for-vodafone-ireland-users/</loc>
     <lastmod>2008-05-27T07:41:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/enterprise-boards/</loc>
     <lastmod>2008-05-12T15:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/student-enterprise/</loc>
     <lastmod>2008-05-12T15:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/05/12/student-enterprise-winners/</loc>
     <lastmod>2008-05-12T15:18:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/applications/</loc>
     <lastmod>2008-05-06T21:25:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/05/06/my-application-stack/</loc>
     <lastmod>2008-05-06T21:25:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/software/</loc>
     <lastmod>2008-05-06T21:25:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/tools/</loc>
     <lastmod>2008-05-06T21:25:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vista/</loc>
     <lastmod>2008-05-06T21:25:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/windows/</loc>
     <lastmod>2008-05-06T21:25:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/xp/</loc>
     <lastmod>2008-05-06T21:25:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bluekulu/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/denise-kennedy/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/genesis-enterprise-programme/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gep/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/30/joining-genesis-enterprise-programme/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/paul-healy/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rubicon/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sxoop/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ygib/</loc>
     <lastmod>2008-04-30T15:37:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bare-naked-app/</loc>
     <lastmod>2008-04-29T20:17:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blogging/</loc>
     <lastmod>2008-04-29T20:17:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/carson-systems/</loc>
     <lastmod>2008-04-29T20:17:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/carsonified/</loc>
     <lastmod>2008-04-29T20:17:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/29/chronicle-the-development-of-an-app-and-a-business/</loc>
     <lastmod>2008-04-29T20:17:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ceb/</loc>
     <lastmod>2008-04-28T08:09:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/iia/</loc>
     <lastmod>2008-04-28T08:09:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/28/iia-congress-discounts/</loc>
     <lastmod>2008-04-28T08:09:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/irish-internet-association/</loc>
     <lastmod>2008-04-28T08:09:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/laptop-superhero/</loc>
     <lastmod>2008-04-22T09:18:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mobile-superhero/</loc>
     <lastmod>2008-04-22T09:18:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/22/protect-your-laptop-or-mobile-phone/</loc>
     <lastmod>2008-04-22T09:18:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/yougetitback/</loc>
     <lastmod>2008-04-22T09:18:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/18/any-precedents-on-libel-and-defamation-law-for-bloggers-in-ireland/</loc>
     <lastmod>2008-04-18T14:28:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/law/</loc>
     <lastmod>2008-04-18T14:28:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/libel/</loc>
     <lastmod>2008-04-18T14:28:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/18/joining-itcork-steering-committee/</loc>
     <lastmod>2008-04-18T12:32:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/behaviour/</loc>
     <lastmod>2008-04-18T12:25:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blog-storms/</loc>
     <lastmod>2008-04-18T12:25:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bullying/</loc>
     <lastmod>2008-04-18T12:25:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pr/</loc>
     <lastmod>2008-04-18T12:25:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/18/weathering-a-blogstorm/</loc>
     <lastmod>2008-04-18T12:25:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/openbbq/</loc>
     <lastmod>2008-04-06T10:33:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/06/openbbq-in-tipperary/</loc>
     <lastmod>2008-04-06T10:33:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/airappz/</loc>
     <lastmod>2008-04-01T13:17:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hotspot/</loc>
     <lastmod>2008-04-01T13:17:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wifi/</loc>
     <lastmod>2008-04-01T13:17:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/04/01/wifi-landing-pages/</loc>
     <lastmod>2008-04-01T13:17:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wisp/</loc>
     <lastmod>2008-04-01T13:17:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/03/16/review-of-nokia-n95-8gb/</loc>
     <lastmod>2008-03-16T21:09:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/03/05/crack-addicts/</loc>
     <lastmod>2008-03-05T09:37:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mobile-operators/</loc>
     <lastmod>2008-03-05T09:37:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/paddy-tax/</loc>
     <lastmod>2008-03-05T09:37:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pixie/</loc>
     <lastmod>2008-03-05T09:37:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/three-ireland.-meteor-ireland/</loc>
     <lastmod>2008-03-05T09:37:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vodafone-lies/</loc>
     <lastmod>2008-03-05T09:37:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/conferences/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/crynwr/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/iwtc/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/iwtc2008/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/lbs/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/microwriter/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/03/03/my-talk-at-iwtc-2008/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/russ-nelson/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sms/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/socnets/</loc>
     <lastmod>2008-03-03T21:05:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/03/03/jaiku-invites/</loc>
     <lastmod>2008-03-03T10:22:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jaiku-invites/</loc>
     <lastmod>2008-03-03T10:22:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/lifestreaming/</loc>
     <lastmod>2008-03-03T10:22:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/microblogging/</loc>
     <lastmod>2008-03-03T10:22:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blogawards/</loc>
     <lastmod>2008-02-26T09:55:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blogtalk2008/</loc>
     <lastmod>2008-02-26T09:55:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/02/26/events-this-week/</loc>
     <lastmod>2008-02-26T09:55:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/xcellerate2008/</loc>
     <lastmod>2008-02-26T09:55:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/02/14/a-new-cork-business-blog/</loc>
     <lastmod>2008-02-14T16:12:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/lostandfound/</loc>
     <lastmod>2008-02-14T16:12:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/02/14/a-possible-web-solution-for-smallmicro-biz/</loc>
     <lastmod>2008-02-14T00:25:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cms/</loc>
     <lastmod>2008-02-14T00:25:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ewrite/</loc>
     <lastmod>2008-02-14T00:25:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web/</loc>
     <lastmod>2008-02-14T00:25:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/enterprise-board/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/godaddy/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/02/08/irish-smallmicro-businesses-and-the-web/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jim-flynn/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mts-consulting/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sceb/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/synthasite/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tech-check/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/weebly/</loc>
     <lastmod>2008-02-08T15:23:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blogtalk/</loc>
     <lastmod>2008-02-05T19:42:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/02/05/cork-blogger-dinner/</loc>
     <lastmod>2008-02-05T19:42:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/webcamp/</loc>
     <lastmod>2008-02-05T19:42:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/iwtc-2008/</loc>
     <lastmod>2008-02-04T20:15:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/02/04/speaking-at-iwtc-2008/</loc>
     <lastmod>2008-02-04T20:15:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/27/two-weeks-on-ubuntu/</loc>
     <lastmod>2008-01-27T16:16:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/24/a-word-of-thanks/</loc>
     <lastmod>2008-01-24T14:03:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ei/</loc>
     <lastmod>2008-01-24T14:03:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/revenue-commissioners/</loc>
     <lastmod>2008-01-24T14:03:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/scs/</loc>
     <lastmod>2008-01-24T14:03:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/24/do-you-know-of-any-free-wifi-hotspots/</loc>
     <lastmod>2008-01-24T01:22:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/fon/</loc>
     <lastmod>2008-01-24T01:22:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/free/</loc>
     <lastmod>2008-01-24T01:22:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/map/</loc>
     <lastmod>2008-01-24T01:22:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wireless/</loc>
     <lastmod>2008-01-24T01:22:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/akismet/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/movable-type/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/19/movable-type-not-there-yet/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mt/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mt4/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/openid/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wordpress/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wp/</loc>
     <lastmod>2008-01-19T12:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/feiw/</loc>
     <lastmod>2008-01-16T20:34:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/16/feiw-female-entrepreneurship-last-call/</loc>
     <lastmod>2008-01-16T20:34:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/16/leitrim-business-network/</loc>
     <lastmod>2008-01-16T14:00:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/leitrim-business-network/</loc>
     <lastmod>2008-01-16T14:00:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/linkedin/</loc>
     <lastmod>2008-01-16T14:00:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sohosolo/</loc>
     <lastmod>2008-01-16T14:00:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/apple-tv/</loc>
     <lastmod>2008-01-14T16:04:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ewan-spence/</loc>
     <lastmod>2008-01-14T16:04:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jesusphone/</loc>
     <lastmod>2008-01-14T16:04:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/macworld/</loc>
     <lastmod>2008-01-14T16:04:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/14/not-dazzled-by-the-turtleneck/</loc>
     <lastmod>2008-01-14T16:04:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/steve-jobs/</loc>
     <lastmod>2008-01-14T16:04:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/chat/</loc>
     <lastmod>2008-01-05T11:16:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cubic-telecom/</loc>
     <lastmod>2008-01-05T11:16:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/05/its-not-the-property-market-its-twitter/</loc>
     <lastmod>2008-01-05T11:16:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/none/</loc>
     <lastmod>2008-01-05T11:16:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/socnet/</loc>
     <lastmod>2008-01-05T11:16:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/twitter/</loc>
     <lastmod>2008-01-05T11:16:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2008/01/01/the-argolonloudervoice-2008-predictions/</loc>
     <lastmod>2008-01-01T12:13:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/suppliers/</loc>
     <lastmod>2007-12-23T10:01:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/12/23/vodafone-staring-into-the-abyss/</loc>
     <lastmod>2007-12-23T10:01:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/demobar/</loc>
     <lastmod>2007-12-22T15:04:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/techludd/</loc>
     <lastmod>2007-12-22T15:04:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/12/22/web-20-ireland-the-story-so-far/</loc>
     <lastmod>2007-12-22T15:04:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/12/16/review-of-cubic-phone/</loc>
     <lastmod>2007-12-16T11:11:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/le-web-3/</loc>
     <lastmod>2007-12-09T15:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/12/09/le-web-3-lundi-au-mercredi/</loc>
     <lastmod>2007-12-09T15:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/leweb307/</loc>
     <lastmod>2007-12-09T15:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/12/08/argolon-bes-update/</loc>
     <lastmod>2007-12-08T16:31:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/intertradeireland/</loc>
     <lastmod>2007-12-06T11:07:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/paddys-valley/</loc>
     <lastmod>2007-12-06T11:07:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/paddysvalley/</loc>
     <lastmod>2007-12-06T11:07:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/paddysvalley07/</loc>
     <lastmod>2007-12-06T11:07:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/12/06/pitch-videos-from-irish-start-ups-in-palo-alto/</loc>
     <lastmod>2007-12-06T11:07:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vc-forum/</loc>
     <lastmod>2007-12-06T11:07:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/11/07/besscs-briefing-in-clarion-on-monday/</loc>
     <lastmod>2007-11-07T10:34:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/corkbic/</loc>
     <lastmod>2007-11-07T10:34:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/11/07/besscs-session-in-rubicon/</loc>
     <lastmod>2007-11-07T10:14:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/spoiltchild/</loc>
     <lastmod>2007-10-29T22:52:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/10/29/spoiltchild-looking-for-advice/</loc>
     <lastmod>2007-10-29T22:52:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/toddle/</loc>
     <lastmod>2007-10-29T22:52:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bandon-valley/</loc>
     <lastmod>2007-10-24T13:58:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/clusters/</loc>
     <lastmod>2007-10-24T13:58:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/innovation/</loc>
     <lastmod>2007-10-24T13:58:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/10/24/should-governments-just-get-out-of-the-way/</loc>
     <lastmod>2007-10-24T13:58:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/silicon-valley/</loc>
     <lastmod>2007-10-24T13:58:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/startups/</loc>
     <lastmod>2007-10-24T13:58:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/galileo/</loc>
     <lastmod>2007-10-15T08:02:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gnss/</loc>
     <lastmod>2007-10-15T08:02:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gps/</loc>
     <lastmod>2007-10-15T08:02:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/10/15/gps-seminar-in-cork/</loc>
     <lastmod>2007-10-15T08:02:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/09/12/loudervoice-at-techcrunch40/</loc>
     <lastmod>2007-09-12T12:34:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tc20/</loc>
     <lastmod>2007-09-12T12:34:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tc40/</loc>
     <lastmod>2007-09-12T12:34:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/techcrunch20/</loc>
     <lastmod>2007-09-12T12:34:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/techcrunch40/</loc>
     <lastmod>2007-09-12T12:34:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/09/06/jaiku/</loc>
     <lastmod>2007-09-06T19:51:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/entrepreneurship/</loc>
     <lastmod>2007-09-05T21:06:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/09/05/itcork-leader-awards/</loc>
     <lastmod>2007-09-05T21:06:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/leader-awards/</loc>
     <lastmod>2007-09-05T21:06:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/09/01/cork-opencoffee-now-fully-blogified/</loc>
     <lastmod>2007-09-01T10:52:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cork-opencoffee/</loc>
     <lastmod>2007-09-01T10:52:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/genesis/</loc>
     <lastmod>2007-09-01T10:52:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/lukulu/</loc>
     <lastmod>2007-09-01T10:52:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mr-cotton/</loc>
     <lastmod>2007-09-01T10:52:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/opencoffee/</loc>
     <lastmod>2007-09-01T10:52:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/intertrade-ireland/</loc>
     <lastmod>2007-08-30T19:40:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/30/no-irish-start-ups-through-to-seedcamp/</loc>
     <lastmod>2007-08-30T19:40:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/seedcorn/</loc>
     <lastmod>2007-08-30T19:40:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/28/argolon-bes-scheme/</loc>
     <lastmod>2007-08-28T19:19:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/elevator-pitches/</loc>
     <lastmod>2007-08-28T18:33:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/fowa/</loc>
     <lastmod>2007-08-28T18:33:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/28/if-you-pass-on-demobar-you-can-never-complain-again/</loc>
     <lastmod>2007-08-28T18:33:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mashupcamp/</loc>
     <lastmod>2007-08-28T18:33:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opportunities/</loc>
     <lastmod>2007-08-28T18:33:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pitching/</loc>
     <lastmod>2007-08-28T18:33:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/eu/</loc>
     <lastmod>2007-08-28T17:55:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/growth/</loc>
     <lastmod>2007-08-28T17:55:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/jobs/</loc>
     <lastmod>2007-08-28T17:55:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/28/new-bes-limits-oked-by-eu/</loc>
     <lastmod>2007-08-28T17:55:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/curry20/</loc>
     <lastmod>2007-08-21T19:23:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mashup-camp/</loc>
     <lastmod>2007-08-21T19:23:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/21/web2ireland-week-in-dublin-looks-awesome/</loc>
     <lastmod>2007-08-21T19:23:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/15/seedcamp-off-to-a-flying-start/</loc>
     <lastmod>2007-08-15T07:07:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blognation/</loc>
     <lastmod>2007-08-13T12:56:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/13/blognation-ireland-launches/</loc>
     <lastmod>2007-08-13T12:56:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blognation-ireland/</loc>
     <lastmod>2007-08-13T12:56:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web20/</loc>
     <lastmod>2007-08-13T12:56:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/auctomatic/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/collison/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ebay/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/09/limerick-occ-livestream-and-auctomatic-interview/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/media/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opencoffee-limerick/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ustream/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ycombinator/</loc>
     <lastmod>2007-08-09T12:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/deri/</loc>
     <lastmod>2007-08-01T17:06:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/08/01/galway-opencoffee-this-friday/</loc>
     <lastmod>2007-08-01T17:06:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/galwayopencoffee/</loc>
     <lastmod>2007-08-01T17:06:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ff3.-mozilla/</loc>
     <lastmod>2007-07-31T11:05:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/firefox/</loc>
     <lastmod>2007-07-31T11:05:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/31/firefox-a-web-browser-a-platform-a-framework/</loc>
     <lastmod>2007-07-31T11:05:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nsc/</loc>
     <lastmod>2007-07-31T11:05:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/30/paddys-valley-in-the-press/</loc>
     <lastmod>2007-07-30T10:11:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/startup-culture/</loc>
     <lastmod>2007-07-30T10:11:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/trip/</loc>
     <lastmod>2007-07-30T10:11:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/revenue/</loc>
     <lastmod>2007-07-19T10:03:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rict/</loc>
     <lastmod>2007-07-19T10:03:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/19/why-is-ei-refusing-to-do-any-pre-work-for-bes/</loc>
     <lastmod>2007-07-19T10:03:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/europe/</loc>
     <lastmod>2007-07-17T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/18/have-your-start-up-profiled-by-irelands-number-one-ranked-blogger/</loc>
     <lastmod>2007-07-17T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/marketing/</loc>
     <lastmod>2007-07-17T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/msm/</loc>
     <lastmod>2007-07-17T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/newspapers/</loc>
     <lastmod>2007-07-17T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/press/</loc>
     <lastmod>2007-07-17T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/startup/</loc>
     <lastmod>2007-07-17T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/louderminis/</loc>
     <lastmod>2007-07-15T09:02:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/loudertweets/</loc>
     <lastmod>2007-07-15T09:02:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/15/loudertweets-getting-noticed/</loc>
     <lastmod>2007-07-15T09:02:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/microformats/</loc>
     <lastmod>2007-07-15T09:02:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/review/</loc>
     <lastmod>2007-07-15T09:02:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/12/moffett-field-here-we-come/</loc>
     <lastmod>2007-07-12T11:16:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/10/like-to-present-your-webapp-to-5000-people/</loc>
     <lastmod>2007-07-10T13:43:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/07/review-of-irish-snake-oil/</loc>
     <lastmod>2007-07-07T18:38:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/3-x-series/</loc>
     <lastmod>2007-07-03T13:25:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/iphone/</loc>
     <lastmod>2007-07-03T13:25:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/03/will-nokia-wake-up-like-they-did-with-paper-products/</loc>
     <lastmod>2007-07-03T13:25:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/culture/</loc>
     <lastmod>2007-07-03T13:14:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hothouse/</loc>
     <lastmod>2007-07-03T13:14:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/03/how-to-get-an-irish-david-heinemeier-hansson/</loc>
     <lastmod>2007-07-03T13:14:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/incubator/</loc>
     <lastmod>2007-07-03T13:14:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/leadership/</loc>
     <lastmod>2007-07-03T13:14:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/paul-graham/</loc>
     <lastmod>2007-07-03T12:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/saul-klein/</loc>
     <lastmod>2007-07-03T12:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/03/seedcamp-launches-apply-now/</loc>
     <lastmod>2007-07-03T12:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tag/</loc>
     <lastmod>2007-07-03T12:59:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/curry/</loc>
     <lastmod>2007-07-03T12:51:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jaipur/</loc>
     <lastmod>2007-07-03T12:51:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/paul-walsh/</loc>
     <lastmod>2007-07-03T12:51:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/07/03/roll-on-curry-21/</loc>
     <lastmod>2007-07-03T12:51:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/segala/</loc>
     <lastmod>2007-07-03T12:51:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ewrite-forms/</loc>
     <lastmod>2007-06-29T14:08:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gordon-murray/</loc>
     <lastmod>2007-06-29T14:08:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/29/spam-protected-ewrite-forms/</loc>
     <lastmod>2007-06-29T14:08:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/29/review-of-essential-web-07/</loc>
     <lastmod>2007-06-29T10:56:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/essential-web/</loc>
     <lastmod>2007-06-25T09:05:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/essential-web-07/</loc>
     <lastmod>2007-06-25T09:05:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/essentialweb07/</loc>
     <lastmod>2007-06-25T09:05:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/european/</loc>
     <lastmod>2007-06-25T09:05:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/25/loudervoice-at-essential-web-07/</loc>
     <lastmod>2007-06-25T09:05:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/presentation/</loc>
     <lastmod>2007-06-25T09:05:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/25/louderminis-now-on-jaiku-too/</loc>
     <lastmod>2007-06-25T08:54:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/louderviesti/</loc>
     <lastmod>2007-06-25T08:54:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mashup/</loc>
     <lastmod>2007-06-25T08:54:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/rss-feeds/</loc>
     <lastmod>2007-06-25T08:54:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/15/sign-up-for-paddys-valley/</loc>
     <lastmod>2007-06-14T23:17:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/integration/</loc>
     <lastmod>2007-06-13T12:53:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/loudertweet/</loc>
     <lastmod>2007-06-13T12:53:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/13/loudervoice-twitter-mash-up/</loc>
     <lastmod>2007-06-13T12:53:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mini-review/</loc>
     <lastmod>2007-06-13T12:53:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tweet/</loc>
     <lastmod>2007-06-13T12:53:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcampgalway/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcampireland/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcampireland4/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/entrepreneur/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/12/first-galway-open-coffee-announced/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/galway/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/investor/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opencoffee-club/</loc>
     <lastmod>2007-06-12T11:54:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/infacta/</loc>
     <lastmod>2007-06-11T14:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/polls/</loc>
     <lastmod>2007-06-11T14:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/11/vote-for-polldaddy-in-the-webware-100/</loc>
     <lastmod>2007-06-11T14:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/voting/</loc>
     <lastmod>2007-06-11T14:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/webware/</loc>
     <lastmod>2007-06-11T14:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/webware100/</loc>
     <lastmod>2007-06-11T14:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/widgets/</loc>
     <lastmod>2007-06-11T14:19:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/anil-kokraham/</loc>
     <lastmod>2007-06-09T08:17:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/computer-science/</loc>
     <lastmod>2007-06-09T08:17:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/09/cork-multimedia-innovation-network/</loc>
     <lastmod>2007-06-09T08:17:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cork-multimedia-innovation-network/</loc>
     <lastmod>2007-06-09T08:17:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/technology-transfer-initiative/</loc>
     <lastmod>2007-06-09T08:17:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ucc/</loc>
     <lastmod>2007-06-09T08:17:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cit/</loc>
     <lastmod>2007-06-09T08:08:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/co-working/</loc>
     <lastmod>2007-06-09T08:08:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/coworking/</loc>
     <lastmod>2007-06-09T08:08:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/09/hot-desking-and-incubation-centres-in-cork/</loc>
     <lastmod>2007-06-09T08:08:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hotdesking/</loc>
     <lastmod>2007-06-09T08:08:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/incubation/</loc>
     <lastmod>2007-06-09T08:08:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/webworks/</loc>
     <lastmod>2007-06-09T08:08:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/06/04/review-of-thenextweb-2007/</loc>
     <lastmod>2007-06-04T09:21:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/amsterdam/</loc>
     <lastmod>2007-05-30T16:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/30/off-to-thenextweb-tomorrow/</loc>
     <lastmod>2007-05-30T16:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/the-netherlands/</loc>
     <lastmod>2007-05-30T16:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/thenextweb/</loc>
     <lastmod>2007-05-30T16:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/thenextweb2007/</loc>
     <lastmod>2007-05-30T16:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/29/cork-open-coffee-firing-on-all-cylinders/</loc>
     <lastmod>2007-05-29T14:20:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/24/open-coffee-coverage-on-readwriteweb/</loc>
     <lastmod>2007-05-24T13:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opencoffeecork/</loc>
     <lastmod>2007-05-24T13:03:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/23/a-plea-to-the-wordpress-developers/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/automattic/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/donncha/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/matt/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/software-development/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/toni/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wordpress-mu/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wordpress.com/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wordpress.org/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wpmu/</loc>
     <lastmod>2007-05-23T10:19:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/london/</loc>
     <lastmod>2007-05-22T09:10:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/22/much-delayed-post-on-cork-occ-visit-to-london/</loc>
     <lastmod>2007-05-22T09:10:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/waterstones/</loc>
     <lastmod>2007-05-22T09:10:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/interview/</loc>
     <lastmod>2007-05-22T07:26:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/22/our-first-starring-role/</loc>
     <lastmod>2007-05-22T07:26:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/podcast/</loc>
     <lastmod>2007-05-22T07:26:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vidcast/</loc>
     <lastmod>2007-05-22T07:26:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/video-podcast/</loc>
     <lastmod>2007-05-22T07:26:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/maps/</loc>
     <lastmod>2007-05-18T10:46:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/touristr/</loc>
     <lastmod>2007-05-18T10:46:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/18/touristr-beta-seriously-impressive/</loc>
     <lastmod>2007-05-18T10:46:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/travel/</loc>
     <lastmod>2007-05-18T10:46:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/economy/</loc>
     <lastmod>2007-05-17T20:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/17/interviewed-for-morning-ireland/</loc>
     <lastmod>2007-05-17T20:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/morning-ireland/</loc>
     <lastmod>2007-05-17T20:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/munster/</loc>
     <lastmod>2007-05-17T20:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/radio-1/</loc>
     <lastmod>2007-05-17T20:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rte/</loc>
     <lastmod>2007-05-17T20:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/venture-capital/</loc>
     <lastmod>2007-05-17T20:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/15/irish-web-apps-on-startup-20-directory/</loc>
     <lastmod>2007-05-15T19:27:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/startup20/</loc>
     <lastmod>2007-05-15T19:27:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/14/a-great-addition-to-useamap/</loc>
     <lastmod>2007-05-14T09:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/google-maps/</loc>
     <lastmod>2007-05-14T09:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/live-local/</loc>
     <lastmod>2007-05-14T09:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mapping/</loc>
     <lastmod>2007-05-14T09:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/useamap/</loc>
     <lastmod>2007-05-14T09:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web-apps/</loc>
     <lastmod>2007-05-14T09:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/yahoo-maps/</loc>
     <lastmod>2007-05-14T09:07:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/angel/</loc>
     <lastmod>2007-05-12T13:28:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/australia/</loc>
     <lastmod>2007-05-12T13:28:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/12/heres-how-to-do-it/</loc>
     <lastmod>2007-05-12T13:28:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/aggregator/</loc>
     <lastmod>2007-05-06T13:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blogs/</loc>
     <lastmod>2007-05-06T13:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/05/06/loudervoice-launches/</loc>
     <lastmod>2007-05-06T13:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/publishing/</loc>
     <lastmod>2007-05-06T13:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/reputation/</loc>
     <lastmod>2007-05-06T13:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/search/</loc>
     <lastmod>2007-05-06T13:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/dublin/</loc>
     <lastmod>2007-04-26T12:25:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/limerick/</loc>
     <lastmod>2007-04-26T12:25:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/26/open-coffee-comes-to-waterford/</loc>
     <lastmod>2007-04-26T12:25:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opencoffeewaterford/</loc>
     <lastmod>2007-04-26T12:25:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/waterford/</loc>
     <lastmod>2007-04-26T12:25:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/25/from-india-back-to-silicon-valley/</loc>
     <lastmod>2007-04-25T14:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/india/</loc>
     <lastmod>2007-04-25T14:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/munjal-shah/</loc>
     <lastmod>2007-04-25T14:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/offshoring/</loc>
     <lastmod>2007-04-25T14:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/outsourcing/</loc>
     <lastmod>2007-04-25T14:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/outsourcing/</loc>
     <lastmod>2007-04-25T14:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/riya/</loc>
     <lastmod>2007-04-25T14:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/23/please-vote-for-your-preferred-dates-for-paddysvalley/</loc>
     <lastmod>2007-04-23T10:21:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcampdublin/</loc>
     <lastmod>2007-04-21T07:06:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/21/barcampdublin-today/</loc>
     <lastmod>2007-04-21T07:06:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/20/limerick-opencoffee-poll/</loc>
     <lastmod>2007-04-20T09:39:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/limerickopencoffee/</loc>
     <lastmod>2007-04-20T09:39:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/awards/</loc>
     <lastmod>2007-04-18T23:14:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/competitions/</loc>
     <lastmod>2007-04-18T23:14:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/19/loudervoice-at-thenextweb/</loc>
     <lastmod>2007-04-18T23:14:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/18/irish-business-group-to-tour-silicon-valley/</loc>
     <lastmod>2007-04-18T13:26:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/content/</loc>
     <lastmod>2007-04-17T19:47:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/17/content-and-convergence/</loc>
     <lastmod>2007-04-17T19:47:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/convergence/</loc>
     <lastmod>2007-04-17T19:47:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/13/cork-open-coffee-robust-discussion/</loc>
     <lastmod>2007-04-13T14:24:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opencoffeeclub/</loc>
     <lastmod>2007-04-13T14:24:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/12/barcamp-dublin-coming-on-april-21st/</loc>
     <lastmod>2007-04-12T14:01:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/04/01/second-cork-open-coffee-building-the-mix/</loc>
     <lastmod>2007-04-01T20:50:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/david-lenehan/</loc>
     <lastmod>2007-03-30T08:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/30/loudervoice-covered-on-readwriteweb/</loc>
     <lastmod>2007-03-30T08:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/richard-macmanus/</loc>
     <lastmod>2007-03-30T08:19:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/30/second-opencoffee-this-morning/</loc>
     <lastmod>2007-03-30T07:41:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/entrepreneurs/</loc>
     <lastmod>2007-03-28T21:21:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/28/paul-graham-nails-it/</loc>
     <lastmod>2007-03-28T21:21:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/fedora/</loc>
     <lastmod>2007-03-27T23:14:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/fedora-core-6/</loc>
     <lastmod>2007-03-27T23:14:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gcj/</loc>
     <lastmod>2007-03-27T23:14:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/28/installing-pylucene-on-fedora-core-6-fc6/</loc>
     <lastmod>2007-03-27T23:14:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/lucene/</loc>
     <lastmod>2007-03-27T23:14:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pylucene/</loc>
     <lastmod>2007-03-27T23:14:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/businessadvisory/</loc>
     <lastmod>2007-03-25T20:17:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/businessadvisory.ie/</loc>
     <lastmod>2007-03-25T20:17:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/learning/</loc>
     <lastmod>2007-03-25T20:17:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/shareit/</loc>
     <lastmod>2007-03-25T20:17:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/25/shareit-presentation/</loc>
     <lastmod>2007-03-25T20:17:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/training/</loc>
     <lastmod>2007-03-25T20:17:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/23/last-call-for-attendees-for-free-training-session-tomorrow/</loc>
     <lastmod>2007-03-23T16:33:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ning/</loc>
     <lastmod>2007-03-22T09:53:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/22/open-coffee-club-ning-page/</loc>
     <lastmod>2007-03-22T09:53:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/upcoming/</loc>
     <lastmod>2007-03-22T09:53:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/contract/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/css/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/design/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/job/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/kid/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/markup/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opening/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/20/person-required-to-do-some-short-term-cssxhtml-work/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web-design/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/xhtml/</loc>
     <lastmod>2007-03-20T12:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/19/shareit-happening-this-saturday/</loc>
     <lastmod>2007-03-19T22:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/16/cork-opencoffee-off-to-a-flying-start/</loc>
     <lastmod>2007-03-16T17:02:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/enterprise/</loc>
     <lastmod>2007-03-16T17:02:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/employment/</loc>
     <lastmod>2007-03-15T15:30:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/exmotcork/</loc>
     <lastmod>2007-03-15T15:30:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/job-seekers/</loc>
     <lastmod>2007-03-15T15:30:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/motorola/</loc>
     <lastmod>2007-03-15T15:30:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/15/motorola-job-seekers-link-now-live/</loc>
     <lastmod>2007-03-15T15:30:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/motorola-cork/</loc>
     <lastmod>2007-03-15T15:30:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/feedcommerce/</loc>
     <lastmod>2007-03-14T12:46:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/14/its-about-bloody-time/</loc>
     <lastmod>2007-03-14T12:46:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/really-simple-shopping/</loc>
     <lastmod>2007-03-14T12:46:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rss/</loc>
     <lastmod>2007-03-14T12:46:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/11/cork-opencoffee-club-announcement/</loc>
     <lastmod>2007-03-11T21:19:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/building-the-future/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/enterprise/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/entrepreneurism/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/09/good-news-from-the-eu/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ictu/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/indigenous-industry/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/job-creation/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/risk-takers/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wealth-creation/</loc>
     <lastmod>2007-03-09T10:11:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bap/</loc>
     <lastmod>2007-03-07T22:59:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/07/interest-in-a-cork-opencoffee-club-meetup-next-week/</loc>
     <lastmod>2007-03-07T22:59:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/06/fowa-mp3s-and-presentations-now-available/</loc>
     <lastmod>2007-03-06T22:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/fowalondon07/</loc>
     <lastmod>2007-03-06T22:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/future-of-web-apps/</loc>
     <lastmod>2007-03-06T22:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blog.txt/</loc>
     <lastmod>2007-03-06T15:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/design/</loc>
     <lastmod>2007-03-06T15:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hatom/</loc>
     <lastmod>2007-03-06T15:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sandbox/</loc>
     <lastmod>2007-03-06T15:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/theme/</loc>
     <lastmod>2007-03-06T15:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/06/theme-change/</loc>
     <lastmod>2007-03-06T15:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/06/coworking-and-twitter-come-together-in-twazr/</loc>
     <lastmod>2007-03-06T15:30:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/twazr/</loc>
     <lastmod>2007-03-06T15:30:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/05/eoghans-e2000-web-design-free-offer-now-on/</loc>
     <lastmod>2007-03-05T13:58:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/eoghan-mccabe/</loc>
     <lastmod>2007-03-05T13:58:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/best-business-blog/</loc>
     <lastmod>2007-03-05T09:42:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/best-technology-blogger/</loc>
     <lastmod>2007-03-05T09:42:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/05/blog-awards/</loc>
     <lastmod>2007-03-05T09:42:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/iba2007/</loc>
     <lastmod>2007-03-05T09:42:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/irish-blog-awards/</loc>
     <lastmod>2007-03-05T09:42:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/general/</loc>
     <lastmod>2007-03-01T10:30:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/imperial-college/</loc>
     <lastmod>2007-03-01T10:30:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mit/</loc>
     <lastmod>2007-03-01T10:30:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/01/patrick-purcell/</loc>
     <lastmod>2007-03-01T10:30:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/patrick-purcell/</loc>
     <lastmod>2007-03-01T10:30:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/03/01/first-podcast/</loc>
     <lastmod>2007-03-01T10:19:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/chris-messina/</loc>
     <lastmod>2007-02-22T15:21:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/22/geek-dinners-barcamps-and-coworking/</loc>
     <lastmod>2007-02-22T15:21:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/geek-dinner/</loc>
     <lastmod>2007-02-22T15:21:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/geek-dinner-uk/</loc>
     <lastmod>2007-02-22T15:21:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jeremy-keith/</loc>
     <lastmod>2007-02-22T15:21:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tara-hunt/</loc>
     <lastmod>2007-02-22T15:21:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/22/fowa-day2-part-2/</loc>
     <lastmod>2007-02-22T14:31:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/moo/</loc>
     <lastmod>2007-02-22T14:31:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/phil-wilkinson/</loc>
     <lastmod>2007-02-22T14:31:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/conferences/</loc>
     <lastmod>2007-02-22T09:01:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/leweb3/</loc>
     <lastmod>2007-02-22T09:01:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/martin-varsavsky/</loc>
     <lastmod>2007-02-22T09:01:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/22/suggestion-for-fon/</loc>
     <lastmod>2007-02-22T09:01:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/colin-donald/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/21/european-start-up-culture-panel-at-fowa/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/max-jennings/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mike-arrington/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mike-butcher/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/richard-moross/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ryan-carson/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/start-up/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tariq-krim/</loc>
     <lastmod>2007-02-21T14:31:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/chris-wilson/</loc>
     <lastmod>2007-02-21T14:25:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/21/fowa-day-2/</loc>
     <lastmod>2007-02-21T14:25:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ie7/</loc>
     <lastmod>2007-02-21T14:25:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/simon-willison/</loc>
     <lastmod>2007-02-21T14:25:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ben-holmes/</loc>
     <lastmod>2007-02-21T14:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bradley-horowitz/</loc>
     <lastmod>2007-02-21T14:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/21/fowa-day-1-seriously-good/</loc>
     <lastmod>2007-02-21T14:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/index-ventures/</loc>
     <lastmod>2007-02-21T14:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/last.fm/</loc>
     <lastmod>2007-02-21T14:22:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/21/twingly-awesome-demo-at-fowa/</loc>
     <lastmod>2007-02-21T10:43:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/19/ryan-on-outsourcing/</loc>
     <lastmod>2007-02-19T10:33:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vendors/</loc>
     <lastmod>2007-02-19T10:33:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web-development/</loc>
     <lastmod>2007-02-19T10:33:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/18/in-great-company/</loc>
     <lastmod>2007-02-18T18:56:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/15/blog-awards-voting-closes-in-21-hours/</loc>
     <lastmod>2007-02-15T21:23:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/angels/</loc>
     <lastmod>2007-02-15T21:15:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcampirelandsoutheast/</loc>
     <lastmod>2007-02-15T21:15:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/keith-bohanna/</loc>
     <lastmod>2007-02-15T21:15:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/15/videos-from-barcampireland-southeast-starting-to-appear/</loc>
     <lastmod>2007-02-15T21:15:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/13/bloody-nokia/</loc>
     <lastmod>2007-02-13T14:20:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/n70/</loc>
     <lastmod>2007-02-13T14:20:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/n73/</loc>
     <lastmod>2007-02-13T14:20:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/series-60/</loc>
     <lastmod>2007-02-13T14:20:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/smart2go/</loc>
     <lastmod>2007-02-13T14:20:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vodafone-compact-iii/</loc>
     <lastmod>2007-02-13T14:20:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/windows-mobile-5/</loc>
     <lastmod>2007-02-13T14:20:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/13/businessadvisory-training-sessions/</loc>
     <lastmod>2007-02-13T12:47:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/11/search-engine-optimisation/</loc>
     <lastmod>2007-02-11T13:25:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/10/irish-blog-awards-voting-round-now-open/</loc>
     <lastmod>2007-02-10T08:18:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/07/openid-i-want-to-love-it-but/</loc>
     <lastmod>2007-02-07T22:45:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/04/pxn8-highly-rated-on-techcrunch-again/</loc>
     <lastmod>2007-02-04T22:04:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/digitalidentity/</loc>
     <lastmod>2007-02-01T23:08:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/02/snipperoo-sizzles/</loc>
     <lastmod>2007-02-01T23:08:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/01/has-anyone-got-snipperoo-working-on-their-blog/</loc>
     <lastmod>2007-02-01T11:10:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/02/01/great-stuff-from-jan-on-cheaply-launching-a-web-app-in-ireland/</loc>
     <lastmod>2007-02-01T11:01:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/30/great-speakers-at-the-upcoming-skycon/</loc>
     <lastmod>2007-01-30T10:49:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/29/click2map-i-like-the-sound-of-this/</loc>
     <lastmod>2007-01-29T22:16:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/26/wow-that-was-fast/</loc>
     <lastmod>2007-01-26T09:10:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/25/decent-podcast-player-for-nokia-n70/</loc>
     <lastmod>2007-01-25T12:48:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/23/loudervoice-decloaking-today/</loc>
     <lastmod>2007-01-23T09:05:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/22/videos-of-donnchas-wordpress-talk-at-barcamp-ireland-south-east/</loc>
     <lastmod>2007-01-22T16:47:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/22/fon-sometimes-its-nice-to-be-wrong/</loc>
     <lastmod>2007-01-22T13:20:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/22/another-memorable-irish-barcamp/</loc>
     <lastmod>2007-01-22T10:09:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/administration/</loc>
     <lastmod>2007-01-19T11:05:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/19/looking-for-an-experienced-web-developer/</loc>
     <lastmod>2007-01-19T11:05:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/16/java-se-6-16-not-compatible-with-revenue-online-ros/</loc>
     <lastmod>2007-01-16T09:45:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/12/irish-blog-awards-open-for-nominations/</loc>
     <lastmod>2007-01-12T08:48:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/08/these-so-called-free-fon-offers/</loc>
     <lastmod>2007-01-08T16:00:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2007/01/08/are-there-issues-with-the-wordpress-206-upgrade/</loc>
     <lastmod>2007-01-08T10:21:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/12/24/that-was-a-rollercoaster-12-months/</loc>
     <lastmod>2006-12-24T08:24:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/12/19/biancamed-raises-e25m/</loc>
     <lastmod>2006-12-19T16:15:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/12/19/sign-up-for-the-loudervoice-trials/</loc>
     <lastmod>2006-12-19T15:48:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/12/05/calacanis-joins-sequoia/</loc>
     <lastmod>2006-12-05T16:35:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/12/05/the-quality-of-tech-crash-scar-surgery-higher-in-mainland-europe/</loc>
     <lastmod>2006-12-05T09:59:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/28/the-alpha-has-arrived/</loc>
     <lastmod>2006-11-28T14:01:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/28/dear-kevin-mcgarry-of-the-revenue-commissioners/</loc>
     <lastmod>2006-11-28T11:13:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/28/backups-onto-dl-disks-not-a-good-idea/</loc>
     <lastmod>2006-11-28T10:51:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/28/recommended-vendors-list/</loc>
     <lastmod>2006-11-28T09:48:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/28/i-cannot-run-a-business-at-5-kbs/</loc>
     <lastmod>2006-11-28T09:45:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/24/whats-up-with-vodafone/</loc>
     <lastmod>2006-11-24T16:08:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/18/barcamp-ireland-south-east-coming-q1-07/</loc>
     <lastmod>2006-11-18T12:03:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/13/salims-new-baby-confabb-the-conference-community/</loc>
     <lastmod>2006-11-13T19:38:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/08/fon-up-and-running-in-bandon/</loc>
     <lastmod>2006-11-08T19:59:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/08/putplace-now-accepting-pre-registration/</loc>
     <lastmod>2006-11-08T09:26:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/07/the-loudervoice-de-cloaking-process-begins/</loc>
     <lastmod>2006-11-07T19:04:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/01/irish-tech-brain-trust/</loc>
     <lastmod>2006-11-01T11:33:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/11/01/designing-interactions/</loc>
     <lastmod>2006-11-01T08:11:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/31/wow-google-acquires-jotspot/</loc>
     <lastmod>2006-10-31T15:21:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/31/comments-from-april-to-september-back-online-and-sxore-remover-now-available-here/</loc>
     <lastmod>2006-10-31T10:18:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/30/jespere-que-je-serai-present-a-le-web-3/</loc>
     <lastmod>2006-10-30T10:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/25/techcrunch-uk-to-become-techcrunch-uk-ireland/</loc>
     <lastmod>2006-10-25T11:02:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/25/google-reader-impressing-but/</loc>
     <lastmod>2006-10-25T09:20:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/24/nice-one-from-skype/</loc>
     <lastmod>2006-10-24T12:54:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/23/the-case-of-the-incredible-disappearing-blog-post/</loc>
     <lastmod>2006-10-23T13:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/15/the-outsourcing-adventure-part-2/</loc>
     <lastmod>2006-10-15T10:47:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/15/the-outsourcing-adventure-part-1/</loc>
     <lastmod>2006-10-15T10:30:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/13/and-we-appear-to-be-back/</loc>
     <lastmod>2006-10-13T08:16:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/12/i-think-ill-get-my-zx-spectrum-and-v22-modem-from-the-attic/</loc>
     <lastmod>2006-10-12T07:51:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/12/72-hours-later/</loc>
     <lastmod>2006-10-12T05:59:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/10/im-paying-for-this-rubbish/</loc>
     <lastmod>2006-10-10T19:52:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/03/real-world-live-clipboard/</loc>
     <lastmod>2006-10-03T19:50:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/03/windows-live-writer-now-supports-microformats/</loc>
     <lastmod>2006-10-03T19:19:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/03/personal-highlights-from-barcamp/</loc>
     <lastmod>2006-10-03T08:37:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/10/01/barcamp-ireland-thank-you/</loc>
     <lastmod>2006-10-01T22:09:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/25/barcamp-ireland-1-shaping-up-to-be-a-big-success/</loc>
     <lastmod>2006-09-25T09:31:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/18/multi-lingual-blogging/</loc>
     <lastmod>2006-09-18T09:38:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/17/enterprise-ireland-mentor-panel/</loc>
     <lastmod>2006-09-17T10:31:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/15/xfn-tweaks/</loc>
     <lastmod>2006-09-15T10:33:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/13/shel-israel-and-rick-segal-now-here-on-oct-17th/</loc>
     <lastmod>2006-09-13T12:34:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/11/end-of-our-sxore-experiment/</loc>
     <lastmod>2006-09-11T09:17:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/11/dconstruct-2006-well-worth-the-trip/</loc>
     <lastmod>2006-09-11T08:36:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/07/barcampireland-blog-goes-live/</loc>
     <lastmod>2006-09-07T10:27:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/07/were-off-to-see-the-wizards/</loc>
     <lastmod>2006-09-07T07:45:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/04/blog-platforms-and-microformats/</loc>
     <lastmod>2006-09-04T07:45:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/09/03/mail-glitch/</loc>
     <lastmod>2006-09-03T18:22:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/31/barcampireland-update/</loc>
     <lastmod>2006-08-31T12:17:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/25/more-microformats-gems/</loc>
     <lastmod>2006-08-25T16:10:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/22/all-marketers-are-snakes/</loc>
     <lastmod>2006-08-22T19:04:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/22/irish-traditional-music-and-web-design/</loc>
     <lastmod>2006-08-22T08:00:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/22/structured-blogging-is-back/</loc>
     <lastmod>2006-08-22T07:35:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/categories/structuredblogging/</loc>
     <lastmod>2006-08-22T07:35:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/20/ict-champions-scheme/</loc>
     <lastmod>2006-08-20T11:19:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/20/featuritis/</loc>
     <lastmod>2006-08-20T08:48:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/live-writer/</loc>
     <lastmod>2006-08-14T07:59:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/14/windows-live-writer/</loc>
     <lastmod>2006-08-14T07:59:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/windows-live-writer/</loc>
     <lastmod>2006-08-14T07:59:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bt/</loc>
     <lastmod>2006-08-12T14:33:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/12/bt-ireland-the-good-and-the-bad/</loc>
     <lastmod>2006-08-12T14:33:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bt-ireland/</loc>
     <lastmod>2006-08-12T14:33:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/esat/</loc>
     <lastmod>2006-08-12T14:33:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/esatbt/</loc>
     <lastmod>2006-08-12T14:33:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/total-talk/</loc>
     <lastmod>2006-08-12T14:33:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/dick-hardt/</loc>
     <lastmod>2006-08-07T22:22:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/07/excellent-new-sxore-features/</loc>
     <lastmod>2006-08-07T22:22:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/identity-2.0/</loc>
     <lastmod>2006-08-07T22:22:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/myopenid/</loc>
     <lastmod>2006-08-07T22:22:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pip/</loc>
     <lastmod>2006-08-07T22:22:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sxip/</loc>
     <lastmod>2006-08-07T22:22:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sxore/</loc>
     <lastmod>2006-08-07T22:22:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mediawiki/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/moinmoin/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pbwiki/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/socialtext/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/socialtext-open/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wdd/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wiki/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/08/04/wiki-driven-development-wdd/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/wiki-driven-development/</loc>
     <lastmod>2006-08-04T08:06:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/27/rick-segal-shel-israel-in-cork-on-sept-9th/</loc>
     <lastmod>2006-07-27T12:52:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rick-segal/</loc>
     <lastmod>2006-07-27T12:52:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/shel-israel/</loc>
     <lastmod>2006-07-27T12:52:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/digg/</loc>
     <lastmod>2006-07-26T09:46:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/26/has-netscapecom-been-hacked/</loc>
     <lastmod>2006-07-26T09:46:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jason-calacanis/</loc>
     <lastmod>2006-07-26T09:46:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/netscape/</loc>
     <lastmod>2006-07-26T09:46:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/netscape.com/</loc>
     <lastmod>2006-07-26T09:46:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hresume/</loc>
     <lastmod>2006-07-26T08:34:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/26/its-all-about-you/</loc>
     <lastmod>2006-07-26T08:34:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pcek/</loc>
     <lastmod>2006-07-26T08:34:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/peck/</loc>
     <lastmod>2006-07-26T08:34:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tim-bray/</loc>
     <lastmod>2006-07-26T08:34:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/business-angel-partnership/</loc>
     <lastmod>2006-07-25T19:06:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/25/must-read-post-over-at-the-itnorthwest-blog/</loc>
     <lastmod>2006-07-25T19:06:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/technorati/</loc>
     <lastmod>2006-07-24T15:30:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/24/technorati-re-design-mini-review/</loc>
     <lastmod>2006-07-24T15:30:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/technoratifeedback/</loc>
     <lastmod>2006-07-24T15:30:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/24/barcamp-ireland/</loc>
     <lastmod>2006-07-24T15:22:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/barcamp-ireland/</loc>
     <lastmod>2006-07-24T15:22:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/24/carson-workshops-a-z-how-to-build-a-web-app/</loc>
     <lastmod>2006-07-24T09:46:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/carson-workshops/</loc>
     <lastmod>2006-07-24T09:46:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gillian-carson/</loc>
     <lastmod>2006-07-24T09:46:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/how-to-build-a-webapp/</loc>
     <lastmod>2006-07-24T09:46:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nearshoring/</loc>
     <lastmod>2006-07-20T11:48:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nearsourcing/</loc>
     <lastmod>2006-07-20T11:48:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/20/recommendations-for-web-application-development-shops/</loc>
     <lastmod>2006-07-20T11:48:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web-application/</loc>
     <lastmod>2006-07-20T11:48:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/dead2.0/</loc>
     <lastmod>2006-07-17T21:39:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/dot-bomb/</loc>
     <lastmod>2006-07-17T21:39:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/17/looks-like-we-are-not-a-dot-bomb-20/</loc>
     <lastmod>2006-07-17T21:39:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/15/key-web-developer-required/</loc>
     <lastmod>2006-07-15T09:48:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/feedburner/</loc>
     <lastmod>2006-07-14T19:35:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/14/feedburner-buying-nooked/</loc>
     <lastmod>2006-07-14T19:35:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/fergus-burns/</loc>
     <lastmod>2006-07-14T19:35:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/valleywag/</loc>
     <lastmod>2006-07-14T19:35:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/agile/</loc>
     <lastmod>2006-07-14T07:53:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gantt/</loc>
     <lastmod>2006-07-14T07:53:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ken-schwaber/</loc>
     <lastmod>2006-07-14T07:53:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/scrum/</loc>
     <lastmod>2006-07-14T07:53:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/14/use-of-scrum-with-outsourcers/</loc>
     <lastmod>2006-07-14T07:53:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/atom/</loc>
     <lastmod>2006-07-06T07:40:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/identity/</loc>
     <lastmod>2006-07-06T07:40:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/06/whats-the-story-with-sxore/</loc>
     <lastmod>2006-07-06T07:40:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/discuss.microsoft.com/</loc>
     <lastmod>2006-07-05T22:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/discussms.hosting.lsoft.com/</loc>
     <lastmod>2006-07-05T22:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/05/live-clipboard-mailing-list-changed/</loc>
     <lastmod>2006-07-05T22:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/live-clip/</loc>
     <lastmod>2006-07-05T22:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/live-clipboard/</loc>
     <lastmod>2006-07-05T22:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mailing-list/</loc>
     <lastmod>2006-07-05T22:24:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/armangil/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/awasu/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/blogbridge/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ipodder/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/itunes/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/juice/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/podcatcher/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/04/podcatchers-that-support-atom-10/</loc>
     <lastmod>2006-07-04T22:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/d.construct/</loc>
     <lastmod>2006-07-04T13:35:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/04/dconstruct-conference-2006-on-in-brighton-this-autumn/</loc>
     <lastmod>2006-07-04T13:35:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/02/building-a-community-the-11-rules/</loc>
     <lastmod>2006-07-01T23:19:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/horsepigcow/</loc>
     <lastmod>2006-07-01T23:19:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/marc-canter/</loc>
     <lastmod>2006-07-01T23:19:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/peopleaggregator/</loc>
     <lastmod>2006-07-01T23:19:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/agent/</loc>
     <lastmod>2006-07-01T10:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bloglines/</loc>
     <lastmod>2006-07-01T10:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/07/01/does-a-threaded-rss-reader-exist/</loc>
     <lastmod>2006-07-01T10:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/forte-agent/</loc>
     <lastmod>2006-07-01T10:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rojo/</loc>
     <lastmod>2006-07-01T10:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/threaded/</loc>
     <lastmod>2006-07-01T10:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/usenet/</loc>
     <lastmod>2006-07-01T10:28:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/beta-3/</loc>
     <lastmod>2006-06-30T19:07:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/beta3/</loc>
     <lastmod>2006-06-30T19:07:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/30/fix-for-ie7-beta-3-install-problems/</loc>
     <lastmod>2006-06-30T19:07:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ie-7/</loc>
     <lastmod>2006-06-30T19:07:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/install-failed/</loc>
     <lastmod>2006-06-30T19:07:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/installation/</loc>
     <lastmod>2006-06-30T19:07:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/problem/</loc>
     <lastmod>2006-06-30T19:07:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/27/further-peopleaggregator-thoughts/</loc>
     <lastmod>2006-06-27T19:21:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/27/peopleaggregator-goes-live-and-there-goes-conors-tuesday/</loc>
     <lastmod>2006-06-27T07:58:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/26/an-example-is-worth-its-weight-in-gold/</loc>
     <lastmod>2006-06-26T08:33:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/21/this-is-huge-yahoo-local-supports-microformats/</loc>
     <lastmod>2006-06-21T21:12:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/yahoo-local/</loc>
     <lastmod>2006-06-21T21:12:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/donncha-ocaoimh/</loc>
     <lastmod>2006-06-10T18:26:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/10/itcork-web20-conference-qa-and-final-comment/</loc>
     <lastmod>2006-06-10T18:26:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/asp.net/</loc>
     <lastmod>2006-06-10T16:15:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/atlas/</loc>
     <lastmod>2006-06-10T16:15:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/10/itcork-web20-conference-rob-burke/</loc>
     <lastmod>2006-06-10T16:15:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/microsoft/</loc>
     <lastmod>2006-06-10T16:15:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/robert-burke/</loc>
     <lastmod>2006-06-10T16:15:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/10/itcork-web20-conference-walter-higgins/</loc>
     <lastmod>2006-06-10T15:02:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pxn8/</loc>
     <lastmod>2006-06-10T15:02:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/walter-higgins/</loc>
     <lastmod>2006-06-10T15:02:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/10/itcork-web20-conference-fergus-burns/</loc>
     <lastmod>2006-06-10T13:49:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/10/itcork-web20-conference-salim-ismail/</loc>
     <lastmod>2006-06-10T12:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pubsub/</loc>
     <lastmod>2006-06-10T12:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/salim-ismail/</loc>
     <lastmod>2006-06-10T12:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/structured-blogging/</loc>
     <lastmod>2006-06-10T12:36:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cluetrain/</loc>
     <lastmod>2006-06-10T09:55:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hugh-mcleod/</loc>
     <lastmod>2006-06-10T09:55:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/10/itcork-web20-conference-shel-israel/</loc>
     <lastmod>2006-06-10T09:55:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/naked-conversations/</loc>
     <lastmod>2006-06-10T09:55:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/10/itcork-web20-conference-review-intro/</loc>
     <lastmod>2006-06-10T09:31:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hcalendar/</loc>
     <lastmod>2006-06-01T04:46:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hcard/</loc>
     <lastmod>2006-06-01T04:46:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/microformats-search/</loc>
     <lastmod>2006-06-01T04:46:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tantek/</loc>
     <lastmod>2006-06-01T04:46:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/06/01/technorati-microformats-search-review/</loc>
     <lastmod>2006-06-01T04:46:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/endo/</loc>
     <lastmod>2006-05-14T14:50:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ical/</loc>
     <lastmod>2006-05-14T14:50:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/05/14/nice-movie-of-a-microformat-aware-application/</loc>
     <lastmod>2006-05-14T14:50:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/05/14/microformat-and-live-clipboard-roundup/</loc>
     <lastmod>2006-05-14T13:03:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mrc/</loc>
     <lastmod>2006-05-14T13:03:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/s3/</loc>
     <lastmod>2006-05-14T13:03:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/digital-identity/</loc>
     <lastmod>2006-05-01T08:35:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/digital-identity-2.0/</loc>
     <lastmod>2006-05-01T08:35:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/infocard/</loc>
     <lastmod>2006-05-01T08:35:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/kim-cameron/</loc>
     <lastmod>2006-05-01T08:35:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/05/01/sxore-sxip-and-digital-identity/</loc>
     <lastmod>2006-05-01T08:35:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/30/web-20-conference-dublin-much-food-for-thought/</loc>
     <lastmod>2006-04-30T09:51:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/25/the-four-steps-to-uf-and-sb-adoption/</loc>
     <lastmod>2006-04-25T21:26:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/24/hcard-chicken-and-egg/</loc>
     <lastmod>2006-04-24T22:46:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/talkcrunch/</loc>
     <lastmod>2006-04-24T22:46:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/19/google-calendar-vs-hcalendar/</loc>
     <lastmod>2006-04-19T21:57:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/18/geek-meetup-before-web20-conference-in-dublin/</loc>
     <lastmod>2006-04-18T21:59:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/17/web20-conference-in-dublin/</loc>
     <lastmod>2006-04-17T17:58:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/airset/</loc>
     <lastmod>2006-04-14T19:09:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/eventful/</loc>
     <lastmod>2006-04-14T19:09:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/flock/</loc>
     <lastmod>2006-04-14T19:09:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/google-calendar/</loc>
     <lastmod>2006-04-14T19:09:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/greasemonkey/</loc>
     <lastmod>2006-04-14T19:09:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/14/hcalendar-google-calendar-and-greasemonkey/</loc>
     <lastmod>2006-04-14T19:09:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/04/04/sxore-install-test/</loc>
     <lastmod>2006-04-04T09:48:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/arch/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/arx/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/clearcase/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cvs/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mototone/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/perforce/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rcs/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sccs/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/scm/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/subversion/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/03/23/version-control-everything/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/version-control/</loc>
     <lastmod>2006-03-23T12:44:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/03/15/the-first-of-many-changes/</loc>
     <lastmod>2006-03-15T07:54:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/efficiency/</loc>
     <lastmod>2006-02-07T08:33:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/esx/</loc>
     <lastmod>2006-02-07T08:33:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/02/07/free-vmware-server-transform-your-software-development-efficiency/</loc>
     <lastmod>2006-02-07T08:33:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/gsx/</loc>
     <lastmod>2006-02-07T08:33:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/software-test/</loc>
     <lastmod>2006-02-07T08:33:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/vmware/</loc>
     <lastmod>2006-02-07T08:33:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/j2ee/</loc>
     <lastmod>2006-02-04T17:56:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jobs/</loc>
     <lastmod>2006-02-04T17:56:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/oidsjp/</loc>
     <lastmod>2006-02-04T17:56:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/02/04/potential-need-for-contract-developers/</loc>
     <lastmod>2006-02-04T17:56:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/02/04/disintermediation-of-job-sites/</loc>
     <lastmod>2006-02-04T15:09:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/eirepreneur/</loc>
     <lastmod>2006-02-04T15:09:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opml/</loc>
     <lastmod>2006-02-04T15:09:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/guy-kawasaki/</loc>
     <lastmod>2006-02-04T11:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/listening/</loc>
     <lastmod>2006-02-04T11:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/schmoozing/</loc>
     <lastmod>2006-02-04T11:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/selling/</loc>
     <lastmod>2006-02-04T11:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/02/04/selling-with-your-ears/</loc>
     <lastmod>2006-02-04T11:14:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/dave-hitz/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/emc/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/glasshouse/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hds/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hitachi-data-systems/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hp/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/hu-yoshida/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ibm/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/netapp/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/network-appliance/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/partners/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/services/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/storage/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/01/24/the-first-major-strorage-industry-blog/</loc>
     <lastmod>2006-01-24T21:52:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/enterprise-software/</loc>
     <lastmod>2006-01-05T21:23:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/open-source/</loc>
     <lastmod>2006-01-05T21:23:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/predictions-2006/</loc>
     <lastmod>2006-01-05T21:23:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2006/01/05/the-future-of-enterprise-software/</loc>
     <lastmod>2006-01-05T21:23:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/act/</loc>
     <lastmod>2005-12-22T07:51:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/12/22/great-news-for-s3/</loc>
     <lastmod>2005-12-22T07:51:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ida/</loc>
     <lastmod>2005-12-22T07:51:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/meebo/</loc>
     <lastmod>2005-12-22T07:51:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sequoia-capital/</loc>
     <lastmod>2005-12-22T07:51:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/silicon-and-software-systems/</loc>
     <lastmod>2005-12-22T07:51:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/db/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/firebird/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/12/10/inquirer-open-source-database-roundup/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/msql/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mysql/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/oracle/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/postgresql/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/rdbms/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sql-server/</loc>
     <lastmod>2005-12-10T01:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/cherrypy/</loc>
     <lastmod>2005-12-10T00:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/database/</loc>
     <lastmod>2005-12-10T00:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/mochikit/</loc>
     <lastmod>2005-12-10T00:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sqlobject/</loc>
     <lastmod>2005-12-10T00:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/turbogears/</loc>
     <lastmod>2005-12-10T00:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/12/10/turbogears-well-worth-a-look/</loc>
     <lastmod>2005-12-10T00:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/web-applications/</loc>
     <lastmod>2005-12-10T00:51:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/coyote/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/eclipse/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/12/10/enterprise-readiness-of-jython/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/enterprise-level/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jydt/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jython/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/netbeans/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/pydev/</loc>
     <lastmod>2005-12-10T00:36:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/database-api/</loc>
     <lastmod>2005-12-10T00:11:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/odbc/</loc>
     <lastmod>2005-12-10T00:11:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/12/10/open-issues-on-python-development/</loc>
     <lastmod>2005-12-10T00:11:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/activestate/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/bi/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/business-intelligence/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/opsware/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/perl/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/productivity/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/propylon/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tcl/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/12/10/the-power-of-so-called-scripting-languages/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/tk/</loc>
     <lastmod>2005-12-09T23:46:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/11/17/tom-raftery-interview-with-scoble-podcast/</loc>
     <lastmod>2005-11-17T08:53:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/birt/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/business-objects/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/crystal-reports/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/data-center/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/infrastructure/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ireport/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/jasperreports/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/11/08/opensource-nipping-at-business-objects-heels/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/openreports/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/reporting/</loc>
     <lastmod>2005-11-08T09:20:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/aperi/</loc>
     <lastmod>2005-11-03T10:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/11/03/aperi-nice-idea-but-will-it-fly/</loc>
     <lastmod>2005-11-03T10:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/appiq/</loc>
     <lastmod>2005-11-03T10:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/ecc/</loc>
     <lastmod>2005-11-03T10:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/srm/</loc>
     <lastmod>2005-11-03T10:25:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/dbms/</loc>
     <lastmod>2005-11-03T06:30:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/express/</loc>
     <lastmod>2005-11-03T06:30:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/11/03/oracle-launches-oracle-10g-express-edition-big-news-or-little/</loc>
     <lastmod>2005-11-03T06:30:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/sqlserver/</loc>
     <lastmod>2005-11-03T06:30:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/toad/</loc>
     <lastmod>2005-11-03T06:30:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/10/25/cmdb-plateau-of-productivity-10-years-out/</loc>
     <lastmod>2005-10-25T10:42:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/businessintelligence/</loc>
     <lastmod>2005-10-06T12:49:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/custom/</loc>
     <lastmod>2005-10-06T12:49:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/10/06/enterprise-it-really-dying/</loc>
     <lastmod>2005-10-06T12:49:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/adaptec/</loc>
     <lastmod>2005-10-06T09:32:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/10/06/adaptec-getting-rid-of-snap-and-eurologic/</loc>
     <lastmod>2005-10-06T09:32:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/engenio/</loc>
     <lastmod>2005-10-06T09:32:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/eurologic/</loc>
     <lastmod>2005-10-06T09:32:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/nas/</loc>
     <lastmod>2005-10-06T09:32:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/netwin/</loc>
     <lastmod>2005-10-06T09:32:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/tags/snap/</loc>
     <lastmod>2005-10-06T09:32:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/09/28/argolon-solutions-joins-itcork/</loc>
     <lastmod>2005-09-27T23:08:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/09/26/seeking-oracle-and-sql-server-developers/</loc>
     <lastmod>2005-09-26T13:30:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/09/26/consulting-without-implementing/</loc>
     <lastmod>2005-09-26T13:18:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/09/21/10-ways-to-get-offshoring-right/</loc>
     <lastmod>2005-09-21T07:42:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/25/the-outsourcing-adventure/</loc>
     <lastmod>2005-08-25T10:30:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/25/byte-switch-top-10/</loc>
     <lastmod>2005-08-25T10:12:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/25/argolon-now-has-a-delicious-page/</loc>
     <lastmod>2005-08-25T10:01:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/25/is-indias-outsourcing-honeymoon-over/</loc>
     <lastmod>2005-08-25T08:36:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/23/look-whos-laughing-now/</loc>
     <lastmod>2005-08-23T11:56:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/14/what-if-visicalc-had-been-patented/</loc>
     <lastmod>2005-08-14T14:10:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/11/business-objects-launches-bi-platform-for-linux/</loc>
     <lastmod>2005-08-11T08:10:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/10/eds-on-10-indicators-of-a-troubled-project/</loc>
     <lastmod>2005-08-10T21:21:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/08/opsware-introduces-new-global-shell-technology/</loc>
     <lastmod>2005-08-08T21:06:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/08/vmware-announces-long-list-of-virtualization-partners/</loc>
     <lastmod>2005-08-08T18:30:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/08/08/public-launch-of-argolon-solutions-blog-based-site/</loc>
     <lastmod>2005-08-08T14:53:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/06/29/storage-virtualization/</loc>
     <lastmod>2005-06-29T21:33:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/2005/06/20/hello-world/</loc>
     <lastmod>2005-06-20T21:19:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://argolon.com/about/</loc>
   </url>
-  
 </urlset>
